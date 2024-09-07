@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
   location         : "Milano"
-  employer         : "Pegaso University"
-  uri              : #URL
+  employer         : 
+  uri              : # URL
   email            : "robertarosa.valtorta@unipegaso.it" 
 
   # Academic websites
