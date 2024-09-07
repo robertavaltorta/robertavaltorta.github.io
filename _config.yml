@@ -27,7 +27,7 @@ author:
   bio              : "Assistant Professor"
   location         : "Milano"
   employer         : "Pegaso University"
-  uri              : "https://www.unipegaso.it/"
+  uri              : #
   email            : "robertarosa.valtorta@unipegaso.it" 
 
   # Academic websites
@@ -216,10 +216,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
