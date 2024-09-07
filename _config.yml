@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Roberta Rosa Valtorta"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "Assistant Professor"
   location         : "Milano"
   employer         : 
