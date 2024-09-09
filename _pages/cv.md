@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="{{ site.baseurl }}/files/yourdoc.pdf" width="600" height="700" type='application/pdf'> 
+
 Education
 ======
 * PhD in Social Psychology, University of Milano-Bicocca, 2019
