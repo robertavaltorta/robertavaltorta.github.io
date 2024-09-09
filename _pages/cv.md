@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Social Psychology, University of Milano-Bicocca, 2019
+* MSc in Social Psychology, University of Milano-Bicocca, 2014
+* BA in Communication and Psychology, University of Milano-Bicocca, 2011
 
 Work experience
 ======
