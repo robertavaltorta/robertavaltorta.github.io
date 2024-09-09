@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-<embed src="files/paper1.pdf" type="application/pdf" />
+<embed src="/files/paper1.pdf" type="application/pdf" />
