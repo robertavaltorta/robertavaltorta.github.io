@@ -18,10 +18,12 @@ Education
 Work experience
 ======
 * Aug. 2024 - now: Assistant Professor
+  * Social Psychology
   * Pegaso University
   * Faculty of Human Sciences, Education and Sport
 
-* Mar. 2024 - now: Adjunct Professor
+* Mar. 2024 - now: Adjunct Professor 
+  * Social Psychology
   * University of Milano-Bicocca
   * Department of Psychology
  
