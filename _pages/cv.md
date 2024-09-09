@@ -9,16 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-##Education
+Education
 ======
 * PhD in Social Psychology, University of Milano-Bicocca, 2019
 * MSc in Social Psychology, University of Milano-Bicocca, 2014 (summa cum laude)
 * BA in Communication and Psychology, University of Milano-Bicocca, 2011
 
-##Work experience
+Work experience
 ======
-###Teaching experience
-======
+Teaching experience
 * Aug. 2024 - now: **Assistant Professor**
   * Pegaso University
   * Faculty of Human Sciences, Education and Sport
