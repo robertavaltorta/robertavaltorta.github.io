@@ -17,35 +17,39 @@ Education
 
 Work experience
 ======
-* Aug. 2024 - now: Assistant Professor
-  * Social Psychology
+Teaching experience
+* Aug. 2024 - now: **Assistant Professor**
   * Pegaso University
   * Faculty of Human Sciences, Education and Sport
 
-* Mar. 2024 - now: Adjunct Professor 
-  * Social Psychology
+* Mar. 2024 - now: **Adjunct Professor** 
   * University of Milano-Bicocca
   * Department of Psychology
  
-* Oct. 2016 - now: Subject Expert 
+* Oct. 2016 - now: **Subject Expert** in social psychology 
   * University of Milano-Bicocca
   * Department of Psychology
 
-* Oct. 2022 - Sept. 2024: Adjunct Professor
+* Oct. 2022 - Sept. 2024: **Adjunct Professor**
   * University of Trento
   * Department of Psychology and Cognitive Science
 
-* Apr. 2021 - Sept. 2021: Teaching Assistant
+* Apr. 2021 - Sept. 2021: **Teaching Assistant**
   * University of Milano-Bicocca
   * Department of Psychology
-
-* July 2019 - Jan. 2020: Postdoctoral Scholar
+    
+Research experience
+* Apr. 2020 - July 2024: **Postdoctoral Researcher**
+  * University of Milano-Bicocca
+  * Department of Psychology
+    
+* July 2019 - Jan. 2020: **Postdoctoral Scholar**
   * University of Valle d’Aosta
   * Department of Human and Social Science
 
 * Mar. 2018 - May 2018: Visiting PhD Student
   * Panteion University
-  * Department of Psychology,  
+  * Department of Psychology
   
 Skills
 ======
