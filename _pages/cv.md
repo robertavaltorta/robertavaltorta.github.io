@@ -12,25 +12,38 @@ redirect_from:
 Education
 ======
 * PhD in Social Psychology, University of Milano-Bicocca, 2019
-* MSc in Social Psychology, University of Milano-Bicocca, 2014
+* MSc in Social Psychology, University of Milano-Bicocca, 2014 (summa cum laude)
 * BA in Communication and Psychology, University of Milano-Bicocca, 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug. 2024 - now: Assistant Professor
+  * Pegaso University
+  * Faculty of Human Sciences, Education and Sport
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar. 2024 - now: Adjunct Professor
+  * University of Milano-Bicocca
+  * Department of Psychology
+ 
+* Oct. 2016 - now: Subject Expert 
+  * University of Milano-Bicocca
+  * Department of Psychology
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2022 - Sept. 2024: Adjunct Professor
+  * University of Trento
+  * Department of Psychology and Cognitive Science
+
+* Apr. 2021 - Sept. 2021: Teaching Assistant
+  * University of Milano-Bicocca
+  * Department of Psychology
+
+* July 2019 - Jan. 2020: Postdoctoral Scholar
+  * University of Valle d’Aosta
+  * Department of Human and Social Science
+
+* Mar. 2018 - May 2018: Visiting PhD Student
+  * Panteion University
+  * Department of Psychology,  
   
 Skills
 ======
