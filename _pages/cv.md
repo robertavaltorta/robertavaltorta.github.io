@@ -18,6 +18,7 @@ Education
 Work experience
 ======
 Teaching experience
+======
 * Aug. 2024 - now: **Assistant Professor**
   * Pegaso University
   * Faculty of Human Sciences, Education and Sport
@@ -37,8 +38,8 @@ Teaching experience
 * Apr. 2021 - Sept. 2021: **Teaching Assistant**
   * University of Milano-Bicocca
   * Department of Psychology
-    
 Research experience
+======
 * Apr. 2020 - July 2024: **Postdoctoral Researcher**
   * University of Milano-Bicocca
   * Department of Psychology
