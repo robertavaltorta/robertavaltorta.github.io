@@ -3,7 +3,7 @@ title: "On the indirect link between virus anthropomorphism and health behavior:
 collection: publications
 category: manuscripts
 permalink: /publication/Anthropomorphism and health behavior
-excerpt: 'By taking advantage of the last pandemic, the present research was intended to investigate the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors.'
+excerpt: 'By taking advantage of the last pandemic, the present research investigates the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors.'
 date: 2024-01-29
 venue: 'Acta Psychologica'
 paperurl: 'http://academicpages.github.io/files/Anthropomorphism and health behavior.pdf'
