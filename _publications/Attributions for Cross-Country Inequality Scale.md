@@ -2,7 +2,7 @@
 title: "Why are some countries rich and others poor? Development and validation of the Attributions for Cross-Country Inequality Scale (ACIS)"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/Attributions for Cross-Country Inequality Scale
 excerpt: 'This paper aims to develop and validate the Attributions for Cross-Country Inequality Scale (ACIS), which assesses how people explain cross-country economic inequality.'
 date: 2024-02-27
 venue: 'PloS one'
