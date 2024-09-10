@@ -1,5 +1,5 @@
 ---
-title: "On the indirect link between virus anthropomorphism and health behavior"
+title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
 collection: publications
 category: manuscripts
 permalink: /publication/anthropomorphism and health behavior
