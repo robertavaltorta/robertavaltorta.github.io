@@ -3,7 +3,7 @@ title: "Measuring subjective inequality: Development and validation of the Perce
 collection: publications
 category: manuscripts
 permalink: /publication/Perceived Economic Inequality Scale
-excerpt: 'The main goal of this research is to develop and validate the Perceived Economic Inequality Scale (PEIS), an instrument measuring perceptions of economic inequality at the national level.'
+excerpt: 'The main goal of this research is to develop and validate the Perceived Economic Inequality Scale (PEIS), an instrument measuring individuals’ perceptions of economic inequality at the national level.'
 date: 2024-02-05
 venue: 'The Spanish Journal of Psychology'
 paperurl: 'http://academicpages.github.io/files/PEIS.pdf'
