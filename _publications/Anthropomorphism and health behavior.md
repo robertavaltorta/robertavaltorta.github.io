@@ -1,5 +1,5 @@
 ---
-title: "Measuring subjective inequality: Development and validation of the Perceived Economic Inequality Scale (PEIS)"
+title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
 collection: publications
 category: manuscripts
 permalink: /publication/Perceived Economic Inequality Scale
