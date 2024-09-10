@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Anthropomorphism and health behavior
 excerpt: 'The main goal of this research is to develop and validate the Perceived Economic Inequality Scale (PEIS), an instrument measuring individuals’ perceptions of economic inequality at the national level.'
-date: 2024-02-05
+date: 2024-01-29
 venue: 'The Spanish Journal of Psychology'
 paperurl: 'http://academicpages.github.io/files/PEIS.pdf'
 citation: '<b>Valtorta, R. R.</b>, Vezzoli, M., Mari, S., Durante, F., & Volpato, C. (2024). Measuring subjective inequality: Development and validation of the Perceived Economic Inequality Scale (PEIS). <i>The Spanish Journal of Psychology, 27</i>, Article e2.'
