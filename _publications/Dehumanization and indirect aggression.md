@@ -1,13 +1,13 @@
 ---
-title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
+title: "Investigating the link between biological dehumanization and indirect aggression"
 collection: publications
 category: manuscripts
-permalink: /publication/Anthropomorphism and health behavior
-excerpt: 'By taking advantage of the last pandemic, the present research was intended to investigate the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors.'
-date: 2024-01-29
-venue: 'Acta Psychologica'
-paperurl: 'http://academicpages.github.io/files/PEIS.pdf'
-citation: '<b>Valtorta, R. R.</b>*, Orabona, N.*, & Paladino, M. P. (2024). On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic. <i>Acta Psychologica, 243</i>, Article 104155 [* equal contribution].'
+permalink: /publication/Dehumanization and indirect aggression
+excerpt: 'This research provides the first evidence of the link between biologization (i.e., a form of dehumanization in which others are perceived as contagious entities) and indirect aggression (i.e., behaviors intended to harm someone in a roundabout manner, such as excluding them from a group or society).'
+date: 2023-12-15
+venue: 'Journal of Community and Applied Social Psychology'
+paperurl: 'http://academicpages.github.io/files/Dehumanization and indirect aggression.pdf'
+citation: '<b>Valtorta, R. R.</b>, Baldissarri, C., & Volpato, C. (2024). Investigating the link between biological dehumanization and indirect aggression". <i>Journal of Community and Applied Social Psychology, 34</i>, Article e2761.'
 ---
 
-Experts and laypeople often describe pathogens and diseases by attributing to these nonhuman entities human-related qualities, mind states, intentions, and emotions (i.e., anthropomorphism). By taking advantage of the last pandemic, the present research was intended to investigate the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors. A severity pathway hypothesis (i.e., virus anthropomorphism is linked to higher engagement in preventive behaviors via higher perceived threat of the virus) and an effectiveness pathway hypothesis (i.e., virus anthropomorphism is associated with lower engagement in preventive behaviors via lower perceived effectiveness of such behaviors) were tested. Across two correlational studies (Study 1, _N_ = 392; Study 2, _N_ = 290), we found support only for the latter hypothesis. Study 2 further clarified the link assumed in the effectiveness pathway hypothesis, showing that anthropomorphism was associated with a decrease in the efficacy of preventive behaviors because attributing a mind to the virus diluted the relative sense of personal responsibility for contagion. A similar pattern of results emerged when we considered vaccination intention as the outcome. Contributions and implications of these findings for research on health behavior and anthropomorphism are discussed.
+The present research aims at expanding the literature on biologization (i.e., a form of dehumanization in which others are perceived as contagious entities) by providing the first empirical evidence of the link between this sociopsychological process and indirect aggression (i.e., behaviors intended to harm someone in a roundabout manner, such as excluding them from a group or society). We first identified the most dehumanized social groups in Italy. Then, by using cluster analysis, we demonstrated that biologized social groups (i.e., drug addicts, homeless people, prostitutes, and sick people) tend especially to be victims of indirect rather than direct aggression tendencies (i.e., intentions against individuals or groups to cause damage through face-to-face confrontation). Furthermore, we found that social groups associated with disease-related metaphors are more likely to be victims of indirect aggression than social groups perceived as animal-like (i.e., immigrants, prisoners, and Roma). These findings enrich our understanding of biological dehumanization and enhance the so far scarce literature on the topic.
