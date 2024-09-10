@@ -2,7 +2,7 @@
 title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
 collection: publications
 category: manuscripts
-permalink: /publication/Perceived Economic Inequality Scale
+permalink: /publication/Anthropomorphism and health behavior
 excerpt: 'The main goal of this research is to develop and validate the Perceived Economic Inequality Scale (PEIS), an instrument measuring individuals’ perceptions of economic inequality at the national level.'
 date: 2024-02-05
 venue: 'The Spanish Journal of Psychology'
