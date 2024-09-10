@@ -1,4 +1,3 @@
-
 ---
 title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
 collection: publications
