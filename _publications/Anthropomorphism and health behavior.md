@@ -6,7 +6,7 @@ permalink: /publication/Anthropomorphism and health behavior
 excerpt: 'By taking advantage of the last pandemic, the present research was intended to investigate the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors.'
 date: 2024-01-29
 venue: 'Acta Psychologica'
-paperurl: 'http://academicpages.github.io/files/PEIS.pdf'
+paperurl: 'http://academicpages.github.io/files/Anthropomorphism and health behavior.pdf'
 citation: '<b>Valtorta, R. R.</b>*, Orabona, N.*, & Paladino, M. P. (2024). On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic. <i>Acta Psychologica, 243</i>, Article 104155 [* equal contribution].'
 ---
 
