@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Why are some countries rich and others poor? Development and validation of the Attributions for Cross-Country Inequality Scale (ACIS)"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
