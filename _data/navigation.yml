@@ -19,3 +19,4 @@ main:
     
   - title: "CV"
     url: /files/paper1.pdf
+    target: "_blank"
