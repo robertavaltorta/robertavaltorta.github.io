@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/paper1.pdf" type="application/pdf"></a>
+<a href="/files/paper1.pdf" target="_blank">PDF.</a>
 
 <!--
 
