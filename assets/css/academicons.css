@@ -15,7 +15,7 @@
         url('../fonts/academicons.woff') format('woff'),
         url('../fonts/academicons.svg') format('svg');
 }
-a {
+.a {
  border: none !important;
 }
 .ai {
