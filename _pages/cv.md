@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<href= "/files/paper1.pdf">
+<a href="/files/paper1.pdf"></a>
 
 <!--
 
