@@ -3,7 +3,7 @@ title: "Inequality perception and preferences globally and locally – Correlati
 collection: publications
 category: manuscripts
 permalink: /publication/Inequality perception and preferences globally and locally
-excerpt: 'This study uses a large, cross-country survey to examine how people's attitudes toward domestic economic inequality influence their views on cross-country economic disparities.'
+excerpt: "This study uses a large, cross-country survey to examine how people's attitudes toward domestic economic inequality influence their views on cross-country economic disparities."
 date: 2024-10-17
 venue: 'The Journal of Economic Inequality'
 paperurl: 'http://academicpages.github.io/files/Inequality perceptions.pdf'
