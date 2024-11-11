@@ -3,7 +3,7 @@ title: "The impacts of COVID-19 on the relationship between perceived economic i
 collection: publications
 category: manuscripts
 permalink: /publication/Covid and inequality
-excerpt: 'This study explores how the last pandemic influenced the relationship between perceived economic inequality and political participation. Results indicate that higher-class individuals were more likely to engage politically in response to perceived inequality, while the opposite effect was seen for lower-class individuals.'
+excerpt: 'This study explores how the COVID-19 pandemic influenced the relationship between perceived economic inequality and political participation. Results indicate that higher-class individuals were more likely to engage politically in response to perceived inequality, while the opposite effect was seen for lower-class individuals.'
 date: 2023-03-13
 venue: 'Frontiers in Political Science'
 paperurl: 'http://academicpages.github.io/files/Covid and inequality.pdf'
