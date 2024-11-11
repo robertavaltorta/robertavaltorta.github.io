@@ -1,13 +1,14 @@
 ---
-title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
+title: "Inequality perception and preferences globally and locally – Correlational evidence from a large-scale cross-country survey"
 collection: publications
 category: manuscripts
-permalink: /publication/Anthropomorphism and health behavior
+permalink: /publication/Inequality perception and preferences globally and locally
 excerpt: 'By taking advantage of the last pandemic, the present research investigates the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors.'
-date: 2024-01-29
-venue: 'Acta Psychologica'
-paperurl: 'http://academicpages.github.io/files/Anthropomorphism and health behavior.pdf'
-citation: '<b>Valtorta, R. R.</b>*, Orabona, N.*, & Paladino, M. P. (2024). On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic. <i>Acta Psychologica, 243</i>, Article 104155 [* equal contribution].'
+date: 2024-10-17
+venue: 'The Journal of Economic Inequality'
+paperurl: 'http://academicpages.github.io/files/Inequality perceptions.pdf'
+citation: 'Gáspár, A., Cervone, C., Durante, F., Maass, A., Suitner, C., <b>Valtorta, R. R.</b>, & Vezzoli, M. (2024). Inequality perception and preferences globally and locally – Correlational evidence from a large-scale cross-country survey. <i>The Journal of Economic Inequality</i>. Advance online publication.'
+
 ---
 
-Experts and laypeople often describe pathogens and diseases by attributing to these nonhuman entities human-related qualities, mind states, intentions, and emotions (i.e., anthropomorphism). By taking advantage of the last pandemic, the present research was intended to investigate the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors. A severity pathway hypothesis (i.e., virus anthropomorphism is linked to higher engagement in preventive behaviors via higher perceived threat of the virus) and an effectiveness pathway hypothesis (i.e., virus anthropomorphism is associated with lower engagement in preventive behaviors via lower perceived effectiveness of such behaviors) were tested. Across two correlational studies (Study 1, _N_ = 392; Study 2, _N_ = 290), we found support only for the latter hypothesis. Study 2 further clarified the link assumed in the effectiveness pathway hypothesis, showing that anthropomorphism was associated with a decrease in the efficacy of preventive behaviors because attributing a mind to the virus diluted the relative sense of personal responsibility for contagion. A similar pattern of results emerged when we considered vaccination intention as the outcome. 
+Using a large, representative survey involving 31 countries, we establish stylized facts about the attitudes toward cross-country economic inequality and their correlates. This question has been surprisingly understudied for a topic so important to our globalized century. We present a simple and intuitive theoretical framework for thinking about cross-country inequalities. Then, we show that people's perceived and desired levels of domestic inequality and their assessment of their relative socio-economic status closely correlate with how they think about cross-country economic differences. The objective socio-economic status of the individual matters less. Though the impact of country-level variables is less pronounced than individual characteristics, concern about cross-country economic inequality is stronger in more affluent countries and countries with lower income inequality. Our findings illustrate that attitudes toward international economic inequality are intrinsically linked to within-country characteristics, especially to attitudes toward domestic economic inequality. 
