@@ -3,7 +3,7 @@ title: "A twofold subjective measure of income inequality"
 collection: publications
 category: manuscripts
 permalink: /publication/A subjective measure of inequality
-excerpt: 'The article introduces a twofold subjective Gini coefficient that combines perceptions of social class and pay structure to more accurately measure beliefs about income inequality.'
+excerpt: 'The article introduces a "twofold subjective Gini coefficient" that combines perceptions of social class and pay structure to more accurately measure beliefs about income inequality.'
 date: 2023-05-11
 venue: 'Social Indicators Research'
 paperurl: 'http://academicpages.github.io/files/Twofold subjective measure.pdf'
