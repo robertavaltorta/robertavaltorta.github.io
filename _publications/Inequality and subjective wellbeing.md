@@ -1,13 +1,13 @@
 ---
-title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
+title: "Effects of objective and subjective indicators of economic inequality on subjective well-being: Underlying mechanisms"
 collection: publications
 category: manuscripts
-permalink: /publication/Anthropomorphism and health behavior
-excerpt: 'By taking advantage of the last pandemic, the present research investigates the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors.'
-date: 2024-01-29
-venue: 'Acta Psychologica'
-paperurl: 'http://academicpages.github.io/files/Anthropomorphism and health behavior.pdf'
-citation: '<b>Valtorta, R. R.</b>*, Orabona, N.*, & Paladino, M. P. (2024). On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic. <i>Acta Psychologica, 243</i>, Article 104155 [* equal contribution].'
+permalink: /publication/Inequality and subjective wellbeing
+excerpt: 'This study examines how objective and subjective measures of economic inequality influence individuals’ subjective well-being. Results indicate that perceived inequality negatively impacts well-being through anger and feelings of economic vulnerability, while the Gini index has no significant effect.'
+date: 2022-10-22
+venue: 'Journal of Applied Social Psychology'
+paperurl: 'http://academicpages.github.io/files/Inequality and subjective wellbeing.pdf'
+citation: 'Vezzoli, M., <b>Valtorta, R. R.</b>, Mari, S., Durante, F., & Volpato, C. (2023). Effects of objective and subjective indicators of economic inequality on subjective well-being: Underlying mechanisms. <i>Journal of Applied Social Psychology, 53,</i> 85-100.'
 ---
 
-Experts and laypeople often describe pathogens and diseases by attributing to these nonhuman entities human-related qualities, mind states, intentions, and emotions (i.e., anthropomorphism). By taking advantage of the last pandemic, the present research was intended to investigate the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors. A severity pathway hypothesis (i.e., virus anthropomorphism is linked to higher engagement in preventive behaviors via higher perceived threat of the virus) and an effectiveness pathway hypothesis (i.e., virus anthropomorphism is associated with lower engagement in preventive behaviors via lower perceived effectiveness of such behaviors) were tested. Across two correlational studies (Study 1, _N_ = 392; Study 2, _N_ = 290), we found support only for the latter hypothesis. Study 2 further clarified the link assumed in the effectiveness pathway hypothesis, showing that anthropomorphism was associated with a decrease in the efficacy of preventive behaviors because attributing a mind to the virus diluted the relative sense of personal responsibility for contagion. A similar pattern of results emerged when we considered vaccination intention as the outcome. 
+Much research found that economic inequality — the dispersion of incomes distribution among individuals in a society — affects subjective well-being (SWB). As a meta-analysis has shown, the association between economic inequality, commonly measured by the Gini index, and individuals’ SWB is weak and not significant. Psychosocial research suggests that the situational perception, rather than objective reality, has a greater impact on individuals. Our aim was to investigate whether and how objective and subjective measures of economic inequality affect the subjective individuals’ well-being, both in its affective and cognitive components. A representative Italian sample (_N_ = 1446, 51% women; average age = 42.42 years, _SD_ = 12.87) answered an online survey. Multilevel regressions detected a negative and significant effect of the inequality perception on well-being. In contrast, the Gini index showed no effect. Two psychological mechanisms explain the association between perceived inequality and well-being: Perceived anger toward inequality and individuals’ economic vulnerability. The parallel mediation models showed that the effect of perceived inequality is conveyed by cognitive (economic vulnerability) and emotional (anger) processing of inequality. Findings also highlighted the role of the ongoing COVID-19 pandemic.
