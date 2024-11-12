@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/Objectification and commitment
 excerpt: 'This study examines how objectifying job features in a supermarket setting lead to self-objectification and lower organizational commitment among workers with different roles.'
 date: 2023-02-28
-venue: "Europe’s Journal of Pscyhology"
+venue: "Europe’s Journal of Psychology"
 paperurl: 'http://academicpages.github.io/files/Objectification and commitment.pdf'
 citation: "<b>Valtorta, R. R.</b>, & Monaci, M. G. (2023). When workers feel like objects: A field study on self-objectification and affective organizational commitment. <i>Europe’s Journal of Psychology, 19</i>, 15-26."
 ---
