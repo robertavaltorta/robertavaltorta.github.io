@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of social psychology at [Pegaso University](https://www.unipegaso.it/) (IT) and an adjunct professor at the [University of Milano-Bicocca](https://en.unimib.it/) (IT). My main line of research focuses on **dehumanization**. Additionally, I am deeply interested in topics related to **gender-based violence**, **stereotypes**, and **economic inequality**.
+I am an assistant professor of social psychology at [Pegaso University](https://www.unipegaso.it/){:target="_blank"} (IT) and an adjunct professor at the [University of Milano-Bicocca](https://en.unimib.it/) (IT). My main line of research focuses on **dehumanization**. Additionally, I am deeply interested in topics related to **gender-based violence**, **stereotypes**, and **economic inequality**.
 
 My academic journey began in 2008 with a BA in Communication and Psychology, followed by an MSc in Social Psychology, both at the University of Milano-Bicocca. I completed my PhD in Social Psychology at the same institution in 2019, with a project on **dehumanization in the intergroup and work domains**. In the same year, I was honored with the “Best Doctoral Dissertation in Social Psychology” award by the Italian Association of Psychology. In 2023, I received the “Young Talents” award from the [Accademia Nazionale dei Lincei](https://www.lincei.it/en/institution) for my research on **workplace dehumanization**.
 
