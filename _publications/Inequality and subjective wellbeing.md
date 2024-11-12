@@ -3,7 +3,7 @@ title: "Effects of objective and subjective indicators of economic inequality on
 collection: publications
 category: manuscripts
 permalink: /publication/Inequality and subjective wellbeing
-excerpt: 'This study examines how objective and subjective measures of economic inequality affect individuals’ subjective well-being, with anger and feelings of economic vulnerability serving as mediators in this relationship.'
+excerpt: 'This study examines how objective and subjective measures of economic inequality affect individuals’ subjective well-being, focusing on how anger and feelings of economic vulnerability mediate this relationship.'
 date: 2022-10-22
 venue: 'Journal of Applied Social Psychology'
 paperurl: 'http://academicpages.github.io/files/Inequality and subjective wellbeing.pdf'
