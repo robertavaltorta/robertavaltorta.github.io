@@ -3,7 +3,7 @@ title: "When workers feel like objects: A field study on self-objectification an
 collection: publications
 category: manuscripts
 permalink: /publication/Objectification and commitment
-excerpt: 'This study examines how objectifying job features influence self-objectification and affective organizational commitment, finding that workers in low-status roles perceive their tasks as more objectifying, which reduces their commitment to the organization.'
+excerpt: 'This study examines how objectifying job features in a supermarket setting lead to self-objectification and lower organizational commitment among workers with different roles.'
 date: 2023-02-28
 venue: "Europe’s Journal of Pscyhology"
 paperurl: 'http://academicpages.github.io/files/Objectification and commitment.pdf'
