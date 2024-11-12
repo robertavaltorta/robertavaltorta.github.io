@@ -3,7 +3,7 @@ title: "Investigating the link between biological dehumanization and indirect ag
 collection: publications
 category: manuscripts
 permalink: /publication/Dehumanization and indirect aggression
-excerpt: 'This research provides the first evidence of the link between biologization (i.e., a form of dehumanization in which others are perceived as contagious entities) and indirect aggression (i.e., behaviors intended to harm someone in a roundabout manner, such as excluding them from a group or society).'
+excerpt: 'By considering the most dehumanized social groups in Italian society, this research explores the link between biologization (i.e., a form of dehumanization in which others are perceived as contagious entities) and indirect aggression.'
 date: 2023-12-15
 venue: 'Journal of Community and Applied Social Psychology'
 paperurl: 'http://academicpages.github.io/files/Dehumanization and indirect aggression.pdf'
