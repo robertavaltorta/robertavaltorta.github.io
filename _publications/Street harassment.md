@@ -3,7 +3,7 @@ title: "Street harassment and its negative psychological outcomes in an Italian 
 collection: publications
 category: manuscripts
 permalink: /publication/Street harassment
-excerpt: 'This research assesses the frequency of street harassment and explores its links to negative psychological effects, such as anxiety and self-objectification.'
+excerpt: 'This research assesses the frequency of street harassment and explores its links to negative psychological outcomes, such as anxiety and self-objectification.'
 date: 2022-09-15
 venue: 'Psicologia Sociale – Social Psychology Theory & Research'
 paperurl: 'http://academicpages.github.io/files/Street harassment.pdf'
