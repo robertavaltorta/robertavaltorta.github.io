@@ -1,13 +1,13 @@
 ---
-title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
+title: "Intergroup biologization and outgroup prejudice in the time of COVID‐19"
 collection: publications
 category: manuscripts
-permalink: /publication/Anthropomorphism and health behavior
-excerpt: 'By taking advantage of the last pandemic, the present research investigates the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors.'
-date: 2024-01-29
-venue: 'Acta Psychologica'
-paperurl: 'http://academicpages.github.io/files/Anthropomorphism and health behavior.pdf'
-citation: '<b>Valtorta, R. R.</b>*, Orabona, N.*, & Paladino, M. P. (2024). On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic. <i>Acta Psychologica, 243</i>, Article 104155 [* equal contribution].'
+permalink: /publication/Covid and prejudice
+excerpt: 'This study explores how the COVID-19 emergency influenced biologization (i.e., the perception of others as contagious entities) and outgroup prejudice in Italy, offering insights into the psychological dynamics at play during the pandemic.'
+date: 2021-08-30
+venue: 'Journal of Applied Social Psychology'
+paperurl: 'http://academicpages.github.io/files/Covid and prejudice.pdf'
+citation: '<b>Valtorta, R. R.</b>, Baldissarri, C., Volpato, C., & Andrighetto, L. (2022). Intergroup biologization and outgroup prejudice in the time of COVID‐19. >i>Journal of Applied Social Psychology, 52</i>, 37-50.'
 ---
 
-Experts and laypeople often describe pathogens and diseases by attributing to these nonhuman entities human-related qualities, mind states, intentions, and emotions (i.e., anthropomorphism). By taking advantage of the last pandemic, the present research was intended to investigate the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors. A severity pathway hypothesis (i.e., virus anthropomorphism is linked to higher engagement in preventive behaviors via higher perceived threat of the virus) and an effectiveness pathway hypothesis (i.e., virus anthropomorphism is associated with lower engagement in preventive behaviors via lower perceived effectiveness of such behaviors) were tested. Across two correlational studies (Study 1, _N_ = 392; Study 2, _N_ = 290), we found support only for the latter hypothesis. Study 2 further clarified the link assumed in the effectiveness pathway hypothesis, showing that anthropomorphism was associated with a decrease in the efficacy of preventive behaviors because attributing a mind to the virus diluted the relative sense of personal responsibility for contagion. A similar pattern of results emerged when we considered vaccination intention as the outcome. 
+Through two studies (_N_ = 602) conducted in Italy between February and March 2020, we examined the impact of the COVID-19 emergency on biologization - a form of dehumanization that involves the perception of others as contagious entities - and outgroup prejudice. Overall, results showed that higher emergency perception was associated with greater biologization toward the groups most affected by the virus, namely the Chinese outgroup and the Italian ingroup. In turn, biologization toward the outgroup increased prejudice against that group. We also found that when the pandemic hit Italy, the greater emergency perception was associated with increased emotional closeness with Chinese people, resulting in reduced biologization and prejudice toward them. However, these results held true only for Italian respondents who reported higher levels of ingroup biologization. Taken together, our findings contribute to the knowledge gaps of biologization and prejudice by also providing relevant insights into the ongoing health emergency.
