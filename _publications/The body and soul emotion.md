@@ -1,13 +1,13 @@
 ---
-title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
+title: "“The body and soul emotion” – The role of disgust in intergroup relations"
 collection: publications
 category: manuscripts
-permalink: /publication/Anthropomorphism and health behavior
-excerpt: 'By taking advantage of the last pandemic, the present research investigates the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors.'
-date: 2024-01-29
-venue: 'Acta Psychologica'
-paperurl: 'http://academicpages.github.io/files/Anthropomorphism and health behavior.pdf'
-citation: '<b>Valtorta, R. R.</b>*, Orabona, N.*, & Paladino, M. P. (2024). On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic. <i>Acta Psychologica, 243</i>, Article 104155 [* equal contribution].'
+permalink: /publication/The body and soul emotion
+excerpt: 'The study explores how different forms of disgust (physical vs. moral) affect aggressive intentions and dehumanization in intergroup relations.'
+date: 2018-07-13
+venue: 'TPM – Testing, Psychometrics, Methodology in Applied Psychology'
+paperurl: 'http://academicpages.github.io/files/The body and soul emotion.pdf'
+citation: '<b>Valtorta, R. R.</b>, & Volpato, C. (2018). “The body and soul emotion” – The role of disgust in intergroup relations. <i>TPM – Testing, Psychometrics, Methodology in Applied Psychology, 25</i>, 239-252.'
 ---
 
-Experts and laypeople often describe pathogens and diseases by attributing to these nonhuman entities human-related qualities, mind states, intentions, and emotions (i.e., anthropomorphism). By taking advantage of the last pandemic, the present research was intended to investigate the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors. A severity pathway hypothesis (i.e., virus anthropomorphism is linked to higher engagement in preventive behaviors via higher perceived threat of the virus) and an effectiveness pathway hypothesis (i.e., virus anthropomorphism is associated with lower engagement in preventive behaviors via lower perceived effectiveness of such behaviors) were tested. Across two correlational studies (Study 1, _N_ = 392; Study 2, _N_ = 290), we found support only for the latter hypothesis. Study 2 further clarified the link assumed in the effectiveness pathway hypothesis, showing that anthropomorphism was associated with a decrease in the efficacy of preventive behaviors because attributing a mind to the virus diluted the relative sense of personal responsibility for contagion. A similar pattern of results emerged when we considered vaccination intention as the outcome. 
+The present study aims to expand research on emotions in intergroup relations by exploring the impact of disgust on aggressive intentions and dehumanization. Starting from [Rozin and colleagues’ (1999)](https://psycnet.apa.org/record/1999-04021-021){:target="_blank"} conceptualization of disgust as “the body and soul emotion,” we hypothesized that different forms of disgust may affect judgments about others. Specifically, by manipulating group membership (ingroup vs. outgroup) and disgust experiences (physical disgust vs. moral disgust vs. non-disgusting condition), we assumed that physical and moral disgust may differently affect aggressive tendencies and dehumanizing perceptions toward the outgroup. As expected, results showed that physical disgust led to an unwillingness to engage in contact with an outgroup member, whereas moral disgust resulted in a desire to insult that member. Furthermore, we found that physical disgust increased the view of the outgroup member as a contagious entity, whereas moral disgust led to an increased association of that member with animalistic metaphors. The implications are discussed.
