@@ -1,13 +1,13 @@
 ---
-title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
+title: "The eternal feminine. Gender stereotypes and sexualization in television advertisements"
 collection: publications
 category: manuscripts
-permalink: /publication/Anthropomorphism and health behavior
-excerpt: 'By taking advantage of the last pandemic, the present research investigates the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors.'
-date: 2024-01-29
-venue: 'Acta Psychologica'
-paperurl: 'http://academicpages.github.io/files/Anthropomorphism and health behavior.pdf'
-citation: '<b>Valtorta, R. R.</b>*, Orabona, N.*, & Paladino, M. P. (2024). On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic. <i>Acta Psychologica, 243</i>, Article 104155 [* equal contribution].'
+permalink: /publication/The eternal feminine
+excerpt: 'This study examines gender stereotypes and sexualization in Italian television advertisements, revealing that women are portrayed as younger, more engaged in domestic roles, and more sensual, while men are depicted as sportier, more independent, and more competent. Please note that this publication is in Italian.'
+date: 2016-09-25
+venue: 'Psicologia Sociale – Social Psychology Theory & Research'
+paperurl: 'http://academicpages.github.io/files/The eternal feminine.pdf'
+citation: '<b>Valtorta, R. R.<b>, Sacino, A., Baldissarri, C., & Volpato, C. (2016). L’eterno femminino. Stereotipi di genere e sessualizzazione nella pubblicità televisiva [The eternal feminine. Gender stereotypes and sexualization in television advertisements]. <i>Psicologia Sociale – Social Psychology Theory & Research, 2</i>, 159-188.'
 ---
 
-Experts and laypeople often describe pathogens and diseases by attributing to these nonhuman entities human-related qualities, mind states, intentions, and emotions (i.e., anthropomorphism). By taking advantage of the last pandemic, the present research was intended to investigate the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors. A severity pathway hypothesis (i.e., virus anthropomorphism is linked to higher engagement in preventive behaviors via higher perceived threat of the virus) and an effectiveness pathway hypothesis (i.e., virus anthropomorphism is associated with lower engagement in preventive behaviors via lower perceived effectiveness of such behaviors) were tested. Across two correlational studies (Study 1, _N_ = 392; Study 2, _N_ = 290), we found support only for the latter hypothesis. Study 2 further clarified the link assumed in the effectiveness pathway hypothesis, showing that anthropomorphism was associated with a decrease in the efficacy of preventive behaviors because attributing a mind to the virus diluted the relative sense of personal responsibility for contagion. A similar pattern of results emerged when we considered vaccination intention as the outcome. 
+This study was designed to analyze gender stereotypes and sexualization in Italian television advertisements. A sample of 287 Italian television advertisements broadcast from 9pm to 10pm was analyzed. Findings indicate that women in Italian television advertising were portrayed as younger and more engaged in care-related activities in the home environment than men were. Instead, men were portrayed as sportier, more independent, and more competent than women. Furthermore, women were depicted as more sensual and attractive than men. Theoretical and practical implications are discussed also regarding the comparison between this study and similar studies conducted in the past. Please note that this publication is in Italian.
