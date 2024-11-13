@@ -6,7 +6,7 @@ permalink: /publication/Burnout and dehumanization
 excerpt: 'This study explores the psychological effects of the COVID-19 emergency on supermarket workers in Italy, focusing on burnout levels and the relationship between burnout and employees’ workplace experiences in terms of dehumanization.'
 date: 2021-11-29
 venue: 'Journal of Community and Applied Social Psychology'
-paperurl: 'http://academicpages.github.io/files/Anthropomorphism and health behavior.pdf'
+paperurl: 'http://academicpages.github.io/files/Burnout and dehumanization.pdf'
 citation: '<b>Valtorta, R. R.</b>, Baldissarri, C., & Volpato, C. (2022). Burnout and workplace dehumanization at the supermarket: A field study during the COVID-19 outbreak in Italy. <i>Journal of Community and Applied Social Psychology, 32</i>, 767-785.'
 ---
 
