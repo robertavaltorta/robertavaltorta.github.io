@@ -1,13 +1,13 @@
 ---
-title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
+title: "The dirty side of work: Biologization of physically tainted workers"
 collection: publications
 category: manuscripts
-permalink: /publication/Anthropomorphism and health behavior
-excerpt: 'By taking advantage of the last pandemic, the present research investigates the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors.'
-date: 2024-01-29
-venue: 'Acta Psychologica'
-paperurl: 'http://academicpages.github.io/files/Anthropomorphism and health behavior.pdf'
-citation: '<b>Valtorta, R. R.</b>*, Orabona, N.*, & Paladino, M. P. (2024). On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic. <i>Acta Psychologica, 243</i>, Article 104155 [* equal contribution].'
+permalink: /publication/The dirty side of work
+excerpt: 'This research investigates how dirty work environments contribute to increased feelings of disgust and biologization of physically tainted workers (e.g., garbage collectors), a form of dehumanization in which individuals are perceived as contagious entities.'
+date: 2019-04-16
+venue: 'International Review of Social Psychology'
+paperurl: 'http://academicpages.github.io/files/The dirty side of work.pdf'
+citation: '<b>Valtorta, R. R.</b>, Baldissarri, C., Andrighetto, L., & Volpato, C. (2019). The dirty side of work: Biologization of physically tainted workers. <i>International Review of Social Psychology, 32</i>, 1-13'
 ---
 
-Experts and laypeople often describe pathogens and diseases by attributing to these nonhuman entities human-related qualities, mind states, intentions, and emotions (i.e., anthropomorphism). By taking advantage of the last pandemic, the present research was intended to investigate the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors. A severity pathway hypothesis (i.e., virus anthropomorphism is linked to higher engagement in preventive behaviors via higher perceived threat of the virus) and an effectiveness pathway hypothesis (i.e., virus anthropomorphism is associated with lower engagement in preventive behaviors via lower perceived effectiveness of such behaviors) were tested. Across two correlational studies (Study 1, _N_ = 392; Study 2, _N_ = 290), we found support only for the latter hypothesis. Study 2 further clarified the link assumed in the effectiveness pathway hypothesis, showing that anthropomorphism was associated with a decrease in the efficacy of preventive behaviors because attributing a mind to the virus diluted the relative sense of personal responsibility for contagion. A similar pattern of results emerged when we considered vaccination intention as the outcome. 
+The present studies aim to expand research on dehumanization in the work domain by exploring biologization – an unexplored form of dehumanization that involves the perception of others as infected and contagious – of physically tainted workers. By integrating the literature on biologization with that of disgust and physically dirty work, we expected that the biologization of workers would be explained by their dirty work environment and by increased feelings of disgust towards them. In Study 1, we showed that focusing on a dirty work environment (vs. on the person performing the work) increased feelings of disgust towards workers and, in turn, their biologization. Coherently, in Study 2, we found that a physically tainted occupation (vs. baseline condition) increased participants’ feelings of disgust and biological dehumanization towards the worker. In contrast, a non-physically tainted occupation (vs. baseline condition) had no effects on disgust and biologization. The theoretical and practical implications are considered.
