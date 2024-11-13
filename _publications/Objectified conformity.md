@@ -1,13 +1,13 @@
 ---
-title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
+title: "Objectified conformity: Working self-objectification increases conforming behavior"
 collection: publications
 category: manuscripts
-permalink: /publication/Anthropomorphism and health behavior
-excerpt: 'By taking advantage of the last pandemic, the present research investigates the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors.'
-date: 2024-01-29
-venue: 'Acta Psychologica'
-paperurl: 'http://academicpages.github.io/files/Anthropomorphism and health behavior.pdf'
-citation: '<b>Valtorta, R. R.</b>*, Orabona, N.*, & Paladino, M. P. (2024). On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic. <i>Acta Psychologica, 243</i>, Article 104155 [* equal contribution].'
+permalink: /publication/Objectified conformity
+excerpt: "This study explores whether self-objectification from performing objectifying tasks increases conforming behavior, indicating that participants who engaged in a high objectifying task self-objectified more and conformed more to others’ judgments."
+date: 2018-02-13
+venue: 'Social Influence'
+paperurl: 'http://academicpages.github.io/files/Objectified conformity.pdf'
+citation: 'Andrighetto, L., Baldissarri, C., Gabbiadini, A., Sacino, A., <b>Valtorta, R. R.</b>, & Volpato, C. (2018). Objectified conformity: Working self-objectification increases conforming behavior. <i>Social Influence, 13</i>, 78-90.'
 ---
 
-Experts and laypeople often describe pathogens and diseases by attributing to these nonhuman entities human-related qualities, mind states, intentions, and emotions (i.e., anthropomorphism). By taking advantage of the last pandemic, the present research was intended to investigate the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors. A severity pathway hypothesis (i.e., virus anthropomorphism is linked to higher engagement in preventive behaviors via higher perceived threat of the virus) and an effectiveness pathway hypothesis (i.e., virus anthropomorphism is associated with lower engagement in preventive behaviors via lower perceived effectiveness of such behaviors) were tested. Across two correlational studies (Study 1, _N_ = 392; Study 2, _N_ = 290), we found support only for the latter hypothesis. Study 2 further clarified the link assumed in the effectiveness pathway hypothesis, showing that anthropomorphism was associated with a decrease in the efficacy of preventive behaviors because attributing a mind to the virus diluted the relative sense of personal responsibility for contagion. A similar pattern of results emerged when we considered vaccination intention as the outcome. 
+The present work explores whether self-objectification triggered by doing peculiar work activities would increase people’s conforming behavior. We conducted an experimental study in which participants (_N_ = 140) were asked to perform a high objectifying activity (vs. low objectifying activity vs. baseline condition) simulating a real computer job. Afterward, their levels of self-objectification and conforming behavior were assessed. Results revealed that participants who performed the high objectifying activity self-objectified (i.e., perceived themselves as lacking human mental states) more than the other conditions and, in turn, conformed more to the judgments of unknown similar others. Crucially, increased self-objectification mediated the effects of the high objectifying activity on enhancing conforming behavior. Theoretical and applied implications of these findings are discussed.
