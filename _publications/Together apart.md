@@ -1,13 +1,13 @@
 ---
-title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
+title: "Together apart: The mitigating role of digital communication technologies on negative affect during the COVID-19 outbreak in Italy"
 collection: publications
 category: manuscripts
-permalink: /publication/Anthropomorphism and health behavior
-excerpt: 'By taking advantage of the last pandemic, the present research investigates the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors.'
-date: 2024-01-29
-venue: 'Acta Psychologica'
-paperurl: 'http://academicpages.github.io/files/Anthropomorphism and health behavior.pdf'
-citation: '<b>Valtorta, R. R.</b>*, Orabona, N.*, & Paladino, M. P. (2024). On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic. <i>Acta Psychologica, 243</i>, Article 104155 [* equal contribution].'
+permalink: /publication/Together apart
+excerpt: 'This study explores how the use of digital communication technologies during the COVID-19 lockdown in Italy helped mitigate the negative psychological effects of forced social isolation.'
+date: 2020-10-21
+venue: 'Frontiers in Psychology'
+paperurl: 'http://academicpages.github.io/files/Together apart.pdf'
+citation: 'Gabbiadini, A., Baldissarri, C., Durante, F., <b>Valtorta, R. R.</b>, De Rosa, M., & Gallucci, M. (2020). Together apart: The mitigating role of digital communication technologies on negative affect during the COVID-19 outbreak in Italy. <i>Frontiers in Psychology, 11</i>, Article 2763.'
 ---
 
-Experts and laypeople often describe pathogens and diseases by attributing to these nonhuman entities human-related qualities, mind states, intentions, and emotions (i.e., anthropomorphism). By taking advantage of the last pandemic, the present research was intended to investigate the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors. A severity pathway hypothesis (i.e., virus anthropomorphism is linked to higher engagement in preventive behaviors via higher perceived threat of the virus) and an effectiveness pathway hypothesis (i.e., virus anthropomorphism is associated with lower engagement in preventive behaviors via lower perceived effectiveness of such behaviors) were tested. Across two correlational studies (Study 1, _N_ = 392; Study 2, _N_ = 290), we found support only for the latter hypothesis. Study 2 further clarified the link assumed in the effectiveness pathway hypothesis, showing that anthropomorphism was associated with a decrease in the efficacy of preventive behaviors because attributing a mind to the virus diluted the relative sense of personal responsibility for contagion. A similar pattern of results emerged when we considered vaccination intention as the outcome. 
+The ongoing pandemic of COVID-19 has forced governments to impose a lockdown, and many people have suddenly found themselves having to reduce their social relations drastically. Given the exceptional nature of similar situations, only a few studies have investigated the negative psychological effects of forced social isolation and how they can be mitigated in a real context. In the present study, we investigated whether the amount of digital communication technology use for virtual meetings (i.e., voice and video calls, online board games and multiplayer video games, or watching movies in party mode) during the lockdown promoted the perception of social support, which in itself mitigated the psychological effects of the lockdown in Italy. Data were collected in March 2020 (_N_ = 465), during the lockdown imposed to reduce the COVID-19 spread. The results indicated that the amount of digital technology use reduced feelings of loneliness, anger/irritability, and boredom and increased belongingness via the perception of social support. The present study supported the positive role of digital technologies in maintaining meaningful social relationships even during an extreme situation such as a lockdown. Implications such as the need to reduce the digital divide and possible consequences of the ongoing pandemic are discussed. 
