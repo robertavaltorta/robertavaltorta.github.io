@@ -1,13 +1,13 @@
 ---
-title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
+title: "Do self-objectified women believe themselves to be free? Sexual objectification and belief in personal free will"
 collection: publications
 category: manuscripts
-permalink: /publication/Anthropomorphism and health behavior
-excerpt: 'By taking advantage of the last pandemic, the present research investigates the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors.'
-date: 2024-01-29
-venue: 'Acta Psychologica'
-paperurl: 'http://academicpages.github.io/files/Anthropomorphism and health behavior.pdf'
-citation: '<b>Valtorta, R. R.</b>*, Orabona, N.*, & Paladino, M. P. (2024). On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic. <i>Acta Psychologica, 243</i>, Article 104155 [* equal contribution].'
+permalink: /publication/Sexual objectification and free will
+excerpt: 'This study explores the consequences of sexual objectification, showing that objectifying comments lead women to self-objectify, which in turn diminishes their sense of personal free will.'
+date: 2019-08-08
+venue: 'Frontiers in Psychology'
+paperurl: 'http://academicpages.github.io/files/Sexual objectification and free will.pdf'
+citation: 'Baldissarri, C., Andrighetto, L., Gabbiadini, A., <b>Valtorta, R. R.</b>, Sacino, A., & Volpato, C. (2019). Do self-objectified women believe themselves to be free? Sexual objectification and belief in personal free will. <i>Frontiers in Psychology, 10</i>, Article 1867.'
 ---
 
-Experts and laypeople often describe pathogens and diseases by attributing to these nonhuman entities human-related qualities, mind states, intentions, and emotions (i.e., anthropomorphism). By taking advantage of the last pandemic, the present research was intended to investigate the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors. A severity pathway hypothesis (i.e., virus anthropomorphism is linked to higher engagement in preventive behaviors via higher perceived threat of the virus) and an effectiveness pathway hypothesis (i.e., virus anthropomorphism is associated with lower engagement in preventive behaviors via lower perceived effectiveness of such behaviors) were tested. Across two correlational studies (Study 1, _N_ = 392; Study 2, _N_ = 290), we found support only for the latter hypothesis. Study 2 further clarified the link assumed in the effectiveness pathway hypothesis, showing that anthropomorphism was associated with a decrease in the efficacy of preventive behaviors because attributing a mind to the virus diluted the relative sense of personal responsibility for contagion. A similar pattern of results emerged when we considered vaccination intention as the outcome. 
+The present study aims to investigate the indirect link between sexual objectification and belief in personal free will. We hypothesized that being subjected to objectifying commentary would lead women to self-objectify and, in turn, to perceive themselves as having less personal free will. In this study, 105 women were asked to sign up a website created for this study by providing a personal description and a photo. After signing up, they received feedback from a fictitious male user. Depending on the condition, the comment was neutral (baseline), focused on their description (non-objectifying) or focused on their physical appearance (objectifying). The results showed that participants in the objectifying condition (vs. non-objectifying vs. baseline) self-objectified (i.e., perceived themselves as lacking human mental states and more as an instrument vs. a human) and, in turn, believed that they had less personal free will. The theoretical and practical implications of these findings for educators and therapists are discussed. 
