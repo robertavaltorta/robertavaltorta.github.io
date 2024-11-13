@@ -2,11 +2,11 @@
 title: "Effects of objective and subjective indicators of economic inequality on subjective well-being: Underlying mechanisms"
 collection: publications
 category: manuscripts
-permalink: /publication/Inequality and subjective wellbeing
+permalink: /publication/Inequality and subjective well-being
 excerpt: 'This study examines how objective and subjective measures of economic inequality affect individuals’ subjective well-being, focusing on how anger and feelings of economic vulnerability mediate this relationship.'
 date: 2022-10-22
 venue: 'Journal of Applied Social Psychology'
-paperurl: 'http://academicpages.github.io/files/Inequality and subjective wellbeing.pdf'
+paperurl: 'http://academicpages.github.io/files/Inequality and subjective well-being.pdf'
 citation: 'Vezzoli, M., <b>Valtorta, R. R.</b>, Mari, S., Durante, F., & Volpato, C. (2023). Effects of objective and subjective indicators of economic inequality on subjective well-being: Underlying mechanisms. <i>Journal of Applied Social Psychology, 53,</i> 85-100.'
 ---
 
