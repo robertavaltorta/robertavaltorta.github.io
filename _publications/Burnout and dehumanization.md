@@ -1,13 +1,13 @@
 ---
-title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
+title: "Burnout and workplace dehumanization at the supermarket: A field study during the COVID-19 outbreak in Italy"
 collection: publications
 category: manuscripts
-permalink: /publication/Anthropomorphism and health behavior
-excerpt: 'By taking advantage of the last pandemic, the present research investigates the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors.'
-date: 2024-01-29
-venue: 'Acta Psychologica'
+permalink: /publication/Burnout and dehumanization
+excerpt: 'This study explores the psychological effects of the COVID-19 emergency on supermarket workers in Italy, focusing on burnout levels and the relationship between burnout and employees’ workplace experiences in terms of dehumanization.'
+date: 2021-11-29
+venue: 'Journal of Community and Applied Social Psychology'
 paperurl: 'http://academicpages.github.io/files/Anthropomorphism and health behavior.pdf'
-citation: '<b>Valtorta, R. R.</b>*, Orabona, N.*, & Paladino, M. P. (2024). On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic. <i>Acta Psychologica, 243</i>, Article 104155 [* equal contribution].'
+citation: '<b>Valtorta, R. R.</b>, Baldissarri, C., & Volpato, C. (2022). Burnout and workplace dehumanization at the supermarket: A field study during the COVID-19 outbreak in Italy. <i>Journal of Community and Applied Social Psychology, 32</i>, 767-785.'
 ---
 
-Experts and laypeople often describe pathogens and diseases by attributing to these nonhuman entities human-related qualities, mind states, intentions, and emotions (i.e., anthropomorphism). By taking advantage of the last pandemic, the present research was intended to investigate the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors. A severity pathway hypothesis (i.e., virus anthropomorphism is linked to higher engagement in preventive behaviors via higher perceived threat of the virus) and an effectiveness pathway hypothesis (i.e., virus anthropomorphism is associated with lower engagement in preventive behaviors via lower perceived effectiveness of such behaviors) were tested. Across two correlational studies (Study 1, _N_ = 392; Study 2, _N_ = 290), we found support only for the latter hypothesis. Study 2 further clarified the link assumed in the effectiveness pathway hypothesis, showing that anthropomorphism was associated with a decrease in the efficacy of preventive behaviors because attributing a mind to the virus diluted the relative sense of personal responsibility for contagion. A similar pattern of results emerged when we considered vaccination intention as the outcome. 
+This study explores the psychological effects of the COVID-19 emergency on workers employed in the supermarket sector by analyzing their levels of burnout and the relationship between burnout syndrome and employees’ workplace experiences. A sample of 422 Italian workers answered a survey addressing the burnout dimensions (i.e., exhaustion, cynicism, and professional inefficacy) along with perceived organizational factors and dehumanizing representations. Results showed that 32% of the respondents had symptoms of severe burnout, and 41% had symptoms of exhaustion and cynicism. More specifically, through cluster analysis, four burnout profiles were identified: “burnout” (high on all three dimensions), “engagement” (low on all three dimensions), “overextended” (high on exhaustion), and “disengaged” (moderate on exhaustion and cynicism). Each cluster showed a different pattern of correlates with the organizational and dehumanizing perceptions. Our findings contribute to the knowledge gaps of burnout and workplace experiences by providing insights into the ongoing health emergency among supermarket clerks.
