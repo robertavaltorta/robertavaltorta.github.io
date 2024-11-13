@@ -1,13 +1,13 @@
 ---
-title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic"
+title: "Workers as objects: The nature of working objectification and the role of perceived alienation"
 collection: publications
 category: manuscripts
-permalink: /publication/Anthropomorphism and health behavior
-excerpt: 'By taking advantage of the last pandemic, the present research investigates the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors.'
-date: 2024-01-29
-venue: 'Acta Psychologica'
-paperurl: 'http://academicpages.github.io/files/Anthropomorphism and health behavior.pdf'
-citation: '<b>Valtorta, R. R.</b>*, Orabona, N.*, & Paladino, M. P. (2024). On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic. <i>Acta Psychologica, 243</i>, Article 104155 [* equal contribution].'
+permalink: /publication/Workers as objects
+excerpt: 'This study investigates working objectification, demonstrating that factory workers are more likely to be associated with object-related words and perceived as having less agency and experience compared to artisans.'
+date: 2017-12-22
+venue: 'TPM – Testing, Psychometrics, Methodology in Applied Psychology'
+paperurl: 'http://academicpages.github.io/files/Workers as objects.pdf'
+citation: 'Baldissarri, C., <b>Valtorta, R. R.</b>, Andrighetto, L., & Volpato, C. (2017). Workers as objects: The nature of working objectification and the role of perceived alienation. <i>TPM – Testing, Psychometrics, Methodology in Applied Psychology, 24</i>, 153-166.'
 ---
 
-Experts and laypeople often describe pathogens and diseases by attributing to these nonhuman entities human-related qualities, mind states, intentions, and emotions (i.e., anthropomorphism). By taking advantage of the last pandemic, the present research was intended to investigate the implications of thinking about a virus in human-like terms for individuals’ health-related behaviors. A severity pathway hypothesis (i.e., virus anthropomorphism is linked to higher engagement in preventive behaviors via higher perceived threat of the virus) and an effectiveness pathway hypothesis (i.e., virus anthropomorphism is associated with lower engagement in preventive behaviors via lower perceived effectiveness of such behaviors) were tested. Across two correlational studies (Study 1, _N_ = 392; Study 2, _N_ = 290), we found support only for the latter hypothesis. Study 2 further clarified the link assumed in the effectiveness pathway hypothesis, showing that anthropomorphism was associated with a decrease in the efficacy of preventive behaviors because attributing a mind to the virus diluted the relative sense of personal responsibility for contagion. A similar pattern of results emerged when we considered vaccination intention as the outcome. 
+The aim of the present study is to advance the research on working objectification by analyzing its nature and the mechanism underlying this process. In particular, we hypothesized that working objectification involved an automatic association of the worker with an object and a full denial of humanness related to both agency and experience. Further, we expected that perceived alienation could explain the relationship between critical working conditions and objectifying perceptions. Results showed that, compared to an artisan, a factory worker was automatically associated with object-related words rather than with person-related words. Furthermore, the factory worker was perceived as having less agency and experience than the artisan. Finally, the perception of factory work as fragmented, repetitive, and other-directed was related to a view of work as being more alienating, which, in turn, led to the increased objectification of the worker. Theoretical and practical implications are discussed. 
