@@ -3,7 +3,7 @@ title: "The dirty side of work: Biologization of physically tainted workers"
 collection: publications
 category: manuscripts
 permalink: /publication/The dirty side of work
-excerpt: 'This research investigates how dirty work environments contribute to increased feelings of disgust and biologization of physically tainted workers (e.g., garbage collectors), a form of dehumanization in which individuals are perceived as contagious entities.'
+excerpt: 'This research investigates how dirty work environments contribute to increased feelings of disgust and biologization (i.e., a form of dehumanization in which individuals are perceived as contagious entities) of physically tainted workers (e.g., garbage collectors).'
 date: 2019-04-16
 venue: 'International Review of Social Psychology'
 paperurl: 'http://academicpages.github.io/files/The dirty side of work.pdf'
