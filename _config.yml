@@ -76,11 +76,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Journal articles' 
+    title: 'Journal Articles' 
   chapters:
     title: 'Chapters'  
   conferences:
-    title: 'Conference papers'
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
