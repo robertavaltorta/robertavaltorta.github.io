@@ -75,10 +75,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  chapters:
-    title: 'Chapters'
   manuscripts:
-    title: 'Articles'    
+    title: 'Journal Articles' 
+  chapters:
+    title: 'Chapters'  
   conferences:
     title: 'Conference Papers'
 
