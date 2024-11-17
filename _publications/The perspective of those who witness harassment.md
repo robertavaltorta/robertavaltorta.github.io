@@ -1,13 +1,13 @@
 ---
-title: "The psychosocial study of harassment"
+title: "“It’s distressing because you want to do something but you know it’s dangerous and you’re afraid.” The perspective of those who witness harassment"
 collection: publications
 category: chapters
-permalink: /publication/The psychosocial study of harassment
-excerpt: 'Street harassment is a widespread but often ignored form of gender-based violence, with limited research focused specifically on this issue. This chapter reviews existing studies on its motivations and impact, highlighting the need for more focused research on street harassment as a distinct form of violence. Please note that this text is in Italian.'
+permalink: /publication/The perspective of those who witness harassment
+excerpt: 'This chapter explores the experiences of bystanders witnessing street harassment, highlighting their emotional responses (e.g., fear, anger, and helplessness) and the barriers to intervention. It emphasizes the need for societal awareness and practical tools to empower witnesses to recognize and address harassment. Please note that this text is in Italian.'
 date: 2023-02-27
 venue: "Raccontare le molestie sessuali. Un’indagine empirica [Telling sexual harassment: An empirical investigation]"
-paperurl: 'http://academicpages.github.io/files/The psychosocial study of harassment.pdf'
-citation: '<b>Valtorta, R. R.</b>, Sparascio, C., & Volpato, C. (2023). Lo studio psicosociale delle molestie [The psychosocial study of harassment]. In C. Volpato (Ed.), <i>Raccontare le molestie sessuali. Un’indagine empirica</i> [<i>Telling sexual harassment: An empirical investigation</i>] (pp. 23-45). Rosenberg & Sellier.'
+paperurl: 'http://academicpages.github.io/files/The perspective of those who witness harassment.pdf'
+citation: '<b>Valtorta, R. R.</b> (2023). “È angosciante perché vorresti fare qualcosa ma sai che è pericoloso e hai paura”. Il punto di vista di chi assiste alla molestia [“It’s distressing because you want to do something but you know it’s dangerous and you’re afraid.” The perspective of those who witness harassment]. In C. Volpato (Ed.), <i>Raccontare le molestie sessuali. Un’indagine empirica</i> [<i>Telling sexual harassment: An empirical investigation</i>] (pp. 23-45). Rosenberg & Sellier.'
 ---
 
-Street harassment is a widespread but often overlooked form of gender-based violence. Despite its prevalence, it remains largely invisible and under-researched compared to other types of harassment, such as sexual assault. Much of the existing literature has focused on broader sexual harassment, leaving a gap in research on harassment by strangers in public settings. This chapter reviews key studies that explore the motivations behind street harassment and its impact on victims. It highlights the need for more focused research on this specific issue and concludes with a look at the few studies that address street harassment as a distinct form of gender-based violence. Please note that this text is in Italian.
+The chapter investigates the experiences of bystanders who witness street harassment. Drawing on extensive qualitative data, the study reveals that witnesses often experience fear, anger, and helplessness, which frequently hinder intervention. This aligns with findings indicating that only a small percentage of bystanders actively respond to harassment incidents. The analysis identifies various forms of bystander responses: active defense, indirect support (e.g., distraction techniques), seeking external help, or choosing inaction due to fear or perceived powerlessness. The findings underline the importance of fostering awareness and equipping individuals with strategies to recognize and safely address harassment. This chapter stresses the need for societal engagement to shift accountability from victims to communities, promoting safer public spaces and effective prevention of harassment. Please note that this text is in Italian.
