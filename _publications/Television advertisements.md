@@ -3,7 +3,7 @@ title: "Gender stereotypes and sexualization in Italian children’s television 
 collection: publications
 category: manuscripts
 permalink: /publication/Television advertisements
-excerpt: 'This study examines gender stereotypes and sexualization in Italian television advertisements aimed at children. The findings reveal that gender stereotypes remain prevalent, with girls being more sexualized than boys.'
+excerpt: 'This study examines gender stereotypes and sexualization in Italian television advertisements aimed at children. The findings reveal that gender stereotypes are still prevalent in Italian children’s television commercials and that girls are more sexualized than boys.'
 date: 2023-05-02
 venue: 'Sexuality & Culture'
 paperurl: 'http://academicpages.github.io/files/Television ads.pdf'
