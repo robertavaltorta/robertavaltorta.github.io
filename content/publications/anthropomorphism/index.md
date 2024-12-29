@@ -11,9 +11,9 @@ editPost:
 
 ##### Download
 
-<a href="subjectiveGini.pdf" target="_blank">Paper</a> <br> 
-
-<a href="subjectiveGini.pdf" target="_blank">Data</a>
+<ul>
+  <li><a href="subjectiveGini.pdf" target="_blank">Paper</a></li> 
+  <li><a href="subjectiveGini.pdf" target="_blank">Data</a></li>
 
 ------------------------------------------------------------------------
 
