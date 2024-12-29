@@ -25,6 +25,6 @@ Experts and laypeople often describe pathogens and diseases by attributing to th
 
 ##### Citation
 
-**Valtorta, R. R.**°, Orabona, N.°, & Paladino, M. P. (2024). On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic. *Acta Psychologica, 243*, Article 104155 [°equal contribution].
+**Valtorta, R. R.**, Orabona, N., & Paladino, M. P. (2024). On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic. *Acta Psychologica, 243*, Article 104155 [Valtorta, R. R. and Orabona, N. share the first authorship].
 
 ------------------------------------------------------------------------
