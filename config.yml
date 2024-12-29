@@ -65,13 +65,13 @@ params:
         - name: Email
           url: mailto:roberta.valtorta@unimib.it
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.it/citations?user=Cxtkt6cAAAAJ&hl=en
         - name: ResearchGate
-          url: https://github.com/pmichaillat
+          url: https://www.researchgate.net/profile/Roberta-Valtorta
         - name: ORCID
-          url: https://pmichaillat.substack.com
+          url: https://orcid.org/0000-0003-0565-5463
         - name: X
-          url: https://twitter.com/McCallSmith
+          url: https://x.com/valtortaroberta
 
     assets:
         disableScrollBarStyle: true
