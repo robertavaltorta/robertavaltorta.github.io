@@ -1,7 +1,7 @@
 ---
 title: "Why are some countries rich and others poor? Development and validation of the Attributions for Cross-Country Inequality Scale (ACIS)" 
 date: 2024-02-27
-author: ["Michela Vezzoli",<b>Valtorta, R. R.</b>,"Attila Gaspa","Carmen Cervone","Federica Durante","Anne Maass","Caterina Suitner"]
+author: ["Michela Vezzoli",<b>Roberta Rosa Valtorta</b>,"Attila Gaspar","Carmen Cervone","Federica Durante","Anne Maass","Caterina Suitner"]
 summary: "This paper aims to develop and validate the Attributions for Cross-Country Inequality Scale (ACIS), which assesses how people explain cross-country economic inequality."
 editPost:
     URL: ""
