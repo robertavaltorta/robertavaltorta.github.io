@@ -1,9 +1,9 @@
 ---
 title: "A twofold subjective measure of income inequality" 
 date: 2023-05-11
-tags: ["inequality","Gini coefficient","social psychology"]
+tags: ["inequality","Gini coefficient"]
 author: ["Attila Gaspar","Carmen Cervone","Federica Durante","Anne Maass","Caterina Suitner",<b>Roberta Rosa Valtorta</b>,"Michela Vezzoli"]
-summary: "This article introduces a twofold subjective Gini coefficient that combines perceptions of social class and pay structure to more accurately measure beliefs about income inequality."
+summary: "This article introduces a _twofold subjective Gini coefficient_ that combines perceptions of social class and pay structure to more accurately measure beliefs about income inequality."
 editPost:
     URL: "https://link.springer.com/article/10.1007/s11205-023-03121-w"
     Text: "Social Indicators Research"
@@ -12,7 +12,7 @@ editPost:
 
 ##### Download
 
-<a href="twofold subjective Gini/subjectiveGini.pdf" target="_blank">Paper</a>
+<a href="subjectiveGini.pdf" target="_blank">Paper</a>
 
 ---
 
