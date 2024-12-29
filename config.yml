@@ -55,10 +55,10 @@ params:
           buttons:
             - name: CV
               url: cv.pdf
-            - name: Projects
-              url: projects/
             - name: Publications
               url: publications/
+            - name: Projects
+              url: projects/
 
     socialIcons:
         - name: Email
