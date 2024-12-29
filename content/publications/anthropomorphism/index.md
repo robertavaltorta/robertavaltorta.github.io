@@ -1,7 +1,6 @@
 ---
 title: "On the indirect link between virus anthropomorphism and health behavior: Evidence from the pandemic" 
 date: 2024-01-29
-tags: ["anthropomorphism","COVID-19"]
 author: [<b>Roberta Rosa Valtorta</b>,"Noemi Orabona","Maria Paola Paladino"]
 summary: "By taking advantage of the COVID-19 pandemic, the present research investigates the implications of thinking about a virus in human-like terms for individuals' health-related behaviors."
 editPost:

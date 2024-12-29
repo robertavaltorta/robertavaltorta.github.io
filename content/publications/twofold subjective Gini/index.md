@@ -1,7 +1,6 @@
 ---
 title: "A twofold subjective measure of income inequality" 
 date: 2023-05-11
-tags: ["inequality","Gini coefficient"]
 author: ["Attila Gaspar","Carmen Cervone","Federica Durante","Anne Maass","Caterina Suitner",<b>Roberta Rosa Valtorta</b>,"Michela Vezzoli"]
 summary: "This article introduces a twofold subjective Gini coefficient that combines perceptions of social class and pay structure to more accurately measure beliefs about income inequality."
 editPost:
