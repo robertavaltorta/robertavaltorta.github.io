@@ -47,8 +47,8 @@ params:
     profileMode:
           enabled: true
           title: Roberta Rosa Valtorta
-          subtitle: "I completed my PhD in Social Psychology at the University of Milano-Bicocca in 2019, with a project on **dehumanization**. From 2020 to 2024, I spent four years as a postdoctoral researcher at the same university while also teaching courses on social and group psychology at the University of Trento. Prior to this, I conducted research on dehumanization in political propaganda at Panteion University in Athens and contributed to a project on **digital technologies and well-being** at the University of Valle d'Aosta. <br>
-My primary research interests revolve around dehumanization and its correlates. Additionally, I am deeply interested in topics related to gender-based violence, stereotypes, and economic inequality."
+          subtitle: "My primary research interests revolve around **dehumanization and its correlates**. Additionally, I am deeply interested in topics related to **gender-based violence**, **stereotypes**, and **economic inequality**. <br> 
+          I completed my PhD in Social Psychology at the University of Milano-Bicocca in 2019, with a project on dehumanization. From 2020 to 2024, I spent four years as a postdoctoral researcher at the same university, while also teaching courses on social and group psychology at the University of Trento. Prior to this, I conducted research on dehumanization in political propaganda at Panteion University in Athens and contributed to a project on digital technologies and well-being at the University of Valle d'Aosta."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
