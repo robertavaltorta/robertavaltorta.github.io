@@ -16,16 +16,13 @@ menu:
         - name: Projects
           url: projects/
           weight: 2
-        - name: Teaching
-          url: teaching/
-          weight: 3
         - name: CV
           url: cv.pdf
-          weight: 4
+          weight: 3
 
 params:
-    description: "PROVA"
-    author: Moritz-Maria von Igelfeld
+    description: "PhD in Social Psychology"
+    author: Roberta Rosa Valtorta
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -39,7 +36,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["publications","projects","teaching","CV"]
+    MainSections: ["publications","projects","CV"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -59,8 +56,6 @@ params:
               url: publications/
             - name: Projects
               url: projects/
-            - name: Teaching
-              url: teaching/
             - name: CV
               url: cv.pdf
 
@@ -73,7 +68,7 @@ params:
           url: https://github.com/pmichaillat
         - name: ORCID
           url: https://pmichaillat.substack.com
-        - name: Twitter
+        - name: X
           url: https://twitter.com/McCallSmith
 
     assets:
