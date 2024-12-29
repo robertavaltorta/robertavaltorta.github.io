@@ -13,7 +13,6 @@ editPost:
 <ul>
 
 <li><a href="ACIS.pdf" target="_blank">Paper</a></li>
-
 <li><a href="https://osf.io/wbdh5/" target="_blank">Data</a></li>
 
 </ul>
