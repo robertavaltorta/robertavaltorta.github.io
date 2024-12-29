@@ -12,7 +12,7 @@ editPost:
 
 <ul>
 
-<li><a href="binge-watching.pdf" target="_blank">Paper</a></li>
+<li><a href="burnout.pdf" target="_blank">Paper</a></li>
 <li><a href="https://osf.io/29mqa/" target="_blank">Data</a></li>
 
 </ul>
