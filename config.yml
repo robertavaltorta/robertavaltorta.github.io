@@ -10,14 +10,14 @@ taxonomies:
 
 menu:
     main:
-        - name: Publications
-          url: publications/
-          weight: 1
-        - name: Projects
-          url: projects/
-          weight: 2
         - name: CV
           url: cv.pdf
+          weight: 1
+        - name: Publications
+          url: publications/
+          weight: 2
+        - name: Projects
+          url: projects/
           weight: 3
 
 params:
@@ -36,7 +36,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["publications","projects","CV"]
+    MainSections: ["CV","publications","projects"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -52,12 +52,12 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Publications
-              url: publications/
-            - name: Projects
-              url: projects/
             - name: CV
               url: cv.pdf
+            - name: Projects
+              url: projects/
+            - name: Publications
+              url: publications/
 
     socialIcons:
         - name: Email
