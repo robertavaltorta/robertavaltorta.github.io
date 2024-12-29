@@ -12,7 +12,7 @@ editPost:
 ##### Download
 
 <ul>
-  <li><a href="subjectiveGini.pdf" target="_blank">Paper</a></li> 
+  <li><a href="anthropomorphism.pdf" target="_blank">Paper</a></li> 
   <li><a href="https://osf.io/hw3bd/" target="_blank">Data</a></li>
 </ul>
 
