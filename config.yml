@@ -58,7 +58,7 @@ params:
               url: cv.pdf
             - name: Publications
               url: publications/
-            - name: Project
+            - name: Projects
               url: projects/
 
     socialIcons:
