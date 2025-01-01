@@ -13,6 +13,7 @@ editPost:
 <ul>
 
 <li><a href="dating-violence.pdf" target="_blank">Paper</a></li>
+<li><a href="https://osf.io/c3fqx/?view_only=c9f3540402524aa2b8df30ed0a343639" target="_blank">Data</a></li>
 
 </ul>
 
