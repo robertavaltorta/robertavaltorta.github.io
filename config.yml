@@ -31,14 +31,14 @@ params:
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
-    disableAnchoredHeadings: false
+    disableAnchoredHeadings: true
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
     MainSections: ["CV","publications","projects"]
     ShowToc: false
-    disableScrollToTop: true
+    disableScrollToTop: false
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
@@ -49,7 +49,7 @@ params:
           title: Roberta Rosa Valtorta
           subtitle: "My research primarily focuses on **dehumanization**, with additional interests in **gender-based violence**, **stereotypes**, and **economic inequality**. <br> 
           <br>
-          I completed my PhD in Social Psychology at the University of Milano-Bicocca in 2019, with a project on dehumanization. In my final PhD year, I worked on dehumanization in propaganda at Panteion University in Athens. From 2019 to 2024, I was a postdoctoral researcher at the University of Valle d'Aosta and the University of Milano-Bicocca, while also teaching social and group psychology at the University of Trento."
+          I completed my PhD in Social Psychology at the University of Milano-Bicocca in 2019, with a project on dehumanization, which I continued at Panteion University in Athens during my final PhD year. From 2019 to 2024, I was a postdoctoral researcher at the University of Valle d'Aosta and the University of Milano-Bicocca, while also teaching social and group psychology at the University of Trento."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
