@@ -12,7 +12,7 @@ editPost:
 ##### Download
 
 <ul>
-  <li><a href="subjectiveGini.pdf" target="_blank">Paper</a></li>
+  <li><a href="subjective-Gini.pdf" target="_blank">Paper</a></li>
 </ul>
 
 ---
