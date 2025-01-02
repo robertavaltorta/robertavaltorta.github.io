@@ -1,5 +1,5 @@
 ---
-title: "Together apart: The mitigating role of digital communication technologies on negative affect during the COVID-19 outbreak in Italy 
+title: "Together apart: The mitigating role of digital communication technologies on negative affect during the COVID-19 outbreak in Italy"
 date: 2020-10-21
 author: ["Alessandro Gabbiadini","Cristina Baldissarri","Federica Durante",<b>Roberta Rosa Valtorta</b>,"Maria De Rosa","Marcello Gallucci"]
 summary: "This study explores how the use of digital communication technologies during the COVID-19 lockdown in Italy helped mitigate the negative psychological effects of forced social isolation."
