@@ -18,9 +18,7 @@ editPost:
 
 ------------------------------------------------------------------------
 
-{{%/* note title="I want to Inform the User" %}}
-The *note* callout can draw attention to something important in the surrounding content. This is the more subtile of the 2 callouts and can be used for items such as key takeaways.
-{{% /note */%}}
+Note that this publication is in Italian.
 
 ------------------------------------------------------------------------
 
