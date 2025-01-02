@@ -19,7 +19,6 @@ editPost:
 ------------------------------------------------------------------------
 
 Note that this publication is in Italian.
-{{% comment %}} TODO: rewrite the paragraph below. {{% /comment %}}
 
 ------------------------------------------------------------------------
 
