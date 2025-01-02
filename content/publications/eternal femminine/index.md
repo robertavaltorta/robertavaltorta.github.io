@@ -32,6 +32,6 @@ This study was designed to analyze gender stereotypes and sexualization in Itali
 
 ##### Citation
 
-**Valtorta, R. R.**, Sacino, A., Baldissarri, C., & Volpato, C. (2016). L'eterno femminino. Stereotipi di genere e sessualizzazione nella pubblicità televisiva [The eternal feminine: Gender stereotypes and sexualization in television advertisements]. *Psicologia Sociale - Social Psychology Theory & Research, 2*, 159-188.
+**Valtorta, R. R.**, Sacino, A., Baldissarri, C., & Volpato, C. (2016). L'eterno femminino. Stereotipi di genere e sessualizzazione nella pubblicita' televisiva [The eternal feminine: Gender stereotypes and sexualization in television advertisements]. *Psicologia Sociale - Social Psychology Theory & Research, 2*, 159-188.
 
 ------------------------------------------------------------------------
