@@ -13,7 +13,6 @@ editPost:
 <ul>
 
 <li><a href="biologization-workers.pdf" target="_blank">Paper</a></li>
-<li><a href="https://osf.io/yhj7k/" target="_blank">Data</a></li>
 
 </ul>
 
