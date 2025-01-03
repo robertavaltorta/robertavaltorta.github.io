@@ -1,6 +1,7 @@
 ---
 title: "Biological dehumanization and its correlates" 
-summary: "Biological dehumanization (or biologization) is a form of dehumanization in which others are perceived as contagious entities rather than human beings. The present line of research investigates the correlates of this phenomenon through correlational and experimental studies."
+author: [""]
+summary: "Biological dehumanization (or biologization) is a form of dehumanization in which others are perceived as viruses and contagious entities rather than human beings. The present line of research investigates the correlates of this phenomenon through correlational and experimental studies."
 cover:
     image: "biologization.png"
     alt: ""
