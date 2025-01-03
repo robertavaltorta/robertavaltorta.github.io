@@ -1,4 +1,4 @@
 ---
-title: "Books"
-description: "Books by Professor Dr von Igelfeld's."
+title: "Projects"
+description: "National and international research projects."
 ---
