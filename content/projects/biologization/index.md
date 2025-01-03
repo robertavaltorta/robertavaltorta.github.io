@@ -1,16 +1,15 @@
 ---
 title: "Biological dehumanization and its correlates" 
-summary: "Biologization is a form of dehumanization in which others are perceived as contagious entities rather than human beings. The present line of research investigates the correlates of this phenomenon through correlational and experimental studies."
+summary: "Biological dehumanization (or biologization) is a form of dehumanization in which others are perceived as contagious entities rather than human beings. The present line of research investigates the correlates of this phenomenon through correlational and experimental studies."
 cover:
-    image: "biologization.jpg"
+    image: "biologization.png"
     alt: ""
     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
     Text: "Regensburg University Press"
 showToc: false
-disableAnchoredHeadings: false
-source: "Regensburg University Press"
+disableAnchoredHeadings: true
 
 ---
 
