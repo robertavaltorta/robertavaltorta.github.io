@@ -1,14 +1,9 @@
 ---
-title: "Portugese Irregular Verbs" 
-date: 1997-01-01
-lastmod: 2024-05-08
-tags: ["Portugese","irregular verbs","philology"]
-author: ["Moritz-Maria von Igelfeld"]
-description: "This book discusses Portugese irregular verbs in great details."
-summary: "This book discusses Portugese irregular verbs in great details."
+title: "Biological dehumanization and its correlates" 
+summary: "Biologization is a form of dehumanization in which others are perceived as contagious entities rather than human beings. The present line of research investigates the correlates of this phenomenon through correlational and experimental studies."
 cover:
     image: "book1.png"
-    alt: "Portugese Irregular Verbs"
+    alt: ""
     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
