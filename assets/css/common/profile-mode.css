@@ -43,4 +43,5 @@
 
 .button:hover {
     background: var(--lightcolor);
+    border-radius: var(--darkcolor);
 }
