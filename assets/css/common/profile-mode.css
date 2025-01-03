@@ -43,5 +43,7 @@
 
 .button:hover {
     background: var(--lightcolor);
-    border-radius: var(--darkcolor);
+    border: 2px solid  blue;
+    border-radius: 20px;
+    cursor:pointer;
 }
