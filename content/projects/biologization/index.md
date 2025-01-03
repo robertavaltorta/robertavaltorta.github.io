@@ -10,12 +10,7 @@ editPost:
     Text: "Regensburg University Press"
 showToc: false
 disableAnchoredHeadings: false
-
----
-
-![Cover Image](biologization.jpg)
-
-*Source: Regensburg University Press*
+source: "Regensburg University Press"
 
 ---
 
