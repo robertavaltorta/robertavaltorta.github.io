@@ -3,6 +3,10 @@ title: "Gender stereotypes and sexualization in Italian children's television ad
 date: 2023-05-02
 author: [<b>Roberta Rosa Valtorta</b>,"Cristina Baldissarri","Giuseppe Raguso","Giulia D'Ecclesiis","Chiara Volpato"]
 summary: "This study examines gender stereotypes and sexualization in Italian television advertisements aimed at children. The findings reveal that gender stereotypes are still prevalent in Italian children's television commercials and that girls are more sexualized than boys."
+cover:
+    image: "children-ads.png"
+    alt: "Two children sitting on the floor, seen from behind, watching TV"
+    relative: false
 editPost:
     URL: "https://link.springer.com/article/10.1007/s12119-023-10081-3"
     Text: "Sexuality & Culture"

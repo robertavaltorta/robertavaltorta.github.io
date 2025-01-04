@@ -5,7 +5,7 @@ author: ["Attila Gaspar","Carmen Cervone","Federica Durante","Anne Maass","Cater
 summary: "This article introduces a twofold subjective Gini coefficient that combines perceptions of social class and pay structure to more accurately measure beliefs about income inequality."
 cover:
     image: "subject-Gini.png"
-    alt: "Colored graphs drawn on a white sheet of paper"
+    alt: "Colored graphs drawn on a white piece of paper"
     relative: false
 editPost:
     URL: "https://link.springer.com/article/10.1007/s11205-023-03121-w"
