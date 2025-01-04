@@ -1,6 +1,7 @@
 baseURL: "https://robertavaltorta.github.io" 
 title: Roberta Rosa Valtorta
 theme: PaperMod
+paginate: 5
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
