@@ -3,6 +3,10 @@ title: "COVID-19 restrictions and sense of humanness: the role of human needs th
 date: 2024-11-27
 author: ["Cristina Baldissarri","Giuseppe Raguso",<b>Roberta Rosa Valtorta</b>,"Luca Andrighetto","Chiara Volpato"]
 summary: "This study examines how COVID-19 restrictions increased the sense of threat to human needs, leading to higher self-dehumanization and lower concern for humanity"
+cover:
+    image: "restrictions-humaness.png"
+    alt: "Close-up of a hand holding several colorful Post-it notes, each with a different COVID-19 restriction written on them"
+    relative: false
 editPost:
     URL: "https://journals.sagepub.com/doi/10.1177/02134748241296691"
     Text: "International Journal of Social Psychology"
