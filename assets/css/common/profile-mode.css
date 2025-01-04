@@ -42,7 +42,7 @@
 }
 
 .button:hover {
-    background: var(--lightcolor);
+    #background: var(--lightcolor);
     outline: 2px solid var(--darkcolor);
     cursor:pointer;
 }
