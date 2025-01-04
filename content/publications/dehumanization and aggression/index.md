@@ -3,6 +3,10 @@ title: "Investigating the link between biological dehumanization and indirect ag
 date: 2023-12-15
 author: [<b>Roberta Rosa Valtorta</b>,"Cristina Baldissarri","Chiara Volpato"]
 summary: "By considering the most dehumanized social groups in Italian society (e.g., homeless people, prisoners, and immigrants), this research explores the link between biologization (i.e., a form of dehumanization in which others are perceived as contagious entities) and indirect aggression."
+cover:
+    image: "dehumanization-aggression.png"
+    alt: "A homeless person sitting on the street, surrounded by a bustling crowd of people walking by"
+    relative: false
 editPost:
     URL: "https://onlinelibrary.wiley.com/doi/full/10.1002/casp.2761"
     Text: "Journal of Community and Applied Social Psychology"
