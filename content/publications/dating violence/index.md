@@ -3,6 +3,10 @@ title: "Why might women justify dating violence? The role of men's sexual object
 date: 2023-05-25
 author: ["Chiara Pecini","Daniela Ruzzante",<b>Roberta Rosa Valtorta</b>,"Eleonora Crapolicchio","Veronica Margherita Cocco","Luca Andrighetto","Gian Antonio Di Bernardo"]
 summary: "This research investigates the associations between men's partner-sexual objectification, women's self-objectification, and both partners' attitudes toward dating violence."
+cover:
+    image: "dating-violence.png"
+    alt: "People in shirts yellow and pink with the words 'Your body belongs to you'"
+    relative: false
 editPost:
     URL: "https://journals.sagepub.com/doi/10.1177/08862605231175515"
     Text: "Journal of Interpersonal Violence"
