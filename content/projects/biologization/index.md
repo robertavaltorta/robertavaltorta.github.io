@@ -6,7 +6,6 @@ cover:
     image: "biologization.png"
     alt: ""
     relative: false
-
 showToc: false
 disableAnchoredHeadings: true
 
