@@ -6,9 +6,7 @@ cover:
     image: "biologization.png"
     alt: ""
     relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: ""
+
 showToc: false
 disableAnchoredHeadings: true
 
