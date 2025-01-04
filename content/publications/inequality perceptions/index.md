@@ -3,6 +3,10 @@ title: "Inequality perception and preferences globally and locally - Correlation
 date: 2024-10-17
 author: ["Attila Gaspar","Carmen Cervone","Federica Durante","Anne Maass","Caterina Suitner",<b>Roberta Rosa Valtorta</b>,"Michela Vezzoli"]
 summary: "This study uses a large, cross-country survey to examine how people's attitudes toward domestic economic inequality influence their views on cross-country economic disparities."
+cover:
+    image: "inequality-perceptions.png"
+    alt: "A pile of different coins sitting on top of each other"
+    relative: false
 editPost:
     URL: "https://link.springer.com/article/10.1007/s10888-024-09647-4"
     Text: "The Journal of Economic Inequality"
