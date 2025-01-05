@@ -52,8 +52,8 @@ params:
           <br>
           I obtained my PhD in Social Psychology at the University of Milano-Bicocca (IT) in 2019, with a project on dehumanization. During my final PhD year, I continued my work at Panteion University (GR). From 2019 to 2024, I was a postdoc at the University of Valle d'Aosta (IT) and University of Milano-Bicocca, while also teaching social and group psychology at the University of Trento (IT)."
           imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 200
+          imageHeight: 200
           buttons:
             - name: CV
               url: cv.pdf
