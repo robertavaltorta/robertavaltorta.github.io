@@ -3,8 +3,8 @@ title: "Biological dehumanization and its correlates"
 author: [""]
 summary: "Biological dehumanization (or biologization) is a form of dehumanization in which others are perceived as viruses and contagious entities rather than human beings. The present line of research explores this phenomenon by investigating its antecedents and consequences through correlational and experimental studies."
 cover:
-    image: "biologization.png"
-    alt: ""
+    image: "biologization.jpg"
+    alt: "Stylized person holding a sign with the text 'I am not a virus'"
     relative: false
 showToc: false
 disableAnchoredHeadings: true
@@ -23,14 +23,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ---
 
-#### Praise
-
-> There is nothing more to be said on this subject. Nothing – Anonymous reviewer
-
----
-
 #### View
 
 + [Chapter 1: History of the Portuguese language](chapter1.pdf)
-+ [Chapter 2: Review of regular verbs](chapter2.pdf)
-+ [Chapter 3: Analysis of irregular verbs](chapter3.pdf)
