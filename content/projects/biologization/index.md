@@ -24,4 +24,4 @@ Currently, we are deepening our understanding of biologization by focusing on it
 
 For a deeper understanding, see the following articles on the topic: 
 
--   [Chapter 1: History of the Portuguese language](/publications/covid and prejudice/index.md)
+-   [Chapter 1: History of the Portuguese language](/publications/covid-and-prejudice/)
