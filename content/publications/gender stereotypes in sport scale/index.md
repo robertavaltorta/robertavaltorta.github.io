@@ -4,7 +4,7 @@ date: 2024-12-08
 author: [<b>Roberta Rosa Valtorta</b>,"Marco Morini","Maria Grazia Monaci"]
 summary: "This study develops and validates the Gender Stereotypes in Sport Scale (GSSS), an instrument assessing gender stereotypes in sport, with a specific focus on soccer."
 cover:
-    image: "GSSS.png"
+    image: "GSSS.jpg"
     alt: "A woman kicking a soccer ball with her right foot on a grassy field"
     relative: false
 editPost:
