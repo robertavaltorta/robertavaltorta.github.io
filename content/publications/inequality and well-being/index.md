@@ -3,6 +3,10 @@ title: "Effects of objective and subjective indicators of economic inequality on
 date: 2022-10-22
 author: ["Michela Vezzoli",<b>Roberta Rosa Valtorta</b>,"Silvia Mari","Federica Durante","Chiara Volpato"]
 summary: "This study examines how objective and subjective measures of economic inequality affect individuals' subjective well-being, focusing on how anger and feelings of economic vulnerability mediate this relationship."
+cover:
+    image: "inequality-wellbeing.jpg"
+    alt: "A woman holding a jar with the word 'savings' written on it"
+    relative: false
 editPost:
     URL: "https://onlinelibrary.wiley.com/doi/full/10.1111/jasp.12928"
     Text: "Journal of Applied Social Psychology"

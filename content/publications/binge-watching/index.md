@@ -3,6 +3,10 @@ title: "Loneliness, escapism and identification with media characters: An explor
 date: 2021-12-15
 author: ["Alessandro Gabbiadini","Cristina Baldissarri",<b>Roberta Rosa Valtorta</b>,"Federica Durante","Silvia Mari"]
 summary: "This study examines the psychological factors that contribute to binge-watching tendencies, examining how loneliness, escapism, and identification with media characters influence the tendency to watch multiple TV episodes in one sitting."
+cover:
+    image: "binge-watching.jpg"
+    alt: "A person holding the remote control, pointing it toward the TV"
+    relative: false
 editPost:
     URL: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.785970/full"
     Text: "Frontiers in Psychology"

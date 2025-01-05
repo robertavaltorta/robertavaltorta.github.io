@@ -3,6 +3,10 @@ title: "Street harassment and its negative psychological outcomes in an Italian 
 date: 2022-09-15
 author: [<b>Roberta Rosa Valtorta</b>,"Chiara Sparascio","Roberto Cornelli","Chiara Volpato"]
 summary: "This research assesses the frequency of street harassment and explores its links to negative psychological outcomes, such as anxiety and self-objectification."
+cover:
+    image: "street-harassment.jpg"
+    alt: "A sticker stuck on a street pole with the writing 'However I dress. Wherever I go. Yes means yes and no means no'"
+    relative: false
 editPost:
     URL: "https://www.rivisteweb.it/doi/10.1482/104812"
     Text: "Psicologia Sociale - Social Psychology Theory & Research"
