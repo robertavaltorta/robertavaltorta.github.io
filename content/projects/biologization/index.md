@@ -16,7 +16,7 @@ Much theoretical work has revealed that metaphors defining enemies as **cancers*
 
 This line of research investigates biologization by examining its **antecedents** and **consequences**. So far, we have consistently demonstrated the key role of **disgust** as an antecedent of biologization and have provided the first empirical evidence of the emotional roots of this phenomenon. Furthermore, we have highlighted the effects of biological dehumanization by focusing on **indirect aggressive intentions**, namely behaviors planned to harm someone in a roundabout manner, such as excluding them from a group or society.
 
-Currently, we are deepening our understanding of biologization by focusing on its manifestation toward the **homeless population**. Additionally, we are expanding the research to include the phenomenon of **"self-biologization**", which is the internalization of this form of dehumanization. To explore this, we are employing innovative methods such as 360-degree videos and virtual reality headsets, allowing participants to engage with immersive scenarios that provide unique insights into these processes.
+Currently, we are deepening our understanding of biologization by focusing on its manifestation toward the **homeless population**. Additionally, we are expanding the research to include the phenomenon of "**self-biologization**," which is the internalization of this form of dehumanization. To explore this, we are employing innovative methods such as **360-degree videos** and **virtual reality headsets**, allowing participants to engage with immersive scenarios that provide unique insights into these processes.
 
 [^1]
 
