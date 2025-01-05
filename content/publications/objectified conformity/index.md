@@ -3,6 +3,10 @@ title: "Objectified conformity: Working self-objectification increases conformin
 date: 2018-02-13
 author: ["Luca Andrighetto","Cristina Baldissarri","Alessandro Gabbiadini","Alessandra Sacino",<b>Roberta Rosa Valtorta</b>,"Chiara Volpato"]
 summary: "This study explores whether self-objectification from performing objectifying tasks increases conforming behavior, indicating that participants who engaged in a high objectifying task self-objectified more and conformed more to others' judgments."
+cover:
+    image: "objectified-conformity.jpg"
+    alt: "Stylized people all the same"
+    relative: false
 editPost:
     URL: "https://www.tandfonline.com/doi/full/10.1080/15534510.2018.1439769"
     Text: "Social Influence"
