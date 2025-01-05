@@ -18,12 +18,10 @@ This line of research investigates biologization by examining its **antecedents*
 
 Currently, we are deepening our understanding of biologization by focusing on its manifestation toward the **homeless population**. Additionally, we are expanding the research to include the phenomenon of "**self-biologization**," which is the internalization of this form of dehumanization. To explore this, we are employing innovative methods such as **360-degree videos** and **virtual reality headsets**, allowing participants to engage with immersive scenarios that provide unique insights into these processes.
 
-[^1]
-
-[^1]: The acknowledged aim of the book is to dwarf all other books in the field.
-
 ------------------------------------------------------------------------
 
 #### View
+
+For a deeper understanding, see the following articles on the topic: 
 
 -   [Chapter 1: History of the Portuguese language](chapter1.pdf)
