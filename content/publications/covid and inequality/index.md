@@ -3,6 +3,10 @@ title: "The impacts of COVID-19 on the relationship between perceived economic i
 date: 2023-03-13
 author: ["Michela Vezzoli","Silvia Mari",<b>Roberta Rosa Valtorta</b>,"Chiara Volpato"]
 summary: "This study explores how the COVID-19 pandemic influenced the relationship between perceived economic inequality and political participation by considering Italian individuals from different socioeconomic classes."
+cover:
+    image: "covid-inequality.jpg"
+    alt: "A person holding an empty brown wallet"
+    relative: false
 editPost:
     URL: "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2023.990847/full"
     Text: "Frontiers in Political Science"

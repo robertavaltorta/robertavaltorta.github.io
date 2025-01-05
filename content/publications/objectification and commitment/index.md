@@ -3,6 +3,10 @@ title: "When workers feel like objects: A field study on self-objectification an
 date: 2023-02-28
 author: [<b>Roberta Rosa Valtorta</b>,"Maria Grazia Monaci"]
 summary: "This study examines how objectifying job features in a supermarket setting lead to self-objectification and lower organizational commitment among workers with different roles."
+cover:
+    image: "objectification-commitment.jpg"
+    alt: "A handshake between two men"
+    relative: false
 editPost:
     URL: "https://ejop.psychopen.eu/index.php/ejop/article/view/5549"
     Text: "Europe's Journal of Psychology"
