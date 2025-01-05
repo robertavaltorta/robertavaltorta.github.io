@@ -3,6 +3,10 @@ title: "Burnout and workplace dehumanization at the supermarket: A field study d
 date: 2021-11-29
 author: [<b>Roberta Rosa Valtorta</b>,"Cristina Baldissarri","Chiara Volpato"]
 summary: "This study explores the psychological effects of the COVID-19 emergency on supermarket workers in Italy, focusing on burnout levels and the relationship between burnout and employees' workplace experiences in terms of dehumanization."
+cover:
+    image: "burnout.jpg"
+    alt: "A man wearing a mask and doing grocery shopping"
+    relative: false
 editPost:
     URL: "https://onlinelibrary.wiley.com/doi/full/10.1002/casp.2588"
     Text: "Journal of Community and Applied Social Psychology"

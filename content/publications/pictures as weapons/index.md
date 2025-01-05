@@ -3,6 +3,10 @@ title: "Pictures as weapons: Delegitimization strategies in the visual propagand
 date: 2019-09-03
 author: [<b>Roberta Rosa Valtorta</b>,"Giorgio Signorato","Chiara Volpato"]
 summary: "By using the theory of delegitimization as the theoretical framework, this study examines how posters used by the Italian far-right party Forza Nuova (2000-2018) promoted the marginalization and exclusion of certain groups."
+cover:
+    image: "forza-nuova.jpg"
+    alt: "Newspaper page with the word 'immigration'"
+    relative: false
 editPost:
     URL: "https://www.rivisteweb.it/doi/10.1482/94268"
     Text: "Psicologia Sociale - Social Psychology Theory & Research"

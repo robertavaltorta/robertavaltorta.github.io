@@ -3,6 +3,10 @@ title: "The dirty side of work: Biologization of physically tainted workers"
 date: 2019-04-16
 author: [<b>Roberta Rosa Valtorta</b>,"Cristina Baldissarri","Luca Andrighetto","Chiara Volpato"]
 summary: "This research investigates how dirty work environments contribute to increased feelings of disgust and biologization (i.e., a form of dehumanization in which individuals are perceived as contagious entities) of physically tainted workers (e.g., garbage collectors)."
+cover:
+    image: "biologization-workers.jpg"
+    alt: "Two garbage collectors at work"
+    relative: false
 editPost:
     URL: "https://doi.org/10.5334/irsp.213"
     Text: "International Review of Social Psychology"

@@ -3,6 +3,10 @@ title: "'The body and soul emotion' - The role of disgust in intergroup relation
 date: 2018-07-13
 author: [<b>Roberta Rosa Valtorta</b>,"Chiara Volpato"]
 summary: "The study explores how different forms of disgust (physical vs. moral) affect aggressive intentions and dehumanization in intergroup relations."
+cover:
+    image: "body-soul-emotion.jpg"
+    alt: "Silhouette of men and women in a group"
+    relative: false
 editPost:
     URL: "https://www.tpmap.org/the-body-and-soul-emotion-the-role-of-disgust-in-intergroup-relations/"
     Text: "TPM - Testing, Psychometrics, Methodology in Applied Psychology"

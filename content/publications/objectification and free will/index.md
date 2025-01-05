@@ -3,6 +3,10 @@ title: "Do self-objectified women believe themselves to be free? Sexual objectif
 date: 2019-08-08
 author: ["Cristina Baldissarri","Luca Andrighetto","Alessandro Gabbiadini",<b>Roberta Rosa Valtorta</b>,"Alessandra Sacino","Chiara Volpato"]
 summary: "This study explores the consequences of sexual objectification, showing that objectifying comments lead women to self-objectify, which in turn diminishes their sense of personal free will."
+cover:
+    image: "objectification-freewill.jpg"
+    alt: "A group of people holding feminist signs"
+    relative: false
 editPost:
     URL: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01867/full"
     Text: "Frontiers in Psychology"

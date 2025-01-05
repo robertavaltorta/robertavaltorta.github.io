@@ -3,6 +3,10 @@ title: "Seeing others as a disease: The impact of physical (but not moral) disgu
 date: 2021-03-25
 author: [<b>Roberta Rosa Valtorta</b>,"Cristina Baldissarri","Luca Andrighetto","Chiara Volpato"]
 summary: "This study investigates the link between physical disgust and biologization (i.e., the perception of others as contagious entities) using both explicit and implicit measures of biological dehumanization."
+cover:
+    image: "disgust-biologization.jpg"
+    alt: "Rotten pear"
+    relative: false
 editPost:
     URL: "https://rips-irsp.com/articles/10.5334/irsp.407"
     Text: "International Review of Social Psychology"

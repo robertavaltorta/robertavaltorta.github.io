@@ -3,6 +3,10 @@ title: "The eternal feminine: Gender stereotypes and sexualization in television
 date: 2016-09-25
 author: [<b>Roberta Rosa Valtorta</b>,"Alessandra Sacino","Cristina Baldissarri","Chiara Volpato"]
 summary: "This study examines gender stereotypes and sexualization in Italian television advertisements, revealing that women are portrayed as younger, more engaged in domestic roles, and more sensual, while men are depicted as sportier, more independent, and more competent."
+cover:
+    image: "eterno-femminino.jpg"
+    alt: "A hand holding a remote control pointed towards the television"
+    relative: false
 editPost:
     URL: "https://www.rivisteweb.it/doi/10.1482/84097"
     Text: "Psicologia Sociale - Social Psychology Theory & Research"

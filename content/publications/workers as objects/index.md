@@ -3,6 +3,10 @@ title: "Workers as objects: The nature of working objectification and the role o
 date: 2017-12-22
 author: ["Cristina Baldissarri",<b>Roberta Rosa Valtorta</b>,"Luca Andrighetto","Chiara Volpato"]
 summary: "This study investigates working objectification, demonstrating that factory workers are more likely to be associated with object-related words and perceived as having less agency and experience compared to artisans."
+cover:
+    image: "workers-objects.jpg"
+    alt: "A group of workers in a factory"
+    relative: false
 editPost:
     URL: "https://www.tpmap.org/workers-as-objects-the-nature-of-working-objectification-and-the-role-of-perceived-alienation/"
     Text: "TPM - Testing, Psychometrics, Methodology in Applied Psychology"

@@ -3,6 +3,10 @@ title: "Dirty jobs and dehumanization of workers"
 date: 2019-02-01
 author: [<b>Roberta Rosa Valtorta</b>,"Cristina Baldissarri","Luca Andrighetto","Chiara Volpato"]
 summary: "By exploring laypeople's dehumanizing perceptions of stigmatized workers, this study demonstrates that different types of occupational taint evoke distinct dehumanizing images."
+cover:
+    image: "dirty-jobs.jpg"
+    alt: "A man with muddy hands"
+    relative: false
 editPost:
     URL: "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12315"
     Text: "British Journal of Social Psychology"

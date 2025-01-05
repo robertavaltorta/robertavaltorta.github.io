@@ -3,6 +3,10 @@ title: "Together apart: The mitigating role of digital communication technologie
 date: 2020-10-21
 author: ["Alessandro Gabbiadini","Cristina Baldissarri","Federica Durante",<b>Roberta Rosa Valtorta</b>,"Maria De Rosa","Marcello Gallucci"]
 summary: "This study explores how the use of digital communication technologies during the COVID-19 lockdown in Italy helped mitigate the negative psychological effects of forced social isolation."
+cover:
+    image: "together-apart.jpg"
+    alt: "Computer screen showing a video call screen"
+    relative: false
 editPost:
     URL: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.554678/full"
     Text: "Frontiers in Psychology"

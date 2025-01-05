@@ -3,6 +3,10 @@ title: "Intergroup biologization and outgroup prejudice in the time of COVID-19"
 date: 2021-08-30
 author: [<b>Roberta Rosa Valtorta</b>,"Cristina Baldissarri","Chiara Volpato","Luca Andrighetto"]
 summary: "This study explores how the COVID-19 emergency influenced biologization (i.e., the perception of others as contagious entities) and outgroup prejudice in Italy, offering insights into the psychological dynamics at play during the pandemic."
+cover:
+    image: "covid-prejudice.jpg"
+    alt: "'Coronavirus' written with Scrabble tiles"
+    relative: false
 editPost:
     URL: "https://onlinelibrary.wiley.com/doi/full/10.1111/jasp.12831"
     Text: "Journal of Applied Social Psychology"
