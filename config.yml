@@ -48,6 +48,17 @@ params:
     profileMode:
           enabled: true
           title: Roberta Rosa Valtorta
+          socialIcons:
+        - name: Email
+          url: mailto:roberta.valtorta@unimib.it
+        - name: Google Scholar
+          url: https://scholar.google.it/citations?user=Cxtkt6cAAAAJ&hl=en
+        - name: ResearchGate
+          url: https://www.researchgate.net/profile/Roberta-Valtorta
+        - name: ORCID
+          url: https://orcid.org/0000-0003-0565-5463
+        - name: X
+          url: https://x.com/valtortaroberta
           subtitle: "My research primarily focuses on **dehumanization**, with additional interests in **gender-based violence**, **stereotypes**, and **inequality**. More recently, I have been working on **food sustainability**. <br> 
           <br>
           I obtained my PhD in Social Psychology at the University of Milano-Bicocca (IT) in 2019, with a project on dehumanization. During my final PhD year, I continued my work at Panteion University (GR). From 2019 to 2024, I was a postdoc at the University of Valle d'Aosta (IT) and University of Milano-Bicocca, while also teaching social and group psychology at the University of Trento (IT)."
@@ -62,17 +73,7 @@ params:
             - name: Projects
               url: projects/
 
-    socialIcons:
-        - name: Email
-          url: mailto:roberta.valtorta@unimib.it
-        - name: Google Scholar
-          url: https://scholar.google.it/citations?user=Cxtkt6cAAAAJ&hl=en
-        - name: ResearchGate
-          url: https://www.researchgate.net/profile/Roberta-Valtorta
-        - name: ORCID
-          url: https://orcid.org/0000-0003-0565-5463
-        - name: X
-          url: https://x.com/valtortaroberta
+    
 
     assets:
         disableScrollBarStyle: true
