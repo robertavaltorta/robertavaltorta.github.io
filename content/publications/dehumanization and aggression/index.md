@@ -4,7 +4,7 @@ date: 2023-12-15
 author: [<b>Roberta Rosa Valtorta</b>,"Cristina Baldissarri","Chiara Volpato"]
 summary: "By considering the most dehumanized social groups in Italian society (e.g., homeless people, prisoners, and immigrants), this research explores the link between biologization (i.e., a form of dehumanization in which others are perceived as contagious entities) and indirect aggression."
 cover:
-    image: "dehumanization-aggression.png"
+    image: "dehumanization-aggression.jpg"
     alt: "A homeless person lying  in the street"
     relative: false
 editPost:

@@ -4,7 +4,7 @@ date: 2024-10-17
 author: ["Attila Gaspar","Carmen Cervone","Federica Durante","Anne Maass","Caterina Suitner",<b>Roberta Rosa Valtorta</b>,"Michela Vezzoli"]
 summary: "This study uses a large, cross-country survey to examine how people's attitudes toward domestic economic inequality influence their views on cross-country economic disparities."
 cover:
-    image: "inequality-perceptions.png"
+    image: "inequality-perceptions.jpg"
     alt: "A pile of different coins sitting on top of each other"
     relative: false
 editPost:

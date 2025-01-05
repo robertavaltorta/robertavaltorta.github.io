@@ -4,7 +4,7 @@ date: 2024-02-05
 author: [<b>Roberta Rosa Valtorta</b>,"Michela Vezzoli","Silvia Mari","Federica Durante","Chiara Volpato"]
 summary: "The main goal of this research is to develop and validate the Perceived Economic Inequality Scale (PEIS), an instrument measuring individuals' perceptions of economic inequality at the national level."
 cover:
-    image: "PEIS.png"
+    image: "PEIS.jpg"
     alt: "Stacked round gold-colored coins on white surface"
     relative: false
 editPost:

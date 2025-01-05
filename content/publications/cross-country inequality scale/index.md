@@ -4,7 +4,7 @@ date: 2024-02-27
 author: ["Michela Vezzoli",<b>Roberta Rosa Valtorta</b>,"Attila Gaspar","Carmen Cervone","Federica Durante","Anne Maass","Caterina Suitner"]
 summary: "This paper aims to develop and validate the Attributions for Cross-Country Inequality Scale (ACIS), which assesses how people explain cross-country economic inequality."
 cover:
-    image: "ACIS.png"
+    image: "ACIS.jpg"
     alt: "A globe on a desk"
     relative: false
 editPost:
