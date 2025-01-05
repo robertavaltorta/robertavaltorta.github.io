@@ -15,7 +15,7 @@ disableAnchoredHeadings: true
 
 Much theoretical work has revealed that metaphors defining enemies as cancers or viruses exacerbate the perceptions of threat toward outgroup members and provide individuals with a justification for aggressive behaviors. This sociopsychological process is defined as "biologization," a form of dehumanization in which others are perceived as more similar to contagious entities rather than human beings.
 
-This line of research explores biologization by examining its antecedents and consequences. So far, we have consistently demonstrated the key role of disgust as an antecedent of biologization and have provided the first empirical evidence of the emotional roots of this phenomenon. 
+This line of research explores biologization by examining its antecedents and consequences. So far, we have consistently demonstrated the key role of disgust as an antecedent of biologization and have provided the first empirical evidence of the emotional roots of this phenomenon.
 
 Currently, we are investigating the effects of biological dehumanization by focusing on indirect aggressive intentions, namely behaviors planned to harm someone in a roundabout manner, such as excluding them from a group or society.
 
