@@ -8,7 +8,7 @@
     min-height: calc(100vh - var(--footer-height) - (var(--gap) * 2));
     font-size: var(--homesize);
     line-height: var(--lineheight);
-    font-weight: 100;
+    font-weight: 200;
 }
 
 .profile .profile_inner {
@@ -38,7 +38,7 @@
     color: var(--darkcolor);
     border-radius: var(--radius);
     margin: 8px 16px 8px 0px;
-    padding: 6px 12px;
+    padding: 6px;
     transition: transform 0.1s;
     font-family: 'Red Hat Text', sans-serif;
 }
