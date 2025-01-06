@@ -27,6 +27,7 @@
 
 .logo a {
     font-size: var(--headersize);
+    font-weight: 400;
 }
 
 .logo a img, .logo a svg {
