@@ -6,6 +6,7 @@
     margin-inline-end: auto;
     line-height: var(--header-height);
     background: var(--code-bg);
+    font-family: 'Red Hat Text', sans-serif;
 }
 
 .nav a {
