@@ -19,7 +19,7 @@
 #menu {
     display: flex;
     margin: auto var(--gap);
-    color: var(--darkcolor)
+    color: var(--darkcolor);
 }
 
 .logo {
