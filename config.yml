@@ -57,6 +57,7 @@ params:
           buttons:
             - name: CV
               url: cv.pdf
+              icon: "fas fa-file-pdf" 
             - name: Publications
               url: publications/
             - name: Projects
