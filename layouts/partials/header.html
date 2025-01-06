@@ -42,6 +42,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
+<h1 class="site-title">{{ site.Title }}</h1>
             {{- $label_text := (site.Params.label.text | default site.Title) }}
             {{- if site.Title }}
             <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }}">
@@ -74,9 +75,6 @@
                 {{- $label_text -}}
             </a>
             {{- end }}
-
-<h1 class="site-title">{{ site.Title }}</h1>
-
             <div class="logo-switches">
                 {{- if (not site.Params.disableThemeToggle) }}
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
