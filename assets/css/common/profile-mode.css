@@ -30,7 +30,8 @@
 }
 
 .button {
-    background: var(--tertiary);
+    #background: var(--tertiary);
+    background: transparent;
     border-radius: var(--radius);
     margin: 8px 16px 8px 0px;
     padding: 6px;
@@ -42,7 +43,7 @@
 }
 
 .button:hover {
-    #background: var(--lightcolor);
+    background: var(--darkcolor);
     outline: 2px solid var(--darkcolor);
     cursor:pointer;
 }
