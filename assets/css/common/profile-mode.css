@@ -33,7 +33,7 @@
 .button {
     #background: var(--tertiary);
     background: transparent;
-    border: 1px solid var(--darkcolor);
+    border: 1.5px solid var(--darkcolor);
     color: var(--darkcolor);
     border-radius: var(--radius);
     margin: 8px 16px 8px 0px;
@@ -48,7 +48,7 @@
 
 .button:hover {
     background: var(--darkcolor);
-    outline: 1px solid var(--darkcolor);
+    outline: 1.5px solid var(--darkcolor);
     color: white;
     cursor:pointer;
 }
