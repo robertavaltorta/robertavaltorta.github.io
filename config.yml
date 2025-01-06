@@ -55,7 +55,9 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: <i class='fas fa-file-pdf'></i>CV
+            - icon: file-pdf
+              icon_pack: fas
+              name: CV
               url: cv.pdf
             - name: Publications
               url: publications/
