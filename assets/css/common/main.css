@@ -75,3 +75,9 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+.site-title {
+    font-family: 'Petrona', serif;
+    font-size: 2rem; /* Imposta una dimensione del font adatta */
+    font-weight: 700; /* Imposta il peso per il titolo */
+}
