@@ -12,7 +12,6 @@
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 8;
-    font-family: 'Petrona', serif;
 }
 
 .first-entry .entry-header h1 {
@@ -33,6 +32,7 @@
 
 .home-info .entry-content {
     -webkit-line-clamp: unset;
+    font-family: 'Red Hat Text', sans-serif;
 }
 
 .post-entry {
@@ -43,7 +43,6 @@
     border-radius: var(--radius);
     transition: transform 0.1s;
     border: 2px solid var(--border);
-    font-family: 'Red Hat Text', sans-serif;
 }
 
 .post-entry:hover {
