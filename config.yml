@@ -55,11 +55,11 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: CV
+            - name: cv
               url: cv.pdf
-            - name: Publications
+            - name: publications
               url: publications/
-            - name: Projects
+            - name: projects
               url: projects/
 
     socialIcons:
