@@ -87,7 +87,7 @@
 .post-meta a,
 .toc a:hover {
     box-shadow: 0 1px 0 var(--darkcolor);
-    color: var(darkcolor); 
+    color: var(--darkcolor); 
 }
 
 .post-content a code {
