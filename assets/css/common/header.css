@@ -7,7 +7,6 @@
     line-height: var(--header-height);
     background: var(--code-bg);
     font-family: 'Red Hat Text', sans-serif;
-    text-transform: uppercase;
     letter-spacing: 2px;
 }
 
@@ -29,11 +28,6 @@
     font-size: var(--headersize);
     font-weight: 550;
 }
-
-.logo .active {
-    border-bottom: 2px solid var(--darkcolor);
-}
-
 
 .logo a img, .logo a svg {
     display: inline;
@@ -72,6 +66,7 @@ body:not(.dark) #sun {
 #menu a {
     font-size: var(--headersize);
     font-weight: 400;
+    text-transform: uppercase;
     color: var(--darkcolor);
 }
 
