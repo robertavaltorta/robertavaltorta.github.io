@@ -86,8 +86,8 @@
 .post-content a,
 .post-meta a,
 .toc a:hover {
-    box-shadow: 0 1px 0 var(--darkcolor);
-    color: var(--darkcolor); 
+    box-shadow: none
+    color: var(--#d96e34); 
 }
 
 .post-content a code {
