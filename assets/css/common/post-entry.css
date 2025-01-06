@@ -12,6 +12,7 @@
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 8;
+    font-family: 'Petrona', serif;
 }
 
 .first-entry .entry-header h1 {
@@ -24,10 +25,12 @@
     margin: 14px 0;
     font-size: 16px;
     -webkit-line-clamp: 8;
+    font-family: 'Red Hat Text', sans-serif;
 }
 
 .first-entry .entry-footer {
     font-size: 14px;
+    font-family: 'Red Hat Text', sans-serif;
 }
 
 .home-info .entry-content {
