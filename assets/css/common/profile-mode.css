@@ -41,6 +41,7 @@
     padding: 6px;
     transition: transform 0.1s;
     font-family: 'Red Hat Text', sans-serif;
+    font-variant: small-caps;
 }
 
 .button-inner {
