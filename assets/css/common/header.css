@@ -30,6 +30,11 @@
     font-weight: 550;
 }
 
+.logo .active {
+    border-bottom: 2px solid var(--darkcolor);
+}
+
+
 .logo a img, .logo a svg {
     display: inline;
     vertical-align: middle;
