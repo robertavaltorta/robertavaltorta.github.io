@@ -13,6 +13,7 @@
     margin-top: 10px;
     margin-bottom: 5px;
     font-family: 'Red Hat Text', sans-serif;
+    color: var(--primary);
 }
 
 .post-meta,
@@ -20,6 +21,7 @@
     color: var(--secondary);
     font-size: 15px;
     font-family: 'Red Hat Text', sans-serif;
+    color: var(--primary);
 }
 
 .post-meta .i18n_list li {
@@ -28,6 +30,7 @@
     margin: auto 3px;
     box-shadow: 0 1px 0 var(--secondary);
     font-family: 'Red Hat Text', sans-serif;
+    color: var(--primary);
 }
 
 .post-content {
@@ -35,6 +38,7 @@
     line-height: var(--lineheight);
     font-size: var(--textsize);
     font-family: 'Red Hat Text', sans-serif;
+    color: var(--primary);
 }
 
 .post-content h3,
@@ -43,7 +47,6 @@
 .post-content h6 {
     margin: 24px 0 16px;
     font-family: 'Red Hat Text', sans-serif;
-    color: var(--primary);
 }
 
 .post-content h1 {
