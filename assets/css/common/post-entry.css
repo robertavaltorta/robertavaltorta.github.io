@@ -12,6 +12,7 @@
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 8;
+    font-family: 'Petrona', serif;
 }
 
 .first-entry .entry-header h1 {
