@@ -8,6 +8,7 @@
     min-height: calc(100vh - var(--footer-height) - (var(--gap) * 2));
     font-size: var(--homesize);
     line-height: var(--lineheight);
+    font-weight: 100;
 }
 
 .profile .profile_inner {
