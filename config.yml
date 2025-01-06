@@ -54,10 +54,9 @@ params:
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          links:
-            - icon: file-pdf
-              icon_pack: fas
-              name: CV
+          buttons:
+            - name: CV
+              icons: fas/file-pdf
               url: cv.pdf
             - name: Publications
               url: publications/
