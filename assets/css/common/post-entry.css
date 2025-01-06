@@ -17,6 +17,7 @@
 .first-entry .entry-header h1 {
     font-size: 34px;
     line-height: 1.3;
+    font-family: 'Petrona', serif;
 }
 
 .first-entry .entry-content {
@@ -41,6 +42,7 @@
     border-radius: var(--radius);
     transition: transform 0.1s;
     border: 2px solid var(--border);
+    font-family: 'Red Hat Text', sans-serif;
 }
 
 .post-entry:hover {
