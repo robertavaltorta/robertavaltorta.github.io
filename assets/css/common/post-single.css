@@ -85,9 +85,17 @@
 
 .post-content a,
 .post-meta a,
+.toc a {
+    box-shadow: 0 1px 0 var(--darkcolor); /* La riga sotto il link */
+    color: var(--primary); /* Colore normale del link */
+    transition: all 0.3s ease; /* Aggiungi una transizione per l'effetto di hover */
+}
+
+.post-content a:hover,
+.post-meta a:hover,
 .toc a:hover {
-    box-shadow: 0 1px 0 var(--darkcolor);
-    color: var(--#d96e34); 
+    box-shadow: none; /* Rimuove la riga quando il mouse passa sopra */
+    color: var(--darkcolor); /* Cambia il colore del testo al passaggio del mouse */
 }
 
 .post-content a code {
