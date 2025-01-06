@@ -75,9 +75,3 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
-
-.title {
-    font-family: 'Petrona', serif;
-    font-size: 2rem;
-    font-weight: 700;
-}
