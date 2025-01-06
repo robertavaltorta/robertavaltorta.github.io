@@ -38,7 +38,7 @@
     color: var(--darkcolor);
 }
 
-.social-icons a:hover {
+.social-icons a:hover svg {
     color: #d96e34;
 }
 
