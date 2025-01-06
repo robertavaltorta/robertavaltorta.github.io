@@ -73,7 +73,7 @@
 
 .post-content h5 {
     font-size: 14px;
-    font-weight: bold;
+    font-weight: semibold;
     text-transform: uppercase;
     color: var(--gray);
 }
