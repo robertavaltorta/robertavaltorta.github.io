@@ -31,7 +31,7 @@
     #font-weight: semibold;
 }
 
-#logo .active {
+#logo .hoover {
     border-bottom: 1px solid var(--primary);
 }
 
@@ -79,6 +79,11 @@ body:not(.dark) #sun {
 #menu .active {
     border-bottom: 1px solid var(--darkcolor);
 }
+
+#menu .hoover {
+    border-bottom: 1px solid var(--darkcolor);
+}
+
 
 .lang-switch li,
 .lang-switch ul,
