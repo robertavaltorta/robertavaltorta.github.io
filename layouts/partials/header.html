@@ -42,7 +42,6 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-<h1 class="site-title">{{ site.Title }}</h1>
             {{- $label_text := (site.Params.label.text | default site.Title) }}
             {{- if site.Title }}
             <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }}">
