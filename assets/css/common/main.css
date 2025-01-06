@@ -35,11 +35,11 @@
 .social-icons a svg {
     height: 20px;
     width: 20px;
-    fill: var(--darkcolor);
+    color: var(--darkcolor);
 }
 
 .social-icons a:hover {
-    fill: #d96e34;
+    color: #d96e34;
 }
 
 code {
