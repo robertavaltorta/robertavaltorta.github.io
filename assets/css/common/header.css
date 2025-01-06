@@ -8,6 +8,8 @@
     background: var(--code-bg);
     font-family: 'Red Hat Text', sans-serif;
     text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--darkcolor);
 }
 
 .nav a {
