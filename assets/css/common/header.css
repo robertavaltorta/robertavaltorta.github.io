@@ -19,7 +19,6 @@
 #menu {
     display: flex;
     margin: auto var(--gap);
-    color: var(--darkcolor);
 }
 
 .logo {
@@ -72,6 +71,7 @@ body:not(.dark) #sun {
 
 #menu .active {
     border-bottom: 2px solid var(--darkcolor);
+    color: var(--darkcolor);
 }
 
 .lang-switch li,
