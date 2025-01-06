@@ -6,7 +6,6 @@
 .main .profile {
     align-items: center;
     min-height: calc(100vh - var(--footer-height) - (var(--gap) * 2));
-    font-family: 'Petrona', serif;
     font-size: var(--homesize);
     line-height: var(--lineheight);
 }
@@ -20,6 +19,8 @@
 
 .profile .profile_inner h1 {
     font-size: 40px;
+    font-family: 'Petrona', serif;
+
 }
 
 .profile img {
