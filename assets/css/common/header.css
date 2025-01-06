@@ -19,6 +19,7 @@
 #menu {
     display: flex;
     margin: auto var(--gap);
+    var(--darkcolor)
 }
 
 .logo {
@@ -58,7 +59,6 @@ body:not(.dark) #sun {
     word-break: keep-all;
     overflow-x: auto;
     white-space: nowrap;
-    color: var(--darkcolor);
 }
 
 #menu li + li {
