@@ -43,6 +43,7 @@
 .post-content h6 {
     margin: 24px 0 16px;
     font-family: 'Red Hat Text', sans-serif;
+    color: var(--primary);
 }
 
 .post-content h1 {
