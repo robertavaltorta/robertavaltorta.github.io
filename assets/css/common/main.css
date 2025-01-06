@@ -4,7 +4,8 @@
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
     padding: var(--gap);
-font-family: ‘Red Hat Text’, sans-serif;
+    font-family: ‘Red Hat Text’, sans-serif;
+    font-weight: 400;
 }
 
 .page-header h1 {
