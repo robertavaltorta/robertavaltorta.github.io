@@ -64,7 +64,7 @@ body:not(.dark) #sun {
 }
 
 #menu a {
-    font-size: var(--headersize);
+    font-size: 17px;
     font-weight: 400;
     color: var(--darkcolor);
 }
