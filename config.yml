@@ -56,7 +56,7 @@ params:
           imageHeight: 160
           buttons:
             - name: CV
-              icons: fas/file-pdf
+              icons: brands/linkedin
               url: cv.pdf
             - name: Publications
               url: publications/
