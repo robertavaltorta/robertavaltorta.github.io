@@ -52,7 +52,7 @@
 }
 
 #.post-entry:hover {
-    # border: 0.5px solid var(--darkcolor);
+    # border: 1px solid var(--darkcolor);
 #}
 
 .tag-entry .entry-cover {
