@@ -84,6 +84,12 @@
     color: var(--secondary);
 }
 
+a:hover {
+    text-decoration: none; 
+    background: var(--lightcolor); 
+    box-shadow: none !important; 
+}
+
 .post-content a,
 .post-meta a,
 .toc a {
@@ -367,12 +373,13 @@
     background: var(--code-bg);
 }
 
-#.post-tags a:hover {
+.post-tags a:hover {
     #background: var(--lightcolor);
-#}
+}
 
 .paginav a:hover {
-    #background: var(--lightcolor);
+    background: var(--lightcolor);
+    box-shadow: none !important; 
 }
 
 .share-buttons {
