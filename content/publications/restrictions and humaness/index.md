@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 restrictions and sense of humanness: the role of human needs threat"
+title: "COVID-19 restrictions and sense of humanness: The role of human needs threat"
 date: 2024-11-27
 author: ["Cristina Baldissarri","Giuseppe Raguso",<b>Roberta Rosa Valtorta</b>,"Luca Andrighetto","Chiara Volpato"]
 summary: "This study examines how COVID-19 restrictions increased the sense of threat to human needs, leading to higher self-dehumanization and lower concern for humanity"
@@ -31,6 +31,6 @@ The present study analyses the effects of COVID-19 restrictions on self-percepti
 
 ##### Citation
 
-Baldissarri, C., Raguso, G., **Valtorta, R. R.**, Andrighetto, L., & Volpato, C. (2024). COVID-19 restrictions and sense of humanness: the role of human needs threat. *International Journal of Social Psychology*. Advance online publication.
+Baldissarri, C., Raguso, G., **Valtorta, R. R.**, Andrighetto, L., & Volpato, C. (2024). COVID-19 restrictions and sense of humanness: The role of human needs threat. *International Journal of Social Psychology*. Advance online publication.
 
 ---
