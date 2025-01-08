@@ -371,9 +371,9 @@
     #background: var(--lightcolor);
 #}
 
-#.paginav a:hover {
+.paginav a:hover {
     #background: var(--lightcolor);
-#}
+}
 
 .share-buttons {
     padding: 10px;
