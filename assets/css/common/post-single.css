@@ -86,7 +86,7 @@
 
 a:hover {
     text-decoration: none; 
-    background: var(--lightcolor); 
+    background: none; 
     box-shadow: none !important; 
 }
 
