@@ -84,12 +84,6 @@
     color: var(--secondary);
 }
 
-a:hover {
-    text-decoration: none !important; 
-    background: none; 
-    box-shadow: none !important; 
-}
-
 .post-content a,
 .post-meta a,
 .toc a {
