@@ -35,6 +35,4 @@ For a deeper understanding, see the following articles of ours on the topic:
 
 #### Awards
 
-For a deeper understanding, see the following articles on the topic: 
-
--   [Chapter 1: History of the Portuguese language](/publications/covid-and-prejudice/)
+A portion of this project was included in my PhD thesis, which won the "Best Doctoral Dissertation in Social Psychology 2018-2019" award from the Social Psychology section of the Italian Association of Psychology.
