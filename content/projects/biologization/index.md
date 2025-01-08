@@ -35,4 +35,4 @@ For a deeper understanding, see the following articles of ours on the topic:
 
 #### Awards
 
-A portion of this project was included in my PhD thesis, which won the "Best Doctoral Dissertation in Social Psychology 2018-2019" award from the Social Psychology section of the Italian Association of Psychology.
+A portion of this project was included in my PhD thesis, which won the "Best Doctoral Dissertation in Social Psychology 2018-2019" award from the Social Psychology section of the [Italian Association of Psychology](https://aipass.org/).
