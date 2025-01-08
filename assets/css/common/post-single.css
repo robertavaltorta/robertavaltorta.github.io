@@ -87,7 +87,7 @@
 .post-content a,
 .post-meta a,
 .toc a {
-    box-shadow: 0 2px 0 var(--darkcolor); 
+    box-shadow: 0 1px 0 var(--darkcolor); 
     color: var(--darkcolor); 
     #transition: all 0.3s ease; 
 }
