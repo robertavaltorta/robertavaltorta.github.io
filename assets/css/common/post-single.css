@@ -367,9 +367,9 @@
     background: var(--code-bg);
 }
 
-.post-tags a:hover {
-    background: var(--lightcolor);
-}
+#.post-tags a:hover {
+    #background: var(--lightcolor);
+#}
 
 .paginav a:hover {
     background: var(--lightcolor);
