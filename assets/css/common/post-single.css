@@ -90,7 +90,6 @@
     box-shadow: 0 2px 0 var(--darkcolor); 
     color: var(--darkcolor); 
     #transition: all 0.3s ease; 
-    text-decoration-thickness: 0.5px;
 }
 
 .post-content a:hover,
