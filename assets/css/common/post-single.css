@@ -378,8 +378,7 @@ a:hover {
 }
 
 .paginav a:hover {
-    background: var(--lightcolor);
-    box-shadow: none !important; 
+    box-shadow: none;
 }
 
 .share-buttons {
