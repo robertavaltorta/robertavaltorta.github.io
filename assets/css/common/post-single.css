@@ -101,6 +101,7 @@ a:hover {
 .post-content a:hover,
 .post-meta a:hover,
 .toc a:hover {
+    outline: none !important;
     box-shadow: none !important; 
     color: #d96e34 !important; 
 }
