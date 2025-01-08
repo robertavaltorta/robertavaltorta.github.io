@@ -22,14 +22,14 @@ Currently, we are deepening our understanding of biologization by focusing on it
 
 #### View
 
-For a deeper understanding, see the following articles on the topic: 
+For a deeper understanding, see the following articles of ours on the topic: 
 
--   [Valtorta et al. (2023). *Investigating the link between biological dehumanization and indirect aggression*.](/publications/biologization-and-aggression/)
--   [Valtorta et al. (2021). *Intergroup biologization and outgroup prejudice in the time of COVID-19*.](/publications/covid-and-prejudice/)
--   [Valtorta et al. (2021). *Seeing others as a disease: The impact of physical (but not moral) disgust on biologization*.](/publications/disgust-and-biologization/)
--   [Valtorta et al. (2019). *The dirty side of work: Biologization of physically tainted workers*.](/publications/biologization-workers/)
--   [Valtorta et al. (2019). *Dirty jobs and dehumanization of workers*.](/publications/dirty-jobs/)
--   [Valtorta et al. (2018). *'The body and soul emotion' - The role of disgust in intergroup relations*.](/publications/the-body-and-soul-emotion/)
+-   [Investigating the link between biological dehumanization and indirect aggression.](/publications/biologization-and-aggression/)
+-   [Intergroup biologization and outgroup prejudice in the time of COVID-19.](/publications/covid-and-prejudice/)
+-   [Seeing others as a disease: The impact of physical (but not moral) disgust on biologization.](/publications/disgust-and-biologization/)
+-   [The dirty side of work: Biologization of physically tainted workers.](/publications/biologization-workers/)
+-   [Dirty jobs and dehumanization of workers.](/publications/dirty-jobs/)
+-   ['The body and soul emotion' - The role of disgust in intergroup relations.](/publications/the-body-and-soul-emotion/)
 
 ------------------------------------------------------------------------
 
