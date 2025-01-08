@@ -95,8 +95,8 @@
 .post-content a:hover,
 .post-meta a:hover,
 .toc a:hover {
-    box-shadow: none; 
-    color: #d96e34; 
+    box-shadow: none !important; 
+    color: #d96e34 !important; 
 }
 
 .post-content a code {
