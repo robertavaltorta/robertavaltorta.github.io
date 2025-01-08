@@ -22,9 +22,9 @@ Currently, we are deepening our understanding of biologization by focusing on it
 
 #### View
 
-For a deeper understanding, see the following articles of ours on the topic: 
+For a deeper understanding, see the following articles: 
 
--   [Investigating the link between biological dehumanization and indirect aggression.](/publications/biologization-and-aggression/)
+-   [Investigating the link between biological dehumanization and indirect aggression.](/publications/dehumanization-and-aggression/)
 -   [Intergroup biologization and outgroup prejudice in the time of COVID-19.](/publications/covid-and-prejudice/)
 -   [Seeing others as a disease: The impact of physical (but not moral) disgust on biologization.](/publications/disgust-and-biologization/)
 -   [The dirty side of work: Biologization of physically tainted workers.](/publications/biologization-workers/)
