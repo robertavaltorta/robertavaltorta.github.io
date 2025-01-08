@@ -49,9 +49,9 @@
     font-family: 'Red Hat Text', sans-serif;
 }
 
-.post-entry:hover {
-     border: 1px solid var(--darkcolor);
-}
+#.post-entry:hover {
+    # border: 1px solid var(--darkcolor);
+#}
 
 .tag-entry .entry-cover {
     display: none;
