@@ -35,7 +35,7 @@
 .button {
     #background: var(--tertiary);
     background: transparent;
-    border: 1.8px solid var(--darkcolor);
+    border: 1.7px solid var(--darkcolor);
     color: var(--darkcolor);
     border-radius: var(--radius);
     margin: 8px 16px 8px 0px;
