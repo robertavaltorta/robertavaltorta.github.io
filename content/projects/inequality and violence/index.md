@@ -1,7 +1,7 @@
 ---
 title: "Economic inequality and gender-based violence" 
 author: [""]
-summary: "Negative outcomes of greater income inequality extend beyond economic disparities, impacting various aspects of social and individual well-being. These include lower overall life satisfaction, reduced mental and physical health, shorter life expectancy, and higher mortality rates. This project intends to add a tile to this picture by investigating whether greater inequality is also linked to higher tolerance of gender-based violence among women."
+summary: "Negative outcomes of greater income inequality extend beyond economic disparities, impacting various aspects of social and individual well-being. These include lower overall life satisfaction, reduced mental and physical health, and higher mortality rates. This project intends to add a tile to this picture by investigating whether greater inequality is also linked to higher tolerance of gender-based violence among women."
 cover:
     image: "inequality.jpg"
     alt: "Goddess of justice holding a scale"
@@ -26,4 +26,4 @@ For a deeper understanding, see my report [here](https://www.easp.eu/news/itm/ea
 
 #### Funds
 
-For this research project, I received funding from the [European Association of Social Psychology](https://www.easp.eu/).
+For this project, I received funding from the [European Association of Social Psychology](https://www.easp.eu/).
