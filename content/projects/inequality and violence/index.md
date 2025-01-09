@@ -1,7 +1,7 @@
 ---
 title: "Economic inequality and gender-based violence" 
 author: [""]
-summary: "Negative outcomes of greater income inequality include lower well-being, shorter life expectancy, and higher mortality rates. This project intends to add a tile to this picture by investigating whether greater inequality is also linked to higher tolerance of gender-based violence among women."
+summary: "Negative outcomes of greater income inequality extend beyond economic disparities, including lower well-being, shorter life expectancy, and higher mortality rates. This project intends to add a tile to this picture by investigating whether greater inequality is also linked to higher tolerance of gender-based violence among women."
 cover:
     image: "inequality.jpg"
     alt: "Goddess of justice holding a scale"
