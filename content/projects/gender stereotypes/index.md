@@ -1,5 +1,5 @@
 ---
-title: "Gender stereotypes in media and sports" 
+title: "Gender stereotypes and their manifestations" 
 author: [""]
 summary: "Gender stereotypes shape perceptions, expectations, and behaviors from an early age, influencing personal identities and social interactions. This line of research examines gender stereotypes across various domains, such as television advertising and sports."
 cover:
