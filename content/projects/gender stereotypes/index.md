@@ -4,7 +4,7 @@ author: [""]
 summary: "Gender stereotypes shape perceptions, expectations, and behaviors from an early age, influencing personal identities and social interactions. This line of research examines gender stereotypes across various domains, such as television advertising and sports."
 cover:
     image: "gender.jpg"
-    alt: "Sticker featuring a computer with the phrase 'binary is for computers'"
+    alt: "A hand handling dice with the symbols of the masculine and feminine"
     relative: false
 showToc: false
 disableAnchoredHeadings: true
