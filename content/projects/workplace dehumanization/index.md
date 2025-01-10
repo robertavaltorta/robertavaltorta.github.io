@@ -33,4 +33,4 @@ For a deeper understanding, see the following articles:
 
 #### Awards
 
-For this line of research, I was awarded the "Young Talents 2023" award, conferred by the [University of Milano-Bicocca](https://en.unimib.it/) and the [Accademia Nazionale dei Lincei](https://www.lincei.it/en).
+For this line of research, I was honored with the "Young Talents 2023" award, conferred by the [University of Milano-Bicocca](https://en.unimib.it/) and the [Accademia Nazionale dei Lincei](https://www.lincei.it/en).

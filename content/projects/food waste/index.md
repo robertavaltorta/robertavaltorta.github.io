@@ -12,7 +12,7 @@ disableAnchoredHeadings: true
 
 #### Description
 
-A well-established finding in the literature is that **food waste** has become a significant global issue with serious environmental, economic, and social implications. Recent studies have highlighted that the majority of this waste, approximately 60%, occurs at the **household level**, emphasizing the need for targeted interventions. Although there has been progress in understanding the factors contributing to food waste at home, the focus of most research has been on food purchasing and preservation practices.
+A thoroughly supported finding in the literature is that **food waste** has become a significant global issue with serious environmental, economic, and social implications. Recent studies have highlighted that the majority of this waste, approximately 60%, occurs at the **household level**, emphasizing the need for targeted interventions. Although there has been progress in understanding the factors contributing to food waste at home, the focus of most research has been on food purchasing and preservation practices.
 
 This line of research aims to develop **strategies for reducing household food waste** through psychosocial interventions. In particular, an ongoing project is exploring the role of encouraging **leftover reuse** combined with **nudges**. By using positive reinforcement and providing information about food waste, the study investigates how these interventions can shape participants' behaviors over time, promoting more sustainable practices.
 
