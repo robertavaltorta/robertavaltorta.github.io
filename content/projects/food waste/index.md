@@ -1,7 +1,7 @@
 ---
 title: "Strategies for household food waste reduction" 
 author: [""]
-summary: "Food waste is a pervasive issue with significant environmental, economic, and social consequences, affecting households worldwide. This project explores various behavioral interventions aimed at reducing food waste at the household level, focusing on how small changes in daily habits and decisions can lead to substantial reductions in waste."
+summary: "Food waste is a pervasive issue with significant environmental, economic, and social consequences. This project explores various behavioral interventions aimed at reducing food waste at the household level, focusing on how small changes in daily habits and decisions can lead to substantial reductions in waste."
 cover:
     image: "waste.jpg"
     alt: "Remains of rotten fruit and vegetables"
