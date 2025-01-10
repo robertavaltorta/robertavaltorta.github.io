@@ -7,6 +7,7 @@ This repository is a fork of the [Minimalist Hugo Template for Academic Websites
 This version of the template includes:
 - Updated personal information and academic content.
 - Minor adjustments to configuration files (e.g., `baseURL`, `author`).
+- Aesthetic modifications tailored to my preferences, including changes in layout, typography, and color scheme.
 
 ## Documentation
 
