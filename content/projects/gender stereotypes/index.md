@@ -14,7 +14,9 @@ disableAnchoredHeadings: true
 
 It has been demonstrated that television influences children and adults quite intensely. Although it would be difficult to argue that advertising's representations of women in subordinate or decorative roles are solely responsible for limiting the aspirations of young girls, researchers have demonstrated how advertising acts conservatively to reinforce outdated images.
 
-The current project examines **gender-stereotypical representations** in Italian **television commercials** targeting children and adults. So far, we have demonstrated that more **women** than men appear in **subservient and decorative roles**, and men have more important roles and a greater range of roles to fulfill. As for children, our results indicate that advertisements aimed at girls contain more **prosocial verbs** and feminine voiceovers, are more likely to take place in the **home setting**, and are more likely to convey **warm or interaction-related content**. The opposite is true for boys.
+The current project examines **gender-stereotypical representations** in Italian **television commercials** targeting children and adults. So far, we have demonstrated that more **women** than men appear in **subservient and decorative roles**, and men have more important roles and a greater range of roles to fulfill.
+
+As for children, our results indicate that advertisements aimed at girls contain more **prosocial verbs** and feminine voiceovers, are more likely to take place in the **home setting**, and are more likely to convey **warm or interaction-related content**. The opposite is true for boys.
 
 ------------------------------------------------------------------------
 
