@@ -1,7 +1,7 @@
 ---
-title: "Gender stereotypes and television advertising" 
+title: "Gender stereotypes in media and sports" 
 author: [""]
-summary: "Commercials constitute one of the main elements of the social pressure associated with stereotyped views of the world. Adopting the content analysis approach, this project examines gender-stereotypical representations in Italian television advertising aimed at adults and children."
+summary: "Gender stereotypes shape perceptions, expectations, and behaviors from an early age, influencing personal identities and social interactions. This line of research examines gender stereotypes across various domains, such as television advertising and sports."
 cover:
     image: "gender.jpg"
     alt: "Sticker featuring a computer with the phrase 'binary is for computers'"
