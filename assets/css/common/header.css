@@ -8,7 +8,6 @@
     background: var(--code-bg);
     font-family: 'Red Hat Text', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 2px;
 }
 
 .nav a {
@@ -69,6 +68,7 @@ body:not(.dark) #sun {
     font-size: var(--headersize);
     font-weight: 400;
     color: var(--darkcolor);
+    letter-spacing: 2px;
 }
 
 #menu .active {
