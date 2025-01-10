@@ -22,4 +22,4 @@ Additionally, we aim to explore the effectiveness of **social media content** re
 
 #### Funds
 
-This project is funded by the [National Recovery and Resilience Plan (PNRR)](https://www.italiadomani.gov.it/content/sogei-ng/it/en/home.html).
+This project has been funded by the [National Recovery and Resilience Plan (PNRR)](https://www.italiadomani.gov.it/content/sogei-ng/it/en/home.html).
