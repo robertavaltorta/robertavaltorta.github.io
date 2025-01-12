@@ -16,7 +16,7 @@ Gender stereotypes often shape individuals' perceptions, expectations, and behav
 
 So far, we have examined **gender-stereotypical representations** in Italian **television commercials** targeting children and adults. We found that more **women** than men appear in **subservient and decorative roles**, and men have more important roles and a greater range of roles to fulfill. As for children, our results indicate that advertisements aimed at **girls** contain more **prosocial verbs** and are more likely to take place in the **domestic setting**.
 
-Furthermore, we have investigated gender stereotypes within the world of **sports in Italy**, specifically aiming to develop a **scale** to measure the endorsement of gender-based beliefs within the **soccer culture**.
+Furthermore, we have investigated gender stereotypes within the world of **sports in Italy**, specifically aiming to develop a **scale** to measure the endorsement of gender-based beliefs within the **Italian soccer culture**.
 
 ------------------------------------------------------------------------
 
