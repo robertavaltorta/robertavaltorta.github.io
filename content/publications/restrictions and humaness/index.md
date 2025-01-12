@@ -5,7 +5,7 @@ author: ["Cristina Baldissarri","Giuseppe Raguso",<b>Roberta Rosa Valtorta</b>,"
 summary: "This study examines how COVID-19 restrictions increased the sense of threat to human needs, leading to higher self-dehumanization and lower concern for humanity."
 cover:
     image: "restrictions-humanness.png"
-    alt: "Colored post-it notes with written restrictions (e.g.,'stay home')"
+    alt: "Text 'stay home #covid-19' on a yellow background"
     relative: false
 editPost:
     URL: "https://journals.sagepub.com/doi/10.1177/02134748241296691"
