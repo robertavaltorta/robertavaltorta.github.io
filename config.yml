@@ -56,7 +56,7 @@ params:
           imageHeight: 160
           buttons:
             - name: CV
-              url: cv.pdf
+              url: cv-valtorta.pdf
             - name: Publications
               url: publications/
             - name: Projects

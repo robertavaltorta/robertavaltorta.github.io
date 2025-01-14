@@ -4,7 +4,7 @@ author: [""]
 summary: "Biological dehumanization (or biologization) is a form of dehumanization in which others are perceived as viruses and contagious entities rather than human beings. The present line of research explores this phenomenon by investigating its antecedents and consequences through correlational and experimental studies."
 cover:
     image: "biologization.jpg"
-    alt: "Stylized person holding a sign with the text 'I am not a virus'"
+    alt: "Man from behind with a sign in his hand that says 'Racism is a virus'"
     relative: false
 showToc: false
 disableAnchoredHeadings: true
