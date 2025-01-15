@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: CV
-          url: cv.pdf
+          url: cv-valtorta.pdf
           weight: 1
         - name: Publications
           url: publications/
