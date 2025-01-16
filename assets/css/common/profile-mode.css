@@ -12,20 +12,6 @@
     gap: 20px; /* Spaziatura tra gli elementi */
 }
 
-/* Aggiornamenti esistenti per allineare il contenuto */
-.profile img {
-    border-radius: 50%;
-    width: 120px; /* Dimensione immagine */
-    height: 120px; /* Mantieni proporzioni */
-}
-
-.profile .profile_inner h1 {
-    font-size: 40px;
-    font-family: 'Petrona', serif;
-    letter-spacing: 0.5px;
-    text-align: center; /* Allinea il titolo al centro */
-}
-
 .buttons,
 .main .profile {
     display: flex;
