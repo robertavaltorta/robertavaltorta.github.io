@@ -1,3 +1,31 @@
+.profile-container {
+    background-color: #ffe4e1; /* Rosa chiaro */
+    border: 1px solid #ffb6c1; /* Bordo rosa più scuro */
+    border-radius: 15px; /* Angoli arrotondati */
+    padding: 20px; /* Spaziatura interna */
+    margin: 20px auto; /* Spaziatura esterna */
+    max-width: 800px; /* Limita la larghezza per layout desktop */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Leggera ombra per effetto 3D */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* Spaziatura tra gli elementi */
+}
+
+/* Aggiornamenti esistenti per allineare il contenuto */
+.profile img {
+    border-radius: 50%;
+    width: 120px; /* Dimensione immagine */
+    height: 120px; /* Mantieni proporzioni */
+}
+
+.profile .profile_inner h1 {
+    font-size: 40px;
+    font-family: 'Petrona', serif;
+    letter-spacing: 0.5px;
+    text-align: center; /* Allinea il titolo al centro */
+}
+
 .buttons,
 .main .profile {
     display: flex;
