@@ -122,6 +122,11 @@ body:not(.dark) #sun {
 
 @media (pointer: coarse), (max-width: 768px) {
 
+body.menu-open {
+    padding-top: 200px; 
+    transition: padding-top 0.3s ease-in-out; 
+}
+
     #menu {
         display: none;
         position: absolute;
