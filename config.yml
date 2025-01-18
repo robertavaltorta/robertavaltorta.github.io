@@ -4,7 +4,8 @@ theme: PaperMod
 paginate: 5
 
 enableInlineShortcodes: true
-enableRobotsTXT: true
+enableRobotsTXT: 
+enableEmoji: true
 
 taxonomies:
     tag: tags
@@ -85,13 +86,52 @@ params:
       iconHeight: 18
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+     blackFriday:
+    angledQuotes: false
+    extensions: null
+    extensionsMask: null
+    footnoteAnchorPrefix: ""
+    footnoteReturnLinkContents: ""
+    fractions: true
+    hrefTargetBlank: false
+    latexDashes: true
+    nofollowLinks: false
+    noreferrerLinks: false
+    plainIDAnchors: true
+    skipHTML: false
+    smartDashes: true
+    smartypants: true
+    smartypantsQuotesNBSP: false
+    taskLists: true
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: autumn
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
