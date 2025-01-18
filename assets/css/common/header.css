@@ -169,16 +169,3 @@ body.menu-open .main-content{
         display: flex;
     }
 }
-
-@media (min-width: 769px) {
-    #menu {
-        display: flex;
-        position: relative;
-        top: 0;
-        flex-direction: row;
-    }
-
-    .hamburger {
-        display: none;     
-    }
-}
