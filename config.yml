@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Roberta Rosa Valtorta
-          subtitle: "Postdoctoral Researcher at the [University of Milano-Bicocca](https://www,prova.it)"
+          subtitle: ""
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
