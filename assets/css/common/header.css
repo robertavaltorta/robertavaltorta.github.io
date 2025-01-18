@@ -4,7 +4,6 @@
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    padding: 0 20px;
     line-height: var(--header-height);
     background: var(--code-bg);
 }
@@ -99,7 +98,6 @@ body:not(.dark) #sun {
 .logo-switches {
     display: flex;
     align-items: center;
-    justify-content: flex-end;
 }
 
 .hamburger {
