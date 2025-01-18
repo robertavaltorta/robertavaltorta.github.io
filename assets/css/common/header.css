@@ -124,6 +124,7 @@ body:not(.dark) #sun {
     .hamburger {
         display: flex;
     }
+
     #menu {
         display: none;
         position: absolute;
@@ -135,4 +136,11 @@ body:not(.dark) #sun {
         align-items: center;
         z-index: 10;	
     }
+
+    #menu li {
+        width: 100%;
+        text-align: center;
+        border-bottom: 1px solid var(--lightgray);     
+    }
+
 }

@@ -126,6 +126,11 @@
         <span class="line"></span>
         <span class="line"></span>
     </button>
+<ul id="menu">
+            <li><a href="/cv-valtorta.pdf" target="_blank" rel="noopener">CV</a></li>
+            <li><a href="/publications">Publications</a></li>
+            <li><a href="/projects">Projets</a></li>
+        </ul>
 {{- $currentPage := . }}
         <ul id="menu">
             {{- range site.Menus.main }}
@@ -153,4 +158,20 @@
             {{- end }}
         </ul>
     </nav>
+<script>
+   document.addEventListener("DOMContentLoaded", () => {
+       const hamburger = document.getElementById("hamburger-menu");
+       const menu = document.getElementById("menu");
+
+       hamburger.addEventListener("click", () => {
+           menu.classList.toggle("show");
+       });
+
+       document.addEventListener("click", (event) => {
+           if (!menu.contains(event.target) && !hamburger.contains(event.target)) {
+               menu.classList.remove("show");
+           }
+       });
+   });
+</script>
 </header>
