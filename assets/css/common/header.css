@@ -143,4 +143,20 @@ body:not(.dark) #sun {
         border-bottom: 1px solid var(--lightgray);     
     }
 
+    #menu a {
+        display: block;
+        padding: 10px;
+        color: var(--darkcolor);
+        text-decoration: none;
+        font-size: var(--headersize);
+    }
+
+    #menu a:hover {
+        background-color: var(--highlight-color); /* Highlight al passaggio */
+    }
+
+    /* Mostra il menu a tendina quando clicchi sull'hamburger */
+    #menu.show {
+    display: flex;
+    }
 }
