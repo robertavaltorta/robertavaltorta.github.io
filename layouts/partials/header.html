@@ -131,6 +131,27 @@
 		<li><a href="/publications">Publications</a></li>
 		<li><a href="/projects">Projects</a></li>
         </ul>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    const hamburger = document.getElementById("hamburger-menu");
+    const menu = document.getElementById("menu");
+    const body = document.body;
+
+    hamburger.addEventListener("click", () => {
+        menu.classList.toggle("show");
+        // Aggiungi o rimuovi la classe 'menu-open' al body per spostare il contenuto
+        body.classList.toggle("menu-open");
+    });
+
+    document.addEventListener("click", (event) => {
+        if (!menu.contains(event.target) && !hamburger.contains(event.target)) {
+            menu.classList.remove("show");
+            body.classList.remove("menu-open");
+        }
+    });
+});
+</script>
+</header>
 <div class="main-content">
 {{- $currentPage := . }}
         <ul id="menu">
@@ -160,24 +181,3 @@
         </ul>
     </nav>
 </div>
-<script>
-document.addEventListener("DOMContentLoaded", () => {
-    const hamburger = document.getElementById("hamburger-menu");
-    const menu = document.getElementById("menu");
-    const body = document.body;
-
-    hamburger.addEventListener("click", () => {
-        menu.classList.toggle("show");
-        // Aggiungi o rimuovi la classe 'menu-open' al body per spostare il contenuto
-        body.classList.toggle("menu-open");
-    });
-
-    document.addEventListener("click", (event) => {
-        if (!menu.contains(event.target) && !hamburger.contains(event.target)) {
-            menu.classList.remove("show");
-            body.classList.remove("menu-open");
-        }
-    });
-});
-</script>
-</header>
