@@ -121,9 +121,6 @@ body:not(.dark) #sun {
 }
 
 @media (pointer: coarse), (max-width: 768px) {
-    .hamburger {
-        display: flex;
-    }
 
     #menu {
         display: none;
@@ -158,5 +155,9 @@ body:not(.dark) #sun {
 
     #menu.show {
     display: flex;
+    }
+
+    .hamburger {
+        display: flex;
     }
 }
