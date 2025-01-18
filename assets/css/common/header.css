@@ -128,7 +128,7 @@ body:not(.dark) #sun {
     #menu {
         display: none;
         position: absolute;
-        top: 60px; 
+        top: 40px; 
         left: 0;
         width: 100%;
         background-color: var(--code-bg);
@@ -140,7 +140,6 @@ body:not(.dark) #sun {
     #menu li {
         width: 100%;
         text-align: left;
-        border-bottom: none;     
     }
 
     #menu a {
@@ -155,7 +154,6 @@ body:not(.dark) #sun {
         background-color: var(--highlight-color); /* Highlight al passaggio */
     }
 
-    /* Mostra il menu a tendina quando clicchi sull'hamburger */
     #menu.show {
     display: flex;
     }
