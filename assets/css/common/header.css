@@ -101,6 +101,7 @@ body:not(.dark) #sun {
     display: flex;
     align-items: center;
     margin-left: auto;
+    justify-content: flex-end;
 }
 .hamburger {
     display: none; 
