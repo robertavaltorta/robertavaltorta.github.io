@@ -121,7 +121,6 @@ body:not(.dark) #sun {
 }
 
 @media (pointer: coarse), (max-width: 768px) {
-
     #menu {
         display: none;
         position: absolute;
@@ -135,8 +134,8 @@ body:not(.dark) #sun {
     }
 
     #menu li {
-        width: 100%;
-        text-align: left;
+        display: flex;
+        justify-content: flex-start; 
 	padding: 0;
 	margin: 0;
     }
