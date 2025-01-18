@@ -49,9 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Roberta Rosa Valtorta
-          subtitle: "My research primarily focuses on **dehumanization**, with additional interests in **gender stereotypes** and **inequality**. More recently, I have been working on **food sustainability**. <br> 
-          <br>
-          I obtained my PhD in Social Psychology from the University of Milano-Bicocca in 2019. Afterward, I was a postdoc at the University of Valle d'Aosta and the University of Milano-Bicocca, while also teaching social and group psychology at the University of Trento."
+          subtitle: "PhD in Social Psychology"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
