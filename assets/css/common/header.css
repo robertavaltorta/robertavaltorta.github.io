@@ -83,8 +83,6 @@ body:not(.dark) #sun {
 .lang-switch ul,
 .logo-switches {
     display: flex;
-    align-items: center;
-    margin-left: auto;
 }
 
 .lang-switch {
@@ -108,7 +106,6 @@ body:not(.dark) #sun {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    gap: 5px;
     width: 30px;
     height: 25px;
     border: none;
