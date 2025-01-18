@@ -6,12 +6,11 @@
     margin-inline-end: auto;
     line-height: var(--header-height);
     background: var(--code-bg);
-    font-family: 'Red Hat Text', sans-serif;
-    text-transform: uppercase;
 }
 
 .nav a {
     display: block;
+	font-family: 'Petrona', sans-serif;
 }
 
 .logo,
@@ -68,6 +67,8 @@ body:not(.dark) #sun {
     font-size: var(--headersize);
     font-weight: 400;
     color: var(--darkcolor);
+    font-family: 'Red Hat Text', sans-serif;
+    text-transform: uppercase;
     letter-spacing: 2px;
 }
 
