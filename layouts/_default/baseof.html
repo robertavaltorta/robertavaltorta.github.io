@@ -12,7 +12,6 @@
 </head>
 
 <body class="
-{{ partial "header.html" . }}
 {{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
 {{- print "list" -}}
 {{- end -}}
