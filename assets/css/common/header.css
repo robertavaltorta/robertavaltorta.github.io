@@ -4,8 +4,7 @@
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    margin-inline-start: auto;
-    margin-inline-end: auto;
+    padding: 0 20px;
     line-height: var(--header-height);
     background: var(--code-bg);
 }
@@ -106,6 +105,8 @@ body:not(.dark) #sun {
 .hamburger {
     display: none; 
     flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
     width: 30px;
     height: 25px;
     border: none;
