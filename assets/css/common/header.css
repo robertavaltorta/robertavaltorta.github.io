@@ -104,6 +104,7 @@ body:not(.dark) #sun {
     display: none; 
     flex-direction: column;
     justify-content: space-around;
+    margin: auto var(--gap);
     align-items: center;
     width: 30px;
     height: 25px;
