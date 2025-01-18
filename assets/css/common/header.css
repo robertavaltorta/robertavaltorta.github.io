@@ -120,8 +120,9 @@ body:not(.dark) #sun {
     border-radius: 5px;
 }
 
-@media (max-width: 768px) {
-body.menu-open .main-content {
+@media (pointer: coarse), (max-width: 768px) {
+
+body.menu-open .main-content{
     padding-top: 200px; 
     transition: padding-top 0.3s ease-in-out; 
 }
@@ -166,5 +167,18 @@ body.menu-open .main-content {
 
     .hamburger {
         display: flex;
+    }
+}
+
+@media (min-width: 769px) {
+    #menu {
+        display: flex;
+        position: relative;
+        top: 0;
+        flex-direction: row;
+    }
+
+    .hamburger {
+        display: none;     
     }
 }
