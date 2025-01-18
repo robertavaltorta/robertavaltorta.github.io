@@ -134,7 +134,7 @@ body:not(.dark) #sun {
         z-index: 10;	
     }
 
-    #menu li {
+    .menu li {
         display: flex;
         justify-content: flex-start; 
 	padding: 0;
