@@ -39,7 +39,7 @@
     color: var(--darkcolor);
     border-radius: var(--radius);
     margin: 8px 16px 8px 0px;
-    padding: 6px;
+    padding: 3px;
     transition: transform 0.1s;
     font-family: 'Red Hat Text', sans-serif;
 }
