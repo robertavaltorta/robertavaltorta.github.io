@@ -108,6 +108,7 @@ body:not(.dark) #sun {
     border: none;
     background: transparent;
     cursor: pointer;
+    margin-left: auto;
 }
 
 .hamburger .line {
