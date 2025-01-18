@@ -131,6 +131,7 @@
 		<li><a href="/publications">Publications</a></li>
 		<li><a href="/projects">Projects</a></li>
         </ul>
+<div class="main-content">
 {{- $currentPage := . }}
         <ul id="menu">
             {{- range site.Menus.main }}
@@ -158,6 +159,7 @@
             {{- end }}
         </ul>
     </nav>
+</div>
 <script>
 document.addEventListener("DOMContentLoaded", () => {
     const hamburger = document.getElementById("hamburger-menu");
