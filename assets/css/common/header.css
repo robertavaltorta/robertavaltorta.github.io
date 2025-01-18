@@ -124,4 +124,14 @@ body:not(.dark) #sun {
     .hamburger {
         display: flex;
     }
+    #menu {
+        display: none;
+        position: absolute;
+        top: 60px; 
+        left: 0;
+        width: 100%;
+        background-color: var(--code-bg);
+        flex-direction: column;
+        align-items: center;
+        z-index: 10;
 }
