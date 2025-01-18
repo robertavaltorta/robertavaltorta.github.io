@@ -98,46 +98,28 @@ body:not(.dark) #sun {
 .logo-switches {
     flex-wrap: inherit;
 }
-/* Nascondi il menu di navigazione di default su mobile */
-.navbar-menu {
-    display: none;
-}
-
-/* Mostra il menu quando l'utente clicca sull'icona hamburger */
-.navbar-menu.open {
-    display: block;
-}
-
-/* Icona hamburger */
 .hamburger {
-    display: none;
-    background: transparent;
+    display: none; /* Di default non visibile su desktop */
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 30px;
+    height: 25px;
     border: none;
+    background: transparent;
     cursor: pointer;
-    font-size: 30px;
 }
 
-/* Stile dell'icona a tre linee */
-.hamburger-icon::before, 
-.hamburger-icon::after {
-    content: '';
-    display: block;
-    width: 25px;
-    height: 3px;
+.hamburger .line {
+    width: 100%;
+    height: 4px;
     background-color: #333;
-    margin: 5px auto;
+    border-radius: 5px;
 }
 
-@media screen and (max-width: 768px) {
-    /* Mostra l'icona hamburger su dispositivi mobili */
+/* Mostra l'hamburger solo su schermi piccoli (mobile) */
+@media (max-width: 768px) {
     .hamburger {
-        display: block;
-    }
-    
-    /* Aggiungi uno stile per la navbar, che di default è invisibile su mobile */
-    .navbar-right {
         display: flex;
-        align-items: center;
-        justify-content: space-between;
     }
 }
