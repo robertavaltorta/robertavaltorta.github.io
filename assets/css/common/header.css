@@ -120,7 +120,7 @@ body:not(.dark) #sun {
     border-radius: 5px;
 }
 
-@media (max-width: 768px) {
+@media (pointer: coarse), (max-width: 768px) {
     .hamburger {
         display: flex;
     }
@@ -139,8 +139,8 @@ body:not(.dark) #sun {
 
     #menu li {
         width: 100%;
-        text-align: center;
-        border-bottom: 1px solid var(--lightgray);     
+        text-align: left;
+        border-bottom: none;     
     }
 
     #menu a {
