@@ -76,6 +76,11 @@
             {{- end }}
             <div class="logo-switches">
                 {{- if (not site.Params.disableThemeToggle) }}
+<button class="hamburger" id="hamburger-menu" aria-label="Menu">
+    <span class="line"></span>
+    <span class="line"></span>
+    <span class="line"></span>
+</button>
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
@@ -121,25 +126,6 @@
                 {{- end }}
             </div>
         </div>
-<!-- Navbar HTML -->
-<nav class="navbar">
-    <div class="navbar-left">
-        <a href="/" class="navbar-brand">Nome</a>
-    </div>
-    <div class="navbar-right">
-        <!-- Menu hamburger per dispositivi mobili -->
-        <button class="hamburger" id="menu-toggle" aria-label="Toggle menu">
-            <span class="hamburger-icon"></span>
-        </button>
-        <div class="navbar-menu" id="menu">
-            <ul>
-                <li><a href="/cv">CV</a></li>
-                <li><a href="/publications">Publications</a></li>
-                <li><a href="/projects">Projects</a></li>
-            </ul>
-        </div>
-    </div>
-</nav>
 {{- $currentPage := . }}
         <ul id="menu">
             {{- range site.Menus.main }}
