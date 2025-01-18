@@ -82,7 +82,7 @@ body:not(.dark) #sun {
 .lang-switch li,
 .lang-switch ul,
 .logo-switches {
-    display: inline-flex;
+    display: flex;
     align-items: center;
     margin-left: auto;
 }
@@ -99,7 +99,9 @@ body:not(.dark) #sun {
 }
 
 .logo-switches {
-    flex-wrap: inherit;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
 }
 .hamburger {
     display: none; /* Di default non visibile su desktop */
