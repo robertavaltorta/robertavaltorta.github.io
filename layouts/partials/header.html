@@ -121,11 +121,21 @@
                 {{- end }}
             </div>
         </div>
-   <button class="hamburger" id="hamburger-menu" aria-label="Toggle menu">
-            <span class="line"></span>
-            <span class="line"></span>
-            <span class="line"></span>
-   </button>
+<nav class="navbar">
+  <!-- Hamburger menu button -->
+  <button class="hamburger" id="hamburger-menu" aria-label="Toggle menu">
+    <span class="line"></span>
+    <span class="line"></span>
+    <span class="line"></span>
+  </button>
+
+  <!-- Menu items -->
+  <ul class="menu" id="menu">
+    <li><a href="/publications">CV</a></li>
+    <li><a href="/projects">Publications</a></li>
+    <li><a href="/contact">Projects</a></li>
+  </ul>
+</nav>
         {{- $currentPage := . }}
         <ul id="menu">
             {{- range site.Menus.main }}
