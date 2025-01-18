@@ -146,7 +146,7 @@ body:not(.dark) #sun {
         color: var(--darkcolor);
         text-decoration: none;
         font-size: var(--headersize);
-       line-height: 36px;
+	text-align: left;
     }
 
     #menu a:hover {
