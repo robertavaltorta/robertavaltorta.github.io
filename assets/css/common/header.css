@@ -121,7 +121,6 @@ body:not(.dark) #sun {
 }
 
 @media (max-width: 768px) {
-
 body.menu-open .main-content {
     padding-top: 200px; 
     transition: padding-top 0.3s ease-in-out; 
