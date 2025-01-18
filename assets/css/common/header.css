@@ -144,7 +144,6 @@ body:not(.dark) #sun {
     #menu a {
         display: block;
 	width: 100%;
-        padding: 10px 20px; 
         color: var(--darkcolor);
         text-decoration: none;
         font-size: var(--headersize);
