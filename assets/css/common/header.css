@@ -2,6 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    align-items: center;
     margin-inline-start: auto;
     margin-inline-end: auto;
     line-height: var(--header-height);
@@ -81,6 +82,7 @@ body:not(.dark) #sun {
 .lang-switch ul,
 .logo-switches {
     display: inline-flex;
+    align-items: center;
     margin: auto 4px;
 }
 
