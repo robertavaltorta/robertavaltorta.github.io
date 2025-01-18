@@ -104,10 +104,11 @@ body:not(.dark) #sun {
     margin-left: auto;
 }
 .hamburger {
-    display: none; /* Di default non visibile su desktop */
+    display: none; 
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    gap: 5px;
     width: 30px;
     height: 25px;
     border: none;
