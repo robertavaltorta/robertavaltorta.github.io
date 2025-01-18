@@ -53,13 +53,13 @@ params:
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          buttons:
-            - name: CV
-              url: cv-valtorta.pdf
-            - name: Publications
-              url: publications/
-            - name: Projects
-              url: projects/
+          #buttons:
+            #- name: CV
+              #url: cv-valtorta.pdf
+            #- name: Publications
+              #url: publications/
+            #- name: Projects
+              #url: projects/
 
     socialIcons:
         - name: Email
