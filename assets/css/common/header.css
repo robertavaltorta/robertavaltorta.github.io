@@ -106,6 +106,7 @@ body:not(.dark) #sun {
 .hamburger {
     display: none; 
     flex-direction: column;
+    justify-content: space-around;
     align-items: center;
     width: 30px;
     height: 25px;
