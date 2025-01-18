@@ -83,7 +83,7 @@ body:not(.dark) #sun {
 .logo-switches {
     display: inline-flex;
     align-items: center;
-    margin: auto 4px;
+    margin-left: auto;
 }
 
 .lang-switch {
