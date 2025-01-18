@@ -131,6 +131,7 @@ body:not(.dark) #sun {
         top: 40px; 
         left: 0;
         width: 100%;
+	max-width: 100%;
         background-color: var(--code-bg);
         flex-direction: column;
         z-index: 10;	
