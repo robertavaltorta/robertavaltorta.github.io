@@ -132,7 +132,7 @@
 		<li><a href="/projects">Projects</a></li>
         </ul>
 {{- $currentPage := . }}
-        <ul id="menu">
+        <ul id="menu-dynamic">
             {{- range site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
