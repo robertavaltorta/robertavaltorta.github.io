@@ -10,7 +10,9 @@
 
 .nav a {
     display: block;
-	font-family: 'Petrona', sans-serif;
+    font-family: 'Red Hat Text', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
 .logo,
@@ -26,7 +28,6 @@
 .logo a {
     font-size: var(--headersize);
     color: var(--primary);
-    font-weight: bold;
 }
 
 .logo a img, .logo a svg {
