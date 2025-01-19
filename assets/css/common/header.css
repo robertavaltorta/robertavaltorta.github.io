@@ -1,5 +1,6 @@
 .nav {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     width: 100%;
@@ -58,6 +59,7 @@ body:not(.dark) #sun {
     overflow-x: auto;
     white-space: nowrap;
     justify-content: flex-end;
+    width: auto;
 }
 
 #menu li + li {
