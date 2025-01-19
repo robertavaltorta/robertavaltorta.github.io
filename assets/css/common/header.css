@@ -156,7 +156,6 @@ body.menu-open .main-content{
         display: flex;    
 	flex-direction: column;
     	justify-content: space-around;
-	margin: auto var(--gap);
         width: 25px;
         height: 25px;
         border: none;
