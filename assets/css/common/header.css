@@ -157,7 +157,6 @@ body.menu-open .main-content{
 	flex-direction: column;
     	justify-content: space-around;
 	margin: auto var(--gap);
-	align-items: center;
         width: 25px;
         height: 25px;
         border: none;
