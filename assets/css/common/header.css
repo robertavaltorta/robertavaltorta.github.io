@@ -4,6 +4,7 @@
     justify-content: space-between;
     margin-inline-start: auto;
     margin-inline-end: auto;
+    align-items: center; 
     line-height: var(--header-height);
     background: var(--code-bg);
 }
@@ -55,6 +56,7 @@ body:not(.dark) #sun {
 
 #menu {
     list-style: none;
+    display: flex;
     word-break: keep-all;
     overflow-x: auto;
     white-space: nowrap;
@@ -63,6 +65,10 @@ body:not(.dark) #sun {
 
 #menu li + li {
     margin-inline-start: var(--gap);
+}
+
+#menu li {
+    display: inline-block;
 }
 
 #menu a {
