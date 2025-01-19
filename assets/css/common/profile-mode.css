@@ -3,10 +3,10 @@
     margin-top: 0;
     display: flex;
     justify-content: left;
-    min-height: calc(100vh - var(--footer-height) - (var(--gap) * 2) - 50px);
 }
 .main .profile {
     align-items: center;
+    min-height: calc(100vh - var(--footer-height) - (var(--gap) * 2) - 50px);
     font-size: var(--homesize);
     line-height: var(--lineheight);
     font-family: 'Red Hat Text', sans-serif;
