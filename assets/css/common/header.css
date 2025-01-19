@@ -2,8 +2,10 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    align-items: center;
     margin-inline-start: auto;
     margin-inline-end: auto;
+    width: 100%; 
     line-height: var(--header-height);
     #background: var(--code-bg);
 }
@@ -58,6 +60,7 @@ body:not(.dark) #sun {
     word-break: keep-all;
     overflow-x: auto;
     white-space: nowrap;
+    justify-content: flex-start;
 }
 
 #menu li + li {
