@@ -110,6 +110,10 @@ body:not(.dark) #sun {
 
 @media (pointer: coarse), (max-width: 768px) {
 
+    body.menu-open {
+    padding-top: 150px;  
+    }
+
     #menu {
         display: none;
     }
