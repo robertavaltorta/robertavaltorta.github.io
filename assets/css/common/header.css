@@ -119,9 +119,20 @@ body:not(.dark) #sun {
     background-color: var(--code-bg);  
     }
     
-    body.menu-open {
-    padding-top: 120px; !important  
+    /* Aggiungi un margine al contenuto principale per non farlo coprire dalla barra fissa */
+    body {
+    margin-top: 60px; /* Dovrebbe essere almeno l'altezza della barra */
     }
+
+     /* Assicurati che quando il menu è aperto, il contenuto si muova */
+    body.menu-open {
+    padding-top: 60px; 
+    }
+
+    /* Per evitare che la barra di navigazione influisca sul layout, puoi aggiungere questa regola */
+    .main-content {
+    margin-top: 60px;
+}
 
     #menu {
         display: none;
