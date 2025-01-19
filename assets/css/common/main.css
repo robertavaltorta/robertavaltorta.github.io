@@ -28,17 +28,18 @@
     margin-inline-start: auto;
 }
 
-.social-icons {
-    display: flex;  /* Cambia da inline-flex a flex */
-    justify-content: flex-start;  /* Allinea le icone a sinistra */
-    gap: 20px;  /* Aggiungi spazio tra le icone */
-    align-items: center;  /* Centra verticalmente le icone */
+.social-icons a {
+    display: inline-flex;
+    margin-top: -30px;
+    margin-right: 10px;
 }
 
-.social-icons a {
-    display: flex;  /* Usa flex per gli anchor tag se necessario */
-    margin-top: -30px;  /* Mantieni il margine negativo se vuoi spostare le icone verso l'alto */
+.social-icons a svg {
+    height: 20px;
+    width: 20px;
+    color: var(--darkcolor);
 }
+
 .social-icons a:hover svg {
     color: #d96e34;
 }
