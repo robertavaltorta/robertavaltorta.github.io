@@ -2,7 +2,6 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    align-items: center;
     margin-inline-start: auto;
     margin-inline-end: auto;
     width: 100%; 
