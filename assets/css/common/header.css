@@ -143,7 +143,7 @@ body.menu-open .main-content{
         z-index: 10;	
     }
 
-    #menu li {
+    #menu-nav li {
         display: flex;
         justify-content: flex-start; 
 	padding: 0;
@@ -151,7 +151,7 @@ body.menu-open .main-content{
 	text-align: left;
     }
 
-    #menu a {
+    #menu-nav a {
         display: block;
         color: var(--darkcolor);
         text-decoration: none;
@@ -161,11 +161,11 @@ body.menu-open .main-content{
 	margin: 0;
     }
 
-    #menu a:hover {
+    #menu-nav a:hover {
         background-color: var(--highlight-color); /* Highlight al passaggio */
     }
 
-    #menu.show {
+    #menu-nav.show {
     display: flex;
     }
 
