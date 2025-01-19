@@ -110,8 +110,20 @@ body:not(.dark) #sun {
 
 @media (pointer: coarse), (max-width: 768px) {
 
-    body.menu-open {
-    padding-top: 150px;  
+.header, .nav {
+    position: fixed;  /* Fissa la barra in alto */
+    top: 0;           /* Posizionala nella parte superiore della pagina */
+    left: 0;
+    width: 100%;
+    z-index: 100;     /* Assicurati che sia sopra gli altri elementi */
+    background-color: var(--code-bg);  /* Mantieni il colore di sfondo */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* (opzionale) Aggiungi una leggera ombra per separare la barra dal contenuto */
+}
+    
+
+
+body.menu-open {
+    padding-top: 60px;  
     }
 
     #menu {
