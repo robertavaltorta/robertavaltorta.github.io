@@ -141,8 +141,6 @@ body.menu-open .main-content{
         text-decoration: none;
         font-size: var(--headersize);
 	text-align: left;	
- 	padding: 0;
-	margin: 0;
     }
 
     #menu-nav a:hover {
