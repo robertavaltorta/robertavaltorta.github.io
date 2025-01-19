@@ -4,6 +4,7 @@
     justify-content: space-between;
     align-items: center;
     width: 100%;
+    overflow: hidden;
     line-height: var(--header-height);
     background: var(--code-bg);
 }
@@ -59,7 +60,6 @@ body:not(.dark) #sun {
     overflow-x: auto;
     white-space: nowrap;
     justify-content: flex-end;
-    width: auto;
 }
 
 #menu li + li {
