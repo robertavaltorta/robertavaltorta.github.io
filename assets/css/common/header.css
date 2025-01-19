@@ -110,17 +110,17 @@ body:not(.dark) #sun {
 
 @media (pointer: coarse), (max-width: 768px) {
 
-.header, .nav {
+    .header, .nav {
     position: fixed;  
     top: 0;           
     left: 0;
     width: 100%;
-    z-index: 100;     
+    z-index: 1000;     
     background-color: var(--code-bg);  
     }
     
-body.menu-open {
-    padding-top: 120px;  
+    body.menu-open {
+    padding-top: 70px; !important  
     }
 
     #menu {
