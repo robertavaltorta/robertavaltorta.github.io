@@ -6,7 +6,6 @@
     width: 100%;
     line-height: var(--header-height);
     background: var(--code-bg);
-    padding: 0 20px;
 }
 
 .nav a {
@@ -59,6 +58,7 @@ body:not(.dark) #sun {
     word-break: keep-all;
     overflow-x: auto;
     white-space: nowrap;
+    justify-content: flex-end;
 }
 
 #menu li + li {
