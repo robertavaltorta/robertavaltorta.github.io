@@ -122,7 +122,6 @@ body.menu-open .main-content{
         display: none;
         position: absolute;
         top: 40px; 
-        left: 0;
         width: 100%;
 	max-width: 100%;
         background-color: var(--code-bg);
