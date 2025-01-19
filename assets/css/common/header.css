@@ -1,6 +1,6 @@
 .nav {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     width: 100%;
@@ -78,9 +78,7 @@ body:not(.dark) #sun {
     border-bottom: 2px solid var(--darkcolor);
 }
 
-#menu-nav {
-    display: none; 
-}
+
 
 .lang-switch li,
 .lang-switch ul,
