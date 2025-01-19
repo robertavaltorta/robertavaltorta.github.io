@@ -58,14 +58,11 @@ body:not(.dark) #sun {
     word-break: keep-all;
     overflow-x: auto;
     white-space: nowrap;
+    justify-content: flex-end;
 }
 
 #menu li + li {
     margin-inline-start: var(--gap);
-}
-
-#menu li {
-    margin-left: 20px;
 }
 
 #menu a {
