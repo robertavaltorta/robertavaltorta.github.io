@@ -110,10 +110,7 @@ body:not(.dark) #sun {
 
 @media (pointer: coarse), (max-width: 768px) {
 
-body.menu-open .main-content{
-    padding-top: 100px; 
-    transition: padding-top 0.3s ease-in-out; 
-}
+
 
     #menu {
         display: none;
