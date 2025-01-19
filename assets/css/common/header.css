@@ -125,14 +125,14 @@ body.menu-open .main-content{
         width: 100%;
 	max-width: 100%;
         background-color: var(--code-bg);
-        flex-direction: row;
+        flex-direction: column;
         z-index: 10;	
     }
 
     #menu-nav li {
         display: flex;
-        justify-content: flex-start; 
 	text-align: left;
+	margin: auto var(--gap);
     }
 
     #menu-nav a {
