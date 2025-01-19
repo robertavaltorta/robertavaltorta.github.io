@@ -100,8 +100,7 @@ body:not(.dark) #sun {
 }
 
 .logo-switches {
-    display: flex;
-    align-items: center;
+    flex-wrap: inherit;
 }
 
 .hamburger {
