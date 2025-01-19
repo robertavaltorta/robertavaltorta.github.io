@@ -78,7 +78,7 @@ body:not(.dark) #sun {
 }
 
 #menu-nav {
-    display: none;
+    display: none; 
 }
 
 .lang-switch li,
@@ -132,6 +132,10 @@ body.menu-open .main-content{
 }
 
     #menu {
+        display: none;
+    }
+
+    #menu-nav {
         display: none;
         position: absolute;
         top: 40px; 
