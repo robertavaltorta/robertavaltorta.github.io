@@ -133,8 +133,6 @@ body.menu-open .main-content{
     #menu-nav li {
         display: flex;
         justify-content: flex-start; 
-	padding: 0;
-	margin: 0;
 	text-align: left;
     }
 
