@@ -1,6 +1,6 @@
 .nav {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     width: 100%;
@@ -111,7 +111,7 @@ body:not(.dark) #sun {
     justify-content: space-around;
     margin: auto var(--gap);
     align-items: center;
-    width: 30px;
+    width: 25px;
     height: 25px;
     border: none;
     background: transparent;
