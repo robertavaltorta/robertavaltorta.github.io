@@ -58,6 +58,7 @@ body:not(.dark) #sun {
     word-break: keep-all;
     overflow-x: auto;
     white-space: nowrap;
+    flex: 1;
     justify-content: flex-end;
 }
 
