@@ -60,7 +60,6 @@ body:not(.dark) #sun {
     word-break: keep-all;
     overflow-x: auto;
     white-space: nowrap;
-    justify-content: flex-start;
 }
 
 #menu li + li {
