@@ -107,15 +107,6 @@ body:not(.dark) #sun {
 
 .hamburger {
     display: none; 
-    flex-direction: column;
-    justify-content: space-around;
-    margin: auto var(--gap);
-    align-items: center;
-    width: 25px;
-    height: 25px;
-    border: none;
-    background: transparent;
-    cursor: pointer;
 }
 
 .hamburger .line {
@@ -175,6 +166,15 @@ body.menu-open .main-content{
     }
 
     .hamburger {
-        display: flex;
+        display: flex;    
+	flex-direction: column;
+    	justify-content: space-around;
+	margin: auto var(--gap);
+	align-items: center;
+        width: 25px;
+        height: 25px;
+        border: none;
+        background: transparent;
+        cursor: pointer;
     }
 }
