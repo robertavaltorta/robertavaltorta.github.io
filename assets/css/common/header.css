@@ -125,7 +125,7 @@ body.menu-open .main-content{
         width: 100%;
 	max-width: 100%;
         background-color: var(--code-bg);
-        flex-direction: column;
+        flex-direction: row;
         z-index: 10;	
     }
 
