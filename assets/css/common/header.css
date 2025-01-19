@@ -5,8 +5,7 @@
     margin-inline-start: auto;
     margin-inline-end: auto;
     line-height: var(--header-height);
-    #background: var(--code-bg);
-    background-color: lightgray;
+    background: var(--code-bg);
 }
 
 .nav a {
@@ -63,6 +62,10 @@ body:not(.dark) #sun {
 
 #menu li + li {
     margin-inline-start: var(--gap);
+}
+
+#menu li {
+    margin-left: 20px;
 }
 
 #menu a {
