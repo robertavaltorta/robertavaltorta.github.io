@@ -6,7 +6,7 @@
 .main .profile {
     margin-top: 0;
     align-items: center;
-    min-height: 40vh;
+    min-height: 50vh;
     font-size: var(--homesize);
     line-height: var(--lineheight);
     font-family: 'Red Hat Text', sans-serif;
