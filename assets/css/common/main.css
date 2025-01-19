@@ -29,7 +29,7 @@
 }
 
 .social-icons a {
-    display: inline-flex;
+    display: flex;
     padding: 10px;
 }
 
