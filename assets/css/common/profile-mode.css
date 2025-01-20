@@ -18,6 +18,7 @@
     align-items: flex-start;
     gap: 10px;
     font-family: 'Petrona', serif;
+    font-variant: small-caps;
 }
 
 .profile .profile_inner h1 {
