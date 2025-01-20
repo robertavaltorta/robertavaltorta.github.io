@@ -62,10 +62,6 @@ params:
               #url: projects/
 
     socialIcons:
-        - name: Email
-          url: mailto:roberta.valtorta@unimib.it
-        - name: CV
-          url: cv-valtorta.pdf
         - name: Google Scholar
           url: https://scholar.google.it/citations?user=Cxtkt6cAAAAJ&hl=en
         - name: ResearchGate
@@ -74,7 +70,11 @@ params:
           url: https://orcid.org/0000-0003-0565-5463
         - name: X
           url: https://x.com/valtortaroberta
-
+        - name: Email
+          url: mailto:roberta.valtorta@unimib.it
+        - name: CV
+          url: cv-valtorta.pdf
+        
     assets:
         disableScrollBarStyle: true
     cover:
