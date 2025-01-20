@@ -19,6 +19,8 @@
     gap: 10px;
     font-family: 'Petrona', serif;
     font-variant: small-caps;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 .profile .profile_inner h1 {
