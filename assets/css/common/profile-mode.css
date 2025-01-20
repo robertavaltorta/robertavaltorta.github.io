@@ -21,6 +21,7 @@
     font-variant: small-caps;
     font-size: 20px;
     font-weight: bold;
+    transform: translateY(-2px);
 }
 
 .profile .profile_inner h1 {
@@ -28,7 +29,7 @@
     font-family: 'Petrona', serif;
     letter-spacing: 0.5px;
     font-variant: normal;
-    transform: translateY(7px);
+    transform: translateY(6px);
 }
 
 .profile img {
