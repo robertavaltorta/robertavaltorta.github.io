@@ -164,6 +164,10 @@ body:not(.dark) #sun {
         background-color: var(--highlight-color); 
     }
 
+    #menu-nav .active {
+    border-bottom: 2px solid var(--darkcolor);
+    }
+
     #menu-nav.show {
     display: flex;
     }
