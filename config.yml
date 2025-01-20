@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Roberta Rosa Valtorta
-          #subtitle: ""
+          subtitle: "Postdoctoral researcher at the University of Milano-Bicocca"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
