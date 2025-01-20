@@ -28,7 +28,7 @@
     font-family: 'Petrona', serif;
     letter-spacing: 0.5px;
     font-variant: normal;
-    margin-bottom: 5px;
+    transform: translateY(3px);
 }
 
 .profile img {
