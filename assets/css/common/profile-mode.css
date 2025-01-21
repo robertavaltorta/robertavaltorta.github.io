@@ -6,7 +6,6 @@
 .main .profile {
     margin-top: 0;
     align-items: center;
-    min-height: 50vh; 
     min-height: 50vh;
     font-size: var(--homesize);
     line-height: var(--lineheight);
@@ -15,15 +14,15 @@
 
 @media (max-width: 1024px) {
     .main .profile {
-        min-height: 40vh;
-        padding-bottom: 0.5rem;      
+        min-height: 50vh;
+        margin-bottom: 1rem;     
     }
 }
 
 @media (max-width: 768px) {
     .main .profile {
-        min-height: 30vh; 
-        padding-bottom: 0.25rem;     
+        min-height: 40vh; 
+        margin-bottom: 0.5rem;     
     }
 }
 
