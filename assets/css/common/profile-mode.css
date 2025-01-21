@@ -15,14 +15,14 @@
 @media (max-width: 1024px) {
     .main .profile {
         min-height: 50vh;
-        margin-bottom: 2rem;     
+        margin-bottom: 3rem;     
     }
 }
 
 @media (max-width: 768px) {
     .main .profile {
         min-height: 30vh; 
-        margin-bottom: 1rem;     
+        margin-bottom: 2rem;     
     }
 }
 
