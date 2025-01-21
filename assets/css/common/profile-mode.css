@@ -24,14 +24,14 @@
 @media (min-width: 769px) and (max-width: 1024px) {
     .main .profile {
         min-height: 30vh;
-        margin-bottom: 0.5rem;
+        margin-bottom: 1rem;
     }
 }
 
 /* Regola per schermi tra 1025px e 1280px */
 @media (min-width: 1025px) and (max-width: 1280px) {
     .main .profile {
-        min-height: 50vh;
+        min-height: 40vh;
         margin-bottom: 3rem;
     }
 }
