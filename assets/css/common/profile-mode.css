@@ -26,6 +26,27 @@
     }
 }
 
+@media (max-width: 1366px) and (min-width: 820px) {
+    .main .profile {
+        min-height: 40vh; /* Imposta un'altezza minima adatta */
+        margin-bottom: 1rem; /* Riduci lo spazio sotto su questi dispositivi specifici */
+    }
+}
+
+@media (max-width: 1280px) and (min-width: 853px) {
+    .main .profile {
+        min-height: 40vh; /* Imposta un'altezza minima adatta */
+        margin-bottom: 1rem; /* Riduci lo spazio sotto su questi dispositivi specifici */
+    }
+}
+
+@media (max-width: 1024px) and (min-width: 600px) {
+    .main .profile {
+        min-height: 40vh; /* Imposta un'altezza minima adatta */
+        margin-bottom: 1rem; /* Riduci lo spazio sotto su questi dispositivi specifici */
+    }
+}
+
 .profile .profile_inner {
     display: flex;
     flex-direction: column;
