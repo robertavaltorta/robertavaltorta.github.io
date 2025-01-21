@@ -14,35 +14,13 @@
 
 @media (max-width: 1024px) {
     .main .profile {
-        min-height: 40vh;      }
+        min-height: 40vh;      
+    }
 }
 
 @media (max-width: 768px) {
     .main .profile {
-        min-height: 30vh;      }
-}
-
-@media (max-width: 1366px) and (min-width: 1024px) {
-    .main .profile {
-        min-height: 45vh; /* Su dispositivi come iPad Pro, ridurre l'altezza minima */
-    }
-}
-
-@media (max-width: 912px) and (min-width: 800px) {
-    .main .profile {
-        min-height: 45vh; /* Adattiamo anche il Surface Pro 7 */
-    }
-}
-
-@media (max-width: 853px) {
-    .main .profile {
-        min-height: 40vh; /* Zenbook Fold */
-    }
-}
-
-@media (max-width: 1280px) {
-    .main .profile {
-        min-height: 40vh; /* Nest Hub Max, adattamento per schermi orizzontali */
+        min-height: 30vh;      
     }
 }
 
