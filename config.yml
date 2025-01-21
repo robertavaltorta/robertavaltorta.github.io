@@ -15,7 +15,7 @@ menu:
         - name: CV
           url: cv-valtorta.pdf
           weight: 1
-        - name: Publications
+        - name: Publication
           url: publications/
           weight: 2
         - name: Projects
