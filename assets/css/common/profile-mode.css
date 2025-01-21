@@ -21,7 +21,7 @@
 
 @media (max-width: 768px) {
     .main .profile {
-        min-height: 50vh; 
+        min-height: 30vh; 
         margin-bottom: 0.5rem;     
     }
 }
