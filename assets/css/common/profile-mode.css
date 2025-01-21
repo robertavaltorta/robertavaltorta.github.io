@@ -26,25 +26,49 @@
     }
 }
 
-@media (max-width: 1366px) and (min-width: 1025px) { /* iPad Pro, Surface Pro 7, Asus Zenbook Fold */
+@media (max-width: 1366px) and (min-width: 820px) {
+    .main .profile {
+        min-height: 40vh; /* Imposta un'altezza minima adatta */
+        margin-bottom: 1rem; /* Riduci lo spazio sotto su questi dispositivi specifici */
+    }
+}
+
+@media (max-width: 1280px) and (min-width: 853px) {
+    .main .profile {
+        min-height: 40vh; /* Imposta un'altezza minima adatta */
+        margin-bottom: 1rem; /* Riduci lo spazio sotto su questi dispositivi specifici */
+    }
+}
+
+@media (max-width: 1024px) and (min-width: 600px) {
+    .main .profile {
+        min-height: 40vh; /* Imposta un'altezza minima adatta */
+        margin-bottom: 1rem; /* Riduci lo spazio sotto su questi dispositivi specifici */
+    }
+}
+
+@media (max-width: 1366px) and (min-width: 1025px) {
     .main .profile {
         margin-bottom: 1rem; /* Riduci solo il margine inferiore */
     }
 }
 
-@media (max-width: 1180px) and (min-width: 820px) { /* iPad Air */
+/* iPad Air */
+@media (max-width: 1180px) and (min-width: 820px) {
     .main .profile {
         margin-bottom: 1rem; /* Riduci solo il margine inferiore */
     }
 }
 
-@media (max-width: 1280px) and (min-width: 853px) { /* Asus Zenbook Fold */
+/* Asus Zenbook Fold */
+@media (max-width: 1280px) and (min-width: 853px) {
     .main .profile {
         margin-bottom: 1rem; /* Riduci solo il margine inferiore */
     }
 }
 
-@media (max-width: 1024px) and (min-width: 600px) { /* Nest Hub (1024x600) */
+/* Nest Hub (1024x600) */
+@media (max-width: 1024px) and (min-width: 600px) {
     .main .profile {
         margin-bottom: 1rem; /* Riduci solo il margine inferiore */
     }
