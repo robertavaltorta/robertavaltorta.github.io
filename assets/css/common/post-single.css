@@ -43,27 +43,6 @@
     color: var(--primary);
 }
 
-/* Modifica per dispositivi tra 768px e 1024px */
-@media (min-width: 768px) and (max-width: 1024px) {
-    .post-content {
-        margin-top: 0rem;
-    }
-}
-
-/* Modifica per dispositivi piccoli (tablet e telefoni) */
-@media (max-width: 768px) {
-    .post-content {
-        margin-top: 1rem;  /* Più piccolo rispetto ai dispositivi più grandi */
-    }
-}
-
-/* Modifica per schermi molto piccoli */
-@media (max-width: 480px) {
-    .post-content {
-        margin-top: 0.5rem;  /* Ancora meno per schermi piccoli */
-    }
-}
-
 .post-content h3,
 .post-content h4,
 .post-content h5,

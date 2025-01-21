@@ -12,6 +12,18 @@
     font-family: 'Red Hat Text', sans-serif;
 }
 
+@media (max-width: 1024px) {
+    .main .profile {
+        min-height: 40vh;  /* Riduci l'altezza minima su dispositivi più piccoli */
+    }
+}
+
+@media (max-width: 768px) {
+    .main .profile {
+        min-height: 30vh;  /* Ancora meno per schermi molto piccoli */
+    }
+}
+
 .profile .profile_inner {
     display: flex;
     flex-direction: column;
