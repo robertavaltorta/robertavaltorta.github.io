@@ -12,7 +12,7 @@
     font-family: 'Red Hat Text', sans-serif;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1023px) {
     .main .profile {
         min-height: 50vh;
         margin-bottom: 3rem;     
