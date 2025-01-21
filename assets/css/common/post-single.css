@@ -43,6 +43,12 @@
     color: var(--primary);
 }
 
+@media (max-width: 800px) {
+    .post-content {
+        margin-top: 1rem;
+    }
+}
+
 .post-content h3,
 .post-content h4,
 .post-content h5,
