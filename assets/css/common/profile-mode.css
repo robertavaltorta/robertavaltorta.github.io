@@ -22,12 +22,6 @@
         min-height: 30vh;      }
 }
 
-@media (max-width: 1180px) {
-    .main .profile {
-        min-height: 40vh; /* Riduce l'altezza su dispositivi più piccoli */
-    }
-}
-
 @media (max-width: 1366px) and (min-width: 1024px) {
     .main .profile {
         min-height: 45vh; /* Su dispositivi come iPad Pro, ridurre l'altezza minima */
