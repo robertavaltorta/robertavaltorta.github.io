@@ -41,7 +41,7 @@
     font-size: var(--textsize);
     font-family: 'Red Hat Text', sans-serif;
     color: var(--primary);
-    min-height: 20vh;
+    min-height: 10vh;
 }
 
 .post-content h3,
