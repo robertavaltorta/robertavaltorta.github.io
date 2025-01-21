@@ -12,7 +12,7 @@
     font-family: 'Red Hat Text', sans-serif;
 }
 
-/* Regola per schermi fino a 768px */
+/* up to 768px */
 @media (max-width: 768px) {
     .main .profile {
         min-height: 30vh;
@@ -20,7 +20,7 @@
     }
 }
 
-/* Regola per schermi tra 769px e 1024px */
+/* from 769px to 1024px */
 @media (min-width: 769px) and (max-width: 1024px) {
     .main .profile {
         min-height: 30vh;
@@ -28,10 +28,10 @@
     }
 }
 
-/* Regola per schermi tra 1025px e 1280px */
+/* from 1025px to 1280px */
 @media (min-width: 1025px) and (max-width: 1280px) {
     .main .profile {
-        min-height: 45vh;
+        min-height: 40vh;
         margin-bottom: 1rem;
     }
 }
