@@ -31,8 +31,8 @@
 /* Regola per schermi tra 1025px e 1280px */
 @media (min-width: 1025px) and (max-width: 1280px) {
     .main .profile {
-        min-height: 40vh;
-        margin-bottom: 3rem;
+        min-height: 50vh;
+        margin-bottom: 1rem;
     }
 }
 
