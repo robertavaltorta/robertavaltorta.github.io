@@ -43,7 +43,7 @@
     color: var(--primary);
 }
 
-@media (max-width: 800px) {
+@media (max-width: 900px) {
     .post-content {
         margin-top: 1rem;
     }
