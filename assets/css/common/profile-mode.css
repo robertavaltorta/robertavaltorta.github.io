@@ -12,45 +12,27 @@
     font-family: 'Red Hat Text', sans-serif;
 }
 
-@media (max-width: 1023px) {
-    .main .profile {
-        min-height: 50vh;
-        margin-bottom: 3rem;     
-    }
-}
-
+/* Regola per schermi fino a 768px */
 @media (max-width: 768px) {
     .main .profile {
-        min-height: 30vh; 
-        margin-bottom: 2rem;     
+        min-height: 30vh;
+        margin-bottom: 2rem;
     }
 }
 
-@media (min-width: 767px) and (max-width: 1025px) {
+/* Regola per schermi tra 769px e 1024px */
+@media (min-width: 769px) and (max-width: 1024px) {
     .main .profile {
-        min-height: 20vh; 
-        margin-bottom: 1rem; 
+        min-height: 40vh;
+        margin-bottom: 3rem;
     }
 }
 
-@media (max-width: 1366px) and (min-width: 820px) {
+/* Regola per schermi tra 1025px e 1280px */
+@media (min-width: 1025px) and (max-width: 1280px) {
     .main .profile {
-        min-height: 40vh; 
-        margin-bottom: 1rem; 
-    }
-}
-
-@media (max-width: 1280px) and (min-width: 853px) {
-    .main .profile {
-        min-height: 30vh; 
-        margin-bottom: 1rem; 
-    }
-}
-
-@media (max-width: 1024px) and (min-width: 600px) {
-    .main .profile {
-        min-height: 40vh; 
-        margin-bottom: 1rem; 
+        min-height: 50vh;
+        margin-bottom: 3rem;
     }
 }
 
