@@ -35,7 +35,7 @@
 }
 
 .post-content {
-    margin-top: clamp(1rem, 5vh, 3rem);
+    margin-top: clamp(0.5rem, 3vh, 1.5rem);
     color: var(--content);
     line-height: var(--lineheight);
     font-size: var(--textsize);
