@@ -15,13 +15,13 @@
 @media (max-width: 1024px) {
     .main .profile {
         min-height: 50vh;
-        margin-bottom: 0.5rem;     
+        margin-bottom: 1rem;     
     }
 }
 
 @media (max-width: 768px) {
     .main .profile {
-        min-height: 40vh; 
+        min-height: 50vh; 
         margin-bottom: 0.5rem;     
     }
 }
