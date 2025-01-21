@@ -26,10 +26,10 @@
     }
 }
 
-@media (min-width: 767px) and (max-width: 1024px) {
+@media (min-width: 767px) and (max-width: 1025px) {
     .main .profile {
-        min-height: 30vh; 
-        margin-bottom: 2rem; 
+        min-height: 20vh; 
+        margin-bottom: 1rem; 
     }
 }
 
