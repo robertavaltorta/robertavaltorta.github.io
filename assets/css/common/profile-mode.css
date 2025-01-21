@@ -22,7 +22,7 @@
 @media (max-width: 768px) {
     .main .profile {
         min-height: 30vh; 
-        margin-bottom: 0.5rem;     
+        margin-bottom: 1rem;     
     }
 }
 
