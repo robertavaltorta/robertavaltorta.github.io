@@ -41,18 +41,15 @@
 
 @media (min-width: 1281px) {
     .main .profile {
-        margin-top: 2em; /* Maggiore spazio sopra */
-        min-height: 50vh; /* Aumenta l'altezza minima per adattarsi a schermi più grandi */
-        margin-bottom: 1rem; /* Spazio in fondo */
+        min-height: 30vh; 
+        margin-bottom: 1rem; 
     }
 }
 
-/* Desktop con larghezze superiori (per esempio, schermi da 1600px in su) */
 @media (min-width: 1600px) {
     .main .profile {
-        margin-top: 2.5em; /* Ancora più spazio sopra su schermi molto larghi */
-        min-height: 60vh; /* L'altezza minima diventa ancora più grande per una buona visibilità */
-        margin-bottom: 1.5rem; /* Spazio inferiore leggermente aumentato */
+     min-height: 30vh; 
+        margin-bottom: 1rem;
     }
 }
 
