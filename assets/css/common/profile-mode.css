@@ -21,7 +21,7 @@
     }
 }
 
-/* from 769px to 1024px */
+/* from 769px to 1023px */
 @media (min-width: 769px) and (max-width: 1024px) {
     .main .profile {
         margin-top: 1em; 
@@ -30,9 +30,10 @@
     }
 }
 
-/* from 1025px to 1280px */
+/* from 1024px to 1280px */
 @media (min-width: 1025px) and (max-width: 1280px) {
     .main .profile {
+        margin-top: 1em; 
         min-height: 40vh;
         margin-bottom: 1rem;
     }
