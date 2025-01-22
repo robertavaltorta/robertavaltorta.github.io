@@ -193,18 +193,17 @@ body:not(.dark) #sun {
     }
 }
 
-@media (max-width: 400px) {
+@media (pointer: coarse), (max-width: 400px) {
     .hamburger {
         width: 20px;
         height: 20px;
     }
 }
 
-@media (max-width: 320px) {
+@media (pointer: coarse), (max-width: 320px) {
     .hamburger {
 	width: 20px;
         height: 20px;
-        display: inline-flex;
-        margin: auto 4px;
+        justify-content: flex-start;
     }
 }
