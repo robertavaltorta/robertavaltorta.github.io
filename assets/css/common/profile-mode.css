@@ -42,17 +42,16 @@
 /* iPad Pro specific */
 @media (min-width: 1024px) and (max-width: 1024px) and (orientation: portrait) {
     .main .profile {
-        margin-bottom: 1rem;        
-        min-height: 30vh;
+        margin-bottom: 0.5rem;        
+        min-height: 10vh;
     }
 }
 
 /* Surface Pro specific */
 @media (min-width: 912px) and (max-width: 912px) {
     .main .profile {
-        margin-top: 1em;
-        margin-bottom: 0.5rem; /* Riduce lo spazio in basso */
-        min-height: 35vh; /* Adatta l'altezza minima */
+        margin-bottom: 0.5rem;
+        min-height: 35vh;
     }
 }
 
