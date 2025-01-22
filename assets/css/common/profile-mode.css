@@ -31,14 +31,15 @@
 }
 
 /* From 1024px to 1280px */
-@media (min-width: 1025px) and (max-width: 1920px) {
+@media (min-width: 1025px) and (max-width: 1280px) {
     .main .profile {
-        margin-top: 2em; 
-        min-height: 45vh;
+        margin-top: 1em; 
+        min-height: 40vh;
         margin-bottom: 0.5rem;
     }
 }
 
+/* Desktop */
 
 .profile .profile_inner {
     display: flex;
