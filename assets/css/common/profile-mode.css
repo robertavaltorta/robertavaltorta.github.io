@@ -43,7 +43,7 @@
 @media (min-width: 1024px) and (max-width: 1024px) and (orientation: portrait) {
     .main .profile {
         margin-bottom: 0.5rem;        
-        min-height: 10vh;
+        min-height: 15vh;
     }
 }
 
@@ -51,7 +51,7 @@
 @media (min-width: 912px) and (max-width: 912px) {
     .main .profile {
         margin-bottom: 0.5rem;
-        min-height: 35vh;
+        min-height: 20vh;
     }
 }
 
