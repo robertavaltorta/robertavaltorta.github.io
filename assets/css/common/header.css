@@ -193,7 +193,7 @@ body:not(.dark) #sun {
     }
 }
 
-@media (pointer: coarse), (max-width: 400px) {
+@media (max-width: 400px) {
     .hamburger {
         width: 20px;
         height: 20px;
