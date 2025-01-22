@@ -42,14 +42,14 @@
 @media (aspect-ratio: 3/4) {
     .main .profile {
         margin-bottom: 0.5rem;
-        min-height: 40vh;
+        min-height: 30vh;
     }
 }
 
 @media (aspect-ratio: 3/5) {
     .main .profile {
         margin-bottom: 0.5rem;
-        min-height: 35vh;
+        min-height: 30vh;
     }
 }
 
