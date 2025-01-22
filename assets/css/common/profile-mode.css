@@ -39,17 +39,21 @@
     }
 }
 
-@media (aspect-ratio: 3/4) {
+/* iPad Pro specific */
+@media (min-width: 1024px) and (max-width: 1024px) and (orientation: portrait) {
     .main .profile {
-        margin-bottom: 0.5rem;
-        min-height: 30vh;
+        margin-top: 1em;
+        margin-bottom: 0.5rem; /* Riduce lo spazio in basso */
+        min-height: 40vh; /* Adatta l'altezza minima */
     }
 }
 
-@media (aspect-ratio: 3/5) {
+/* Surface Pro specific */
+@media (min-width: 912px) and (max-width: 912px) {
     .main .profile {
-        margin-bottom: 0.5rem;
-        min-height: 30vh;
+        margin-top: 1em;
+        margin-bottom: 0.5rem; /* Riduce lo spazio in basso */
+        min-height: 35vh; /* Adatta l'altezza minima */
     }
 }
 
