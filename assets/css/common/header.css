@@ -199,11 +199,3 @@ body:not(.dark) #sun {
         height: 20px;
     }
 }
-
-@media (pointer: coarse), (max-width: 320px) {
-    .hamburger {
-	width: 20px;
-        height: 20px;
-        justify-content: flex-start;
-    }
-}
