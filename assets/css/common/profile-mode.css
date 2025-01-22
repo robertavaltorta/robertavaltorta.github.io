@@ -22,7 +22,7 @@
 }
 
 /* From 769px to 1023px */
-@media (min-width: 769px) and (max-width: 1024px) {
+@media (min-width: 769px) and (max-width: 1023px) {
     .main .profile {
         margin-top: 1em; 
         min-height: 30vh;
@@ -30,8 +30,8 @@
     }
 }
 
-/* From 1024px to 1280px */
-@media (min-width: 1025px) and (max-width: 1280px) {
+/* From 1024px to 1279px */
+@media (min-width: 1024px) and (max-width: 1279px) {
     .main .profile {
         margin-top: 1em; 
         min-height: 40vh;
@@ -39,7 +39,23 @@
     }
 }
 
-/* Desktop */
+/* From 1280px to 1559px */
+@media (min-width: 1280px) and (max-width: 1559px) {
+    .main .profile {
+        margin-top: 1em; 
+        min-height: 40vh;
+        margin-bottom: 0.5rem;
+    }
+}
+
+/* From 1600px to 1800px */
+@media (min-width: 1600px) and (max-width: 1800px) {
+    .main .profile {
+        margin-top: 1em; 
+        min-height: 40vh;
+        margin-bottom: 0.5rem;
+    }
+}
 
 .profile .profile_inner {
     display: flex;
