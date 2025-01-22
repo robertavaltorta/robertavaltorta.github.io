@@ -41,15 +41,14 @@
 
 @media (min-width: 1281px) {
     .main .profile {
-        min-height: 20vh; 
+        min-height: 10vh; 
         margin-bottom: 1rem; 
     }
 }
 
 @media (min-width: 1600px) {
     .main .profile {
-     margin-top: 1em; 
-     min-height: 30vh; 
+     min-height: 10vh; 
      margin-bottom: 1rem;
     }
 }
