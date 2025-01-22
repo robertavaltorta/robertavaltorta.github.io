@@ -15,7 +15,8 @@
 /* up to 768px */
 @media (max-width: 768px) {
     .main .profile {
-        min-height: 40vh;
+        margin-top: 1rem; 
+        min-height: 30vh;
         margin-bottom: 2rem;
     }
 }
@@ -23,7 +24,7 @@
 /* from 769px to 1024px */
 @media (min-width: 769px) and (max-width: 1024px) {
     .main .profile {
-        min-height: 40vh;
+        min-height: 30vh;
         margin-bottom: 1rem;
     }
 }
