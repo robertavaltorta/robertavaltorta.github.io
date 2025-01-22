@@ -42,9 +42,8 @@
 /* iPad Pro specific */
 @media (min-width: 1024px) and (max-width: 1024px) and (orientation: portrait) {
     .main .profile {
-        margin-top: 1em;
-        margin-bottom: 0.5rem; /* Riduce lo spazio in basso */
-        min-height: 40vh; /* Adatta l'altezza minima */
+        margin-bottom: 1rem;        
+        min-height: 30vh;
     }
 }
 
