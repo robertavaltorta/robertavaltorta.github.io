@@ -34,7 +34,7 @@
 @media (min-width: 1025px) and (max-width: 1920px) {
     .main .profile {
         margin-top: 2em; 
-        min-height: 50vh;
+        min-height: 40vh;
         margin-bottom: 0.5rem;
     }
 }
