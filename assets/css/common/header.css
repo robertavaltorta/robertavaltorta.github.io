@@ -204,6 +204,7 @@ body:not(.dark) #sun {
     .hamburger {
 	width: 20px;
         height: 20px;
-        justify-content: flex-start;
+        display: inline-flex;
+        margin: auto 4px;
     }
 }
