@@ -59,7 +59,8 @@
     text-decoration: underline; 
 }
 
-.post-entry .entry-header h2:focus {
+.post-entry .entry-header h2:focus,
+.post-entry .entry-header h2:active {
     text-decoration: none;
 }
 
