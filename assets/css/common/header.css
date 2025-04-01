@@ -29,7 +29,7 @@
 }
 
 .logo a {
-    font-size: var(--headersize);
+    font-size: 18px;
     color: var(--primary);
 }
 
