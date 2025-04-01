@@ -51,9 +51,12 @@
     font-family: 'Red Hat Text', sans-serif;
 }
 
-.post-entry:hover {
-text-decoration:underline;    
+#.post-entry:hover {
 # border: 1px solid var(--darkcolor);
+#}
+
+.post-entry .entry-header h1:hover {
+    text-decoration: underline; 
 }
 
 .tag-entry .entry-cover {
