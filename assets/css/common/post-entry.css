@@ -55,13 +55,8 @@
 # border: 1px solid var(--darkcolor);
 #}
 
-.post-entry:hover .entry-header h2 {
-    text-decoration: underline; 
-}
-
-@media (pointer: coarse) {
-    .post-entry:hover .entry-header h2 {
-        text-decoration: none; }
+.entry-header h2 {
+    cursor: pointer;  
 }
 
 .tag-entry .entry-cover {
