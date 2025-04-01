@@ -17,6 +17,10 @@
     transition: text-decoration 0.3s ease;
 }
 
+.first-entry .entry-header h1:hover {
+    text-decoration: underline; 
+}
+
 .first-entry .entry-header h1 {
     font-size: 34px;
     line-height: 1.3;
