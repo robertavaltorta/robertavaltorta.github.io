@@ -55,10 +55,6 @@
 # border: 1px solid var(--darkcolor);
 #}
 
-.post-entry .entry-header h2:hover {
-    text-decoration: underline; 
-}
-
 .tag-entry .entry-cover {
     display: none;
 }
@@ -101,6 +97,10 @@
 .entry-hint-parent {
     display: flex;
     justify-content: space-between;
+}
+
+.entry-hint-parent h2:hover {
+    text-decoration: underline; 
 }
 
 .entry-cover {
