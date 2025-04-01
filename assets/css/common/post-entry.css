@@ -55,6 +55,10 @@
 # border: 1px solid var(--darkcolor);
 #}
 
+.post-entry .entry-header a:hover {
+    text-decoration: underline; 
+}
+
 .tag-entry .entry-cover {
     display: none;
 }
@@ -64,11 +68,6 @@
     line-height: var(--lineheight);
     font-family: 'Petrona', serif;
 }
-
-.entry-header h1:hover {
-    text-decoration: underline;
-}
-
 
 .entry-content {
     margin: 20px 10px;
