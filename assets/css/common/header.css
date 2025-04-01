@@ -14,7 +14,7 @@
     font-family: 'Red Hat Text', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .logo,
@@ -68,7 +68,7 @@ body:not(.dark) #sun {
 
 #menu a {
     font-size: var(--headersize);
-    font-weight: 600;
+    font-weight: 500;
     color: var(--darkcolor);
     font-family: 'Red Hat Text', sans-serif;
     text-transform: uppercase;
