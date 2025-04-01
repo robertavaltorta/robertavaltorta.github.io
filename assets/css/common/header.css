@@ -73,6 +73,7 @@ body:not(.dark) #sun {
     font-family: 'Red Hat Text', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
+    font-weight: bold
 }
 
 #menu .active {
