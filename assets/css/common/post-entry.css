@@ -56,7 +56,7 @@
 #}
 
 .post-entry .entry-header h2:hover {
-    text-decoration: underline; 
+    text-decoration: underline !important; 
 }
 
 .tag-entry .entry-cover {
