@@ -55,10 +55,6 @@
 # border: 1px solid var(--darkcolor);
 #}
 
-.post-entry .entry-header h2 {
-    text-decoration: none; 
-}
-
 .post-entry .entry-header h2:hover {
     text-decoration: underline; 
 }
