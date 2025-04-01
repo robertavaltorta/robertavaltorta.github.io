@@ -35,6 +35,10 @@
     font-family: 'Red Hat Text', sans-serif;
 }
 
+.entry-cover a:hover {
+    text-decoration: underline; 
+}
+
 .first-entry .entry-footer {
     font-size: 14px;
     font-family: 'Red Hat Text', sans-serif;
