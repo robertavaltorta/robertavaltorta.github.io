@@ -116,7 +116,7 @@ body:not(.dark) #sun {
     left: 0;
     width: 100%;
     z-index: 1000;     
-    background-color: var(--code-bg);  
+    background-color: #3498db;  
     }
     
     body {
@@ -141,7 +141,7 @@ body:not(.dark) #sun {
         top: 40px; 
         width: 100%;
 	max-width: 100%;
-        background-color: var(--code-bg);
+        background-color: #3498db;
         flex-direction: column;
         z-index: 10;	
     }
