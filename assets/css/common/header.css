@@ -18,9 +18,9 @@
     letter-spacing: 2px;
 }
 
- body {
-    margin-top: 60px; 
-    }
+main {
+    margin-top: var(--header-height); /* Usa la variabile per l'altezza della barra */
+}
 
 .logo,
 #menu {
