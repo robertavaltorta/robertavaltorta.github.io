@@ -14,6 +14,7 @@
     -webkit-line-clamp: 8;
     font-family: 'Petrona', serif;
     letter-spacing: 0.5px;
+    transition: text-decoration 0.3s ease;
 }
 
 .first-entry .entry-header h1 {
