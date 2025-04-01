@@ -18,6 +18,10 @@
     letter-spacing: 2px;
 }
 
+ body {
+    margin-top: 60px; 
+    }
+
 .logo,
 #menu {
     display: flex;
