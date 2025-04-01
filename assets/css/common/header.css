@@ -7,6 +7,7 @@
     width: 100%; 
     line-height: var(--header-height);
     background: #3498db;
+    position: fixed;
 }
 
 .nav a {
