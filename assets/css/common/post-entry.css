@@ -59,6 +59,10 @@
     text-decoration: underline; 
 }
 
+.post-entry .entry-header h2:focus {
+    text-decoration: none;
+}
+
 .tag-entry .entry-cover {
     display: none;
 }
