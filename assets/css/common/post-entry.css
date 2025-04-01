@@ -59,6 +59,26 @@
     text-decoration: underline; 
 }
 
+@media (pointer: coarse) {
+    .entry-header h2 {
+        cursor: pointer;  /* Cambia il cursore su dispositivi touch */
+    }
+
+    /* Aggiungi la sottolineatura al tocco su mobile */
+    .entry-header h2:active {
+        text-decoration: underline; /* Sottolineatura al tocco */
+    }
+
+    /* Disabilita la sottolineatura permanente su mobile */
+    .entry-header h2:hover {
+        text-decoration: none; /* Non lasciare la sottolineatura su mobile dopo il tocco */
+    }
+}
+
+
+
+
+
 .tag-entry .entry-cover {
     display: none;
 }
