@@ -74,6 +74,10 @@ body:not(.dark) #sun {
     letter-spacing: 2px;
 }
 
+#menu a:hover {
+    text-decoration: underline; 
+}
+
 #menu .active {
     border-bottom: 2px solid var(--darkcolor);
 }
