@@ -59,9 +59,9 @@
     text-decoration: underline; 
 }
 
-.post-entry .entry-header h2:focus,
-.post-entry .entry-header h2:active {
-    text-decoration: none;
+@media (pointer: coarse) {
+    .post-entry:hover .entry-header h2 {
+        text-decoration: none; }
 }
 
 .tag-entry .entry-cover {
