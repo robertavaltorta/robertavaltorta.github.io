@@ -137,7 +137,7 @@ body:not(.dark) #sun {
 
     #menu-nav {
         display: none;
-        position: absolute;
+        position: fixed;
         top: 40px; 
         width: 100%;
 	max-width: 100%;
