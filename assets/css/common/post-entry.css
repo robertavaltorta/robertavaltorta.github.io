@@ -55,7 +55,7 @@
 # border: 1px solid var(--darkcolor);
 #}
 
-.post-entry .entry-header:hover {
+.post-entry .entry-header h2:hover {
     text-decoration: underline; 
 }
 
