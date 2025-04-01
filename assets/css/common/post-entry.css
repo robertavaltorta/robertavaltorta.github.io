@@ -59,6 +59,11 @@
     text-decoration: underline; 
 }
 
+@media (pointer: coarse) {
+    .post-entry:hover .entry-header h2 {
+        text-decoration: none; }
+}
+
 .tag-entry .entry-cover {
     display: none;
 }
