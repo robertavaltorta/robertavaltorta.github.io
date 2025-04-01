@@ -18,8 +18,8 @@
     letter-spacing: 2px;
 }
 
-main {
-    margin-top: var(--header-height); /* Usa la variabile per l'altezza della barra */
+.main-content, main, .content {
+    margin-top: 60px; 
 }
 
 .logo,
