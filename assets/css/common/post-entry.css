@@ -99,7 +99,7 @@
     justify-content: space-between;
 }
 
-.entry-hint-parent h2:hover {
+.entry-hint-parent:hover {
     text-decoration: underline; 
 }
 
