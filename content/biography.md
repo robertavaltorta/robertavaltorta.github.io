@@ -4,5 +4,5 @@ From 2019, I was a postdoc at the University of Valle d'Aosta and the University
 
 <br>
 
-**<span style="color: #8A3502;">Latest News</span>**
+**<span style="color: #8A3502;font-family: Petrona; ">Latest News</span>**
 + prova
