@@ -5,6 +5,6 @@ From 2019, I was a postdoc at the University of Valle d'Aosta and the University
 <br>
 
 **<span style="color: #8A3502;font-family: Petrona;font-size: 24px;">Latest News</span>**
-+ Apr 2025: Starting a new postdoc at the University of Milano-Bicocca
-+ Feb 2025: New [paper] (publications/identity-and-inequality/) out in the Journal of Community and Applied Social Psychology!
-+ Dec 2024: New [paper] (publications/gender-stereotypes-in-sport-scale/) out in the International Journal of Sport and Exercise Psychology!
++ Apr 2025: Starting a new postdoc at the University of Milano-Bicocca!
++ Feb 2025: New [paper](publications/identity-and-inequality/) out in the Journal of Community and Applied Social Psychology.
++ Dec 2024: New [paper](publications/gender-stereotypes-in-sport-scale/) out in the International Journal of Sport and Exercise Psychology.
