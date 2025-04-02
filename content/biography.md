@@ -1,6 +1,6 @@
-I am a <span style="color: #8A3502;">**postdoctoral researcher**</span> and <span style="color: #8A3502;">**adjunct professor**</span> of applied social psychology at the University of Milano-Bicocca. I earned my PhD in Social Psychology from the same institution in 2019 with a project on **dehumanization**. During this period, I also spent time as a visiting researcher at Panteion University in Athens, where I contributed to studies on **dehumanization in political propaganda**.
+I am a **postdoctoral researcher** and **adjunct professor of Applied Social Psychology** at the University of Milano-Bicocca. I earned my PhD in Social Psychology from the same institution in 2019 with a project on **dehumanization**. During this period, I also spent time as a visiting researcher at Panteion University in Athens, where I contributed to studies on **dehumanization in political propaganda**.
 
-From 2019, I was a postdoc at the University of Valle d'Aosta and the University of Milano-Bicocca, while also teaching social and group psychology at the University of Trento. In these years, I have been focusing on dehumanization, along with other topics such as **gender stereotypes**, **socioeconomic inequality**, and **food sustainability**.
+From 2019, I was a postdoc at the University of Valle d'Aosta and the University of Milano-Bicocca, while also teaching Social and Group Psychology at the University of Trento. In these years, I have been focusing on dehumanization, along with other topics such as **gender stereotypes**, **socioeconomic inequality**, and **food sustainability**.
 
 <br>
 
