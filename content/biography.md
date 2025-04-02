@@ -4,5 +4,5 @@ From 2019, I was a postdoc at the University of Valle d'Aosta and the University
 
 <br>
 
-**<span style="color: #8A3502;font-family: Petrona; ">Latest News</span>**
-+ prova
+**<span style="color: #8A3502;font-family: Petrona;">Latest News</span>**
++ Feb 2025: New paper out in the Journal of Community and Applied Social Psychology! [See here](publications/identity-and-inequality/)
