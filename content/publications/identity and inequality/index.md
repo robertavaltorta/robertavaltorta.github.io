@@ -2,7 +2,7 @@
 title: "National identity and economic inequality: New insights from disadvantaged and advantaged groups" 
 date: 2025-02-24
 author: ["Valeria De Cristofaro", "Carmen Cervone", "Silvia Filippi", "Marco Marinucci", "Andrea Scatolon", <b>Roberta Rosa Valtorta</b>, "Michela Vezzoli", "Valerio Pellegrini"]
-summary: "This research examines how national identity influences system justification and joint collective action against economic inequality relating to socioeconomic status, ethnicity, and gender, while also exploring the role of national narcissism."
+summary: "This research examines how national identity influences system justification and joint collective action against inequality relating to socioeconomic status, ethnicity, and gender, while also exploring the role of national narcissism."
 cover:
     image: "identity-inequality.jpg"
     alt: "Woman with a sign that reads 'more equality, more love'"
