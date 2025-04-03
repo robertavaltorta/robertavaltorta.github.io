@@ -14,7 +14,7 @@ disableAnchoredHeadings: true
 
 Work represents one of the primary sources of expression of personal identity, and it is a significant means of self-presentation and self-definition. However, certain occupations are often accompanied by a **negative stigma** that can be projected onto the workers. Much research in the sociological domain has defined stigmatized work activities with the term "**dirty work**" by referring to occupations perceived as disgusting, degrading, or immoral.
 
-The current project explores the link between **tainted occupations** and **dehumanizing images of workers**, namely non-human representations of them. We have focused on **objectification** (i.e., the consideration of others as objects) and **biologization** (see also [this project](/projects/biologization/)) and have demonstrated that repetitive, fragmented, and other-directed activities lead to an objectified image of workers. Additionally, dirty work environments and feelings of disgust increase the association of workers with biological metaphors.
+The current project explores the link between **tainted occupations** and **dehumanizing images of workers**, namely non-human representations of them. We have focused on **objectification** (i.e., the consideration of others as objects) and **biologization** (see also [this project](/projects/biologization/)) and have demonstrated that repetitive, fragmented, and other-directed activities lead to an objectified image of workers. Also, dirty work environments and feelings of disgust increase the association of workers with biological metaphors.
 
 ------------------------------------------------------------------------
 
