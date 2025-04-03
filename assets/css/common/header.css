@@ -213,7 +213,14 @@ body:not(.dark) #sun {
 
 
 @media (pointer: coarse), (max-width: 360px) {
-    .nav a {
+ .hamburger {
+        width: 20px;
+        height: 20px;
+        display: flex;
+        margin: auto var(--gap);
+    }
+    
+  .nav a {
             display: none;
         }
 }
