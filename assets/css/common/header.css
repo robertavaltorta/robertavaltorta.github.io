@@ -6,7 +6,7 @@
     margin-inline-end: auto;
     width: 100%; 
     line-height: var(--header-height);
-    #background: var(--code-bg);
+    background: var(--code-bg);
 }
 
 .nav a {
@@ -69,7 +69,7 @@ body:not(.dark) #sun {
 
 #menu a {
     font-size: 16px;
-    font-weight: bold;
+    font-weight: 500;
     color: var(--darkcolor);
     font-family: 'Red Hat Text', sans-serif;
     text-transform: uppercase;
