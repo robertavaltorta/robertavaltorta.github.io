@@ -210,17 +210,3 @@ body:not(.dark) #sun {
         margin: auto var(--gap);
     }
 }
-
-
-@media (pointer: coarse), (max-width: 360px) {
- .hamburger {
-        width: 20px;
-        height: 20px;
-        display: flex;
-        margin: auto var(--gap);
-    }
-    
-  .nav a {
-            display: none;
-        }
-}
