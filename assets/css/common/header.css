@@ -209,5 +209,10 @@ body:not(.dark) #sun {
         display: flex;
         margin: auto var(--gap);
     }
+    .logo a {
+            display: none;
+        }
 }
+
+
 
