@@ -9,7 +9,7 @@ type: "page"
 
   <!-- social icons -->
  <div>
-    {{- partial "social_icons.html" -}}
+    {{- partials "social_icons.html" -}}
   </div>
 </div>
 
