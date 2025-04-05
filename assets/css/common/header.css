@@ -202,8 +202,16 @@ body:not(.dark) #sun {
     }
 }
 
-@media (pointer: coarse), (max-width: 320px) {
-    .hamburger {
+@media (pointer: coarse), (max-width: 350px) {
+ .logo a,
+  .nav a,
+  #menu a,
+  #menu-nav a {
+    font-size: 14px !important; 
+    letter-spacing: 0.5px; 
+  }    
+
+.hamburger {
         width: 20px;
         height: 20px;
         display: flex;
