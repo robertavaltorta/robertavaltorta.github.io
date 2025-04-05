@@ -6,8 +6,8 @@
 .post-title {
     margin-bottom: 20px;
     font-size: 36px;
-    font-family: 'Petrona', sans-serif;
-    #letter-spacing: 0.5px;
+    font-family: 'Petrona', serif;
+    letter-spacing: 0.5px;
 }
 
 .post-description {
