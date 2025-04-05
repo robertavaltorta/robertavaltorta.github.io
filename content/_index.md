@@ -7,7 +7,7 @@ layout: profile-mode
 <div style="margin-top: 40px;">
   <div style="text-align: left; margin-bottom: 0.5rem;">
     <img src="/picture.jpeg" alt="Roberta Rosa Valtorta" style="width:160px; border-radius: 50%; margin-bottom: 1rem;">
-    <h1 style="font-family: Red Hat Text; margin-bottom: 0;">Roberta Rosa Valtorta</h1>
+    <h1 style="font-family: Red Hat Text; margin-bottom: 0; font-weight: normal;">Roberta Rosa Valtorta</h1>
   </div>
 
 <!-- social icons -->
@@ -44,7 +44,6 @@ layout: profile-mode
     From 2019, I was a postdoc at the University of Valle d'Aosta and the University of Milano-Bicocca, while also teaching social and group psychology at the University of Trento. In these years, I have been focusing on dehumanization, along with other topics such as <strong>gender stereotypes</strong>, <strong>socioeconomic inequality</strong>, and <strong>food sustainability</strong>. <br><br>
   </p>
   
-------------------------------------------------------------------------
 
   <span style="color: #8A3502; font-family: 'Red Hat Text', sans-serif; font-size: 24px; font-weight: bold; margin-bottom: 0;">Latest News</span>
 
