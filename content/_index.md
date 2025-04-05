@@ -1,6 +1,7 @@
 ---
 title: "Roberta Rosa Valtorta"
 type: "page"
+layout: profile-mode
 ---
 
 <div style="text-align: left; margin-bottom: 2rem;">
