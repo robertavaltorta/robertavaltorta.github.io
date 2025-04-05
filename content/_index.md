@@ -8,8 +8,8 @@ type: "page"
   <h1 style="font-family: Red Hat Text;">Roberta Rosa Valtorta</h1>
 
   <!-- social icons -->
-  <div class="social-icons">
-    {{- range site.Params.socialIcons }}
+   <div class="social-icons">
+    {{- range .Site.Params.socialIcons }}
       <a href="{{ .url | safeURL }}" target="_blank" rel="noopener noreferrer" title="{{ .name }}">
         <i class="fab fa-{{ lower .name }}"></i>
       </a>
