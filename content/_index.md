@@ -30,7 +30,7 @@ type: "page"
   .news-list li {
     color: var(--primary);
     margin-top: 2px;
-    padding-left: 5px; 
+    padding-left: 2px; 
     list-style-type: disc;
   }
 </style>
