@@ -11,12 +11,14 @@ layout: profile-mode
   </div>
 
 <!-- social icons -->
-
-{{- range site.Params.socialIcons }}
-  <a href="{{ .url | safeURL }}" target="_blank" rel="noopener noreferrer">
-    {{ .name }}
-  </a>
-{{- end }}
+  <div class="social-icons">
+    {{- range site.Params.socialIcons }}
+      <a href="{{ .url | safeURL }}" target="_blank" rel="noopener noreferrer" title="{{ .name }}">
+        <i class="fab fa-{{ lower .name }}"></i>
+      </a>
+    {{- end }}
+  </div>
+</div>
 
 
 ------------------------------------------------------------------------
