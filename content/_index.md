@@ -13,6 +13,9 @@ layout: profile-mode
   <a href="https://scholar.google.it/citations?user=Cxtkt6cAAAAJ&hl=en" target="_blank">
     <i class="fa-brands fa-google-scholar"></i>
   </a>
+  <a href="https://scholar.google.it/citations?user=Cxtkt6cAAAAJ&hl=en" target="_blank">
+    <i class="fa-brands fa-google-scholar"></i>
+  </a>
 
 
 ---
