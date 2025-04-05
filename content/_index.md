@@ -20,7 +20,6 @@ layout: profile-mode
     <i class="fa-brands fa-researchgate" style="margin-right: 6px;"></i> ResearchGate
   </a>
 </div>
-
 ------------------------------------------------------------------------
 
   <p style="font-family: 'Red Hat Text', sans-serif;">
