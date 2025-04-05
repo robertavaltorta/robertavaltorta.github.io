@@ -11,11 +11,11 @@ type: "page"
 <div class="social-icons">
     {{- range site.Params.socialIcons }}
       <a href="{{ .url | safeURL }}" target="_blank" rel="noopener noreferrer">
-        {{ .name }}
+        <i class="fab fa-{{ .name | lower }}"></i>
       </a>
     {{- end }}
-  </div>
 </div>
+
 
 ---
 <p style="font-family: 'Red Hat Text', sans-serif;">
