@@ -33,7 +33,7 @@ layout: profile-mode
   </a>
   
   <a href="cv-valtorta.pdf" target="_blank" style="color: #8A3502;">
-    <i class="fa-light fa-file"></i>
+    <i class="fa-solid fa-file-png"></i>
   </a>
 </div>
 
