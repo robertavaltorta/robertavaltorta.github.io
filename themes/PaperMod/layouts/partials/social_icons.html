@@ -1,7 +1,8 @@
-<div class="social-icons">
-  {{- range site.Params.socialIcons }}
-    <a href="{{ .url | safeURL }}" target="_blank" rel="noopener noreferrer" title="{{ .name }}">
-      <i class="fab fa-{{ lower .name }}"></i>
+<div class="social-icons" {{ with .align}}align="{{.}}" {{- end }}>
+    {{- range site.Params.socialIcons }}
+    <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me"
+        title="{{ (.title | default .name) | title }}">
+        {{ partial "svg.html" . }}
     </a>
-  {{- end }}
+    {{- end }}
 </div>
