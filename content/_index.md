@@ -9,11 +9,12 @@ type: "page"
 
   <!-- social icons -->
 <div class="social-icons">
-  {{- range site.Params.socialIcons }}
-    <a href="{{ .url | safeURL }}" target="_blank" rel="noopener noreferrer">
-      {{ .name }}
-    </a>
-  {{- end }}
+    {{- range site.Params.socialIcons }}
+      <a href="{{ .url | safeURL }}" target="_blank" rel="noopener noreferrer">
+        {{ .name }}
+      </a>
+    {{- end }}
+  </div>
 </div>
 
 ---
