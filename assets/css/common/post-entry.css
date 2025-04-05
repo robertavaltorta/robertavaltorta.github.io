@@ -20,7 +20,7 @@
     font-size: 34px;
     line-height: 1.3;
     font-family: 'Red Hat Text', sans-serif;
-    #letter-spacing: 0.5px;
+    letter-spacing: -0.5px;
 }
 
 .first-entry .entry-content {
