@@ -8,14 +8,9 @@ type: "page"
   <h1 style="font-family: Petrona;">Roberta Rosa Valtorta</h1>
 
   <!-- social icons -->
-  <p>
-    <a href="https://scholar.google.it/citations?user=Cxtkt6cAAAAJ&hl=en" target="_blank">Google Scholar</a> |
-    <a href="https://orcid.org/0000-0003-0565-5463" target="_blank">ORCID</a> |
-    <a href="https://www.researchgate.net/profile/Roberta-Valtorta" target="_blank">ResearchGate</a> |
-    <a href="https://x.com/valtortaroberta" target="_blank">X</a> |
-    <a href="mailto:roberta.valtorta@unimib.it">Email</a> |
-    <a href="/cv-valtorta.pdf">CV</a>
-  </p>
+ <div>
+    {{- partial "social_icons.html" -}}
+  </div>
 </div>
 
 ---
