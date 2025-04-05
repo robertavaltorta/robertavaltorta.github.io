@@ -39,13 +39,13 @@ layout: profile-mode
 
 ------------------------------------------------------------------------
 
-  <p style="font-family: 'Petrona', sans-serif;">
+  <p style="font-family: 'Red Hat Text', sans-serif;">
     I am a <strong>postdoctoral researcher</strong> and <strong>adjunct professor of social psychology</strong> at the University of Milano-Bicocca, where I earned my PhD in 2019 with a project on <strong>dehumanization</strong>. During that period, I also spent time as a visiting researcher at Panteion University in Athens, working on <strong>dehumanization in political propaganda</strong>. <br><br> 
     From 2019, I was a postdoc at the University of Valle d'Aosta and the University of Milano-Bicocca, while also teaching social and group psychology at the University of Trento. In these years, I have been focusing on dehumanization, along with other topics such as <strong>gender stereotypes</strong>, <strong>socioeconomic inequality</strong>, and <strong>food sustainability</strong>. <br><br>
   </p>
   
 
-  <span style="color: #8A3502; font-family: 'Red Hat Text', sans-serif; font-size: 24px; font-weight: bold; margin-bottom: 0;">Latest News</span>
+  <span style="color: #8A3502; font-family: 'Petrona', sans-serif; font-size: 24px; font-weight: bold; margin-bottom: 0;">Latest News</span>
 
   <ul class="news-list post-content" style="padding-left: 30px; margin-top: 0; margin-bottom: 30px;">
     <li>Apr 2025: Starting a new postdoc at the University of Milano-Bicocca 🚀</li>
