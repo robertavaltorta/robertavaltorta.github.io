@@ -21,8 +21,8 @@ layout: profile-mode
 
   <span style="color: #8A3502; font-family: 'Red Hat Text', sans-serif; font-size: 24px; font-weight: bold; margin-bottom: 0;">Latest News</span>
   <ul class="news-list post-content" style="padding-left: 40px; margin-top: 0; margin-bottom: 40px;">
-    <li>Apr 2025: Starting a new postdoc at the University of Milano-Bicocca</li>
+    <li>Apr 2025: Starting a new postdoc at the University of Milano-Bicocca &#x1F680;</li>
     <li>Feb 2025: New <a href="publications/identity-and-inequality/">paper</a> out!</li>
-    <li>Dec 2024: The website is now live</li>
+    <li>Dec 2024: The website is now live &#x1F4BB;</li>
   </ul>
 </div>
