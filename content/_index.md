@@ -8,17 +8,6 @@ type: "page"
   <h1 style="font-family: Red Hat Text;">Roberta Rosa Valtorta</h1>
 
   <!-- social icons -->
-   <div class="social-icons">
-    {{- range .Site.Params.socialIcons }}
-      <a href="{{ .url | safeURL }}" target="_blank" rel="noopener noreferrer" title="{{ .name }}">
-        <i class="fab fa-{{ lower .name }}"></i>
-      </a>
-    {{- end }}
-  </div>
-</div>
-
-
-
 
 ---
 <p style="font-family: 'Red Hat Text', sans-serif;">
@@ -28,7 +17,7 @@ type: "page"
   <br><br>
 </p>
 
-<span style="color: #8A3502; font-family: Petrona; font-size: 28px;">**Latest News**</span>
+<span style="color: #8A3502; font-family: Red Hat Text; font-size: 28px;">**Latest News**</span>
 + Apr 2025: Starting a new postdoc at the University of Milano-Bicocca 
 + Feb 2025: New [paper](publications/identity-and-inequality/) out! 
 + Dec 2024: The website is now live
