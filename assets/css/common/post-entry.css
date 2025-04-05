@@ -71,7 +71,7 @@
 .entry-header h2 {
     font-size: 25px;
     line-height: var(--lineheight);
-    font-family: 'Petrona', serif;
+    font-family: 'Red Hat Text', sans-serif;
 }
 
 .entry-content {
