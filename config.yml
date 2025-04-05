@@ -47,12 +47,12 @@ params:
     comments: false
     math: true
     profileMode:
-          enabled: true
-          #title: Roberta Rosa Valtorta
+          enabled: false
+          title: Roberta Rosa Valtorta
           #subtitle: "postdoctoral researcher"
-          #imageUrl: "picture.jpeg"
-          #imageWidth: 160
-          #imageHeight: 160
+          imageUrl: "picture.jpeg"
+          imageWidth: 160
+          imageHeight: 160
           #buttons:
             #- name: CV
               #url: cv-valtorta.pdf

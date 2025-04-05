@@ -8,13 +8,7 @@ type: "page"
   <h1 style="font-family: Petrona;">Roberta Rosa Valtorta</h1>
 
   <!-- social icons -->
-<div class="social-icons">
-    {{- range site.Params.socialIcons }}
-      <a href="{{ .url | safeURL }}" target="_blank" rel="noopener noreferrer">
-        <i class="fab fa-{{ .name | lower }}"></i>
-      </a>
-    {{- end }}
-</div>
+
 
 
 ---
