@@ -10,6 +10,8 @@ layout: profile-mode
     <h1 style="font-family: Red Hat Text;">Roberta Rosa Valtorta</h1>
 
   <!-- social icons -->
+  	
+<i class="fa-brands fa-facebook"></i>
 
 ---
   <p style="font-family: 'Red Hat Text', sans-serif;">

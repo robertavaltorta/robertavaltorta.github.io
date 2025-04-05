@@ -180,8 +180,8 @@ body:not(.dark) #sun {
     	justify-content: space-around;
 	margin: auto var(--gap);
 	margin-left: auto;
-        width: 10px;
-        height: 10px;
+        width: 20px;
+        height: 20px;
         border: none;
         background: transparent;
         cursor: pointer;
@@ -197,15 +197,15 @@ body:not(.dark) #sun {
 
 @media (pointer: coarse), (max-width: 400px) {
     .hamburger {
-        width: 10px;
-        height: 10px;
+        width: 20px;
+        height: 20px;
     }
 }
 
 @media (pointer: coarse), (max-width: 320px) {
     .hamburger {
-        width: 10px;
-        height: 10px;
+        width: 20px;
+        height: 20px;
         display: flex;
         margin: auto var(--gap);
     }
