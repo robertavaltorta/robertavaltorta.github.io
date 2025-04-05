@@ -29,7 +29,8 @@ type: "page"
 
   .news-list li {
     color: var(--primary);
-    margin-top: 5px;
+    margin-top: 2px;
+    padding-left: 5px; 
     list-style-type: disc;
   }
 </style>
