@@ -53,4 +53,3 @@ layout: profile-mode
     <li>Dec 2024: The website is now live 🌐</li>
   </ul>
 </div>
-
