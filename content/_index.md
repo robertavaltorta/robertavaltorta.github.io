@@ -15,10 +15,13 @@ layout: profile-mode
   <a href="https://scholar.google.it/citations?user=Cxtkt6cAAAAJ&hl=en" target="_blank" style="color: #8A3502;">
     <i class="fa-brands fa-google-scholar"></i>
   </a>
-  
-   <a href="https://www.researchgate.net/profile/Roberta-Valtorta" target="_blank" style="color: #176F6F; text-decoration: none; font-family: 'Red Hat Text', sans-serif;">
-    <i class="fa-brands fa-researchgate" style="margin-right: 6px;"></i> ResearchGate
+   <a href="https://www.researchgate.net/profile/Roberta-Valtorta" target="_blank" style="color: #8A3502;">
+    <i class="fa-brands fa-researchgate" style="margin-right: 6px;"></i>
   </a>
+   <a href="https://orcid.org/0000-0003-0565-5463" target="_blank" style="color: #8A3502;">
+    <i class="fa-brands fa-orcid"> style="margin-right: 6px;"></i>
+  </a>
+  
 </div>
 ------------------------------------------------------------------------
 
