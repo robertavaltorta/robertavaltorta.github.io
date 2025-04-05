@@ -45,7 +45,7 @@ layout: profile-mode
   </p>
   
 
-  <span style="color: #8A3502; font-family: 'Petrona', sans-serif; font-size: 26px; font-weight: bold; margin-bottom: 0;">Latest News</span>
+  <span style="color: #8A3502; font-family: 'Petrona', serif; font-size: 26px; font-weight: bold; margin-bottom: 0;">Latest News</span>
 
   <ul class="news-list post-content" style="padding-left: 30px; margin-top: 0; margin-bottom: 30px;">
     <li>Apr 2025: Starting a new postdoc at the University of Milano-Bicocca 🚀</li>
