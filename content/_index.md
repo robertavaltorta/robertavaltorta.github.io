@@ -8,9 +8,8 @@ type: "page"
   <h1 style="font-family: Petrona;">Roberta Rosa Valtorta</h1>
 
   <!-- social icons -->
- <div>
-    {{- partials "social_icons.html" -}}
-  </div>
+<div class="social-icons">
+    {{- partial "social_icons.html" . }}
 </div>
 
 ---
