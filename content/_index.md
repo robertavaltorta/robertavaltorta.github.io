@@ -10,8 +10,10 @@ layout: profile-mode
     <h1 style="font-family: Red Hat Text;">Roberta Rosa Valtorta</h1>
 
   <!-- social icons -->
-  	
-<i class="fa-brands fa-facebook"></i>
+  <a href="https://scholar.google.it/citations?user=Cxtkt6cAAAAJ&hl=en" target="_blank">
+    <i class="fa-brands fa-google-scholar"></i>
+  </a>
+
 
 ---
   <p style="font-family: 'Red Hat Text', sans-serif;">
