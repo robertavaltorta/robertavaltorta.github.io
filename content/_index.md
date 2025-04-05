@@ -11,10 +11,15 @@ layout: profile-mode
   </div>
 
 <!-- social icons -->
-<a href="https://scholar.google.it/citations?user=Cxtkt6cAAAAJ&hl=en" target="_blank" style="color: #8A3502;">
-  <i class="fa-brands fa-google-scholar"></i>
-</a>
-
+<div style="display: flex; gap: 16px; align-items: center; margin-top: 10px;">
+  <a href="https://scholar.google.it/citations?user=Cxtkt6cAAAAJ&hl=en" target="_blank" style="color: #8A3502;">
+    <i class="fa-brands fa-google-scholar"></i>
+  </a>
+  
+   <a href="https://www.researchgate.net/profile/Roberta-Valtorta" target="_blank" style="color: #176F6F; text-decoration: none; font-family: 'Red Hat Text', sans-serif;">
+    <i class="fa-brands fa-researchgate" style="margin-right: 6px;"></i> ResearchGate
+  </a>
+</div>
 
 ------------------------------------------------------------------------
 
