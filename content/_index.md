@@ -18,7 +18,23 @@ type: "page"
 </p>
 
 <span style="color: #8A3502; font-family: 'Red Hat Text', sans-serif; font-size: 28px;">Latest News</span>
-<ul style="font-family: 'Red Hat Text', sans-serif;">
+
+<style>
+  .news-list {
+    font-family: 'Red Hat Text', sans-serif;
+    color: var(--primary);
+    padding-left: 20px;
+    list-style-position: inside;
+  }
+
+  .news-list li {
+    color: var(--primary);
+    margin-top: 5px;
+    list-style-type: disc;
+  }
+</style>
+
+<ul class="news-list">
   <li>Apr 2025: Starting a new postdoc at the University of Milano-Bicocca</li>
   <li>Feb 2025: New <a href="publications/identity-and-inequality/">paper</a> out!</li>
   <li>Dec 2024: The website is now live</li>
