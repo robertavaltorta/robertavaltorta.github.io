@@ -11,7 +11,7 @@ layout: profile-mode
   </div>
 
 <!-- social icons -->
-<div style="display: flex; gap: 16px; align-items: center; margin-top: 10px;">
+<div style="display: flex; gap: 16px; align-items: center; margin-top: 5px;">
   <a href="https://scholar.google.it/citations?user=Cxtkt6cAAAAJ&hl=en" target="_blank" style="color: #8A3502;">
     <i class="fa-brands fa-google-scholar"></i>
   </a>
@@ -23,6 +23,7 @@ layout: profile-mode
   </a>
   
 </div>
+
 ------------------------------------------------------------------------
 
   <p style="font-family: 'Red Hat Text', sans-serif;">
