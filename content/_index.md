@@ -23,15 +23,16 @@ type: "page"
   .news-list {
     font-family: 'Red Hat Text', sans-serif;
     color: var(--primary);
-    padding-left: 20px;
+    padding-left: 30px;
     list-style-position: inside;
   }
 
   .news-list li {
-    color: var(--primary);
+    color: var(--tertiary);
     margin-top: 2px;
-    padding-left: 2px; 
+    padding-left: 0px; 
     list-style-type: disc;
+    text-indent: -8px;
   }
 </style>
 
