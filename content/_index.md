@@ -15,13 +15,26 @@ layout: profile-mode
   <a href="https://scholar.google.it/citations?user=Cxtkt6cAAAAJ&hl=en" target="_blank" style="color: #8A3502;">
     <i class="fa-brands fa-google-scholar"></i>
   </a>
-   <a href="https://www.researchgate.net/profile/Roberta-Valtorta" target="_blank" style="color: #8A3502;">
+   
+  <a href="https://www.researchgate.net/profile/Roberta-Valtorta" target="_blank" style="color: #8A3502;">
     <i class="fa-brands fa-researchgate"></i>
   </a>
-   <a href="https://orcid.org/0000-0003-0565-5463" target="_blank" style="color: #8A3502;">
+   
+  <a href="https://orcid.org/0000-0003-0565-5463" target="_blank" style="color: #8A3502;">
     <i class="fa-brands fa-orcid"></i>
   </a>
+   
+  <a href="https://x.com/valtortaroberta" target="_blank" style="color: #8A3502;">
+    <i class="fa-brands fa-x-twitter"></i>
+  </a>
+    
+  <a href="mailto:roberta.valtorta@unimib.it" target="_blank" style="color: #8A3502;">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
   
+  <a href="cv-valtorta.pdf" target="_blank" style="color: #8A3502;">
+   <i class="fa-solid fa-file"></i>
+  </a>
 </div>
 
 ------------------------------------------------------------------------
