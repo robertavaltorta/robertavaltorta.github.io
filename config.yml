@@ -53,6 +53,8 @@ params:
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
+          extraBio: |
+            <p>Sono ricercatrice post-doc</p>
           #buttons:
             #- name: CV
               #url: cv-valtorta.pdf
