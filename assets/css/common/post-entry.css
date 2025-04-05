@@ -13,7 +13,7 @@
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 8;
     font-family: 'Red Hat Text', sans-serif;
-    letter-spacing: -0.5px;
+    #letter-spacing: 0.5px;
 }
 
 .first-entry .entry-header h1 {
@@ -72,6 +72,7 @@
     font-size: 25px;
     line-height: var(--lineheight);
     font-family: 'Red Hat Text', sans-serif;
+    letter-spacing: -0.5px;
 }
 
 .entry-content {
