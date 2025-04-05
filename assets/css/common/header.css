@@ -207,7 +207,6 @@ body:not(.dark) #sun {
  .nav a, 
  #menu a {
    font-size: 15px;
-   letter-spacing: 0.5px; 
   }    
 .hamburger {
    width: 20px;
