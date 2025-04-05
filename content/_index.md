@@ -20,11 +20,11 @@ type: "page"
 
 ---
 
-<p>I am a <strong>postdoctoral researcher</strong> and <strong>adjunct professor of social psychology</strong> at the University of Milano-Bicocca, where I earned my PhD in 2019 with a project on <strong>dehumanization</strong>. During that period, I also spent time as a visiting researcher at Panteion University in Athens, working on <strong>dehumanization in political propaganda</strong>.</p>
+I am a <strong>postdoctoral researcher</strong> and <strong>adjunct professor of social psychology</strong> at the University of Milano-Bicocca, where I earned my PhD in 2019 with a project on <strong>dehumanization</strong>. During that period, I also spent time as a visiting researcher at Panteion University in Athens, working on <strong>dehumanization in political propaganda</strong>.
+<br><br> <!-- 2 righe vuote -->
+From 2019, I was a postdoc at the University of Valle d'Aosta and the University of Milano-Bicocca, while also teaching social and group psychology at the University of Trento. In these years, I have been focusing on dehumanization, along with other topics such as <strong>gender stereotypes</strong>, <strong>socioeconomic inequality</strong>, and <strong>food sustainability</strong>.
+<br><br><br> <!-- 3 righe vuote -->
 
-<p>From 2019, I was a postdoc at the University of Valle d'Aosta and the University of Milano-Bicocca, while also teaching social and group psychology at the University of Trento. In these years, I have been focusing on dehumanization, along with other topics such as <strong>gender stereotypes</strong>, <strong>socioeconomic inequality</strong>, and <strong>food sustainability</strong>.</p>
-
-<p></p> 
 
 <span style="color: #8A3502; font-family: Petrona; font-size: 28px;">**Latest News**</span>
 + Apr 2025: Starting a new postdoc at the University of Milano-Bicocca 
