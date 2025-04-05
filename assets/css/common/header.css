@@ -204,7 +204,7 @@ body:not(.dark) #sun {
 
 @media (pointer: coarse), (max-width: 350px) {
  .logo a,
- .nav a 
+ .nav a, 
  #menu a {
    font-size: 15px;
    letter-spacing: 0.5px; 
