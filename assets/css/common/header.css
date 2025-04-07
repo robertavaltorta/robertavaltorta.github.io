@@ -1,12 +1,11 @@
 .nav {
   display: flex;
-  flex-wrap: wrap;
   justify-content: space-between;
-  margin-inline-start: auto;
-  margin-inline-end: auto;
+  margin-inline: auto;
   width: 100%;
   line-height: var(--header-height);
   background: var(--code-bg);
+  white-space: nowrap; /* Impedisce il ritorno a capo */
 }
 
 .nav a {
@@ -18,14 +17,9 @@
   font-weight: 500;
 }
 
-.logo,
-#menu {
+.logo, #menu {
   display: flex;
   margin: auto var(--gap);
-}
-
-.logo {
-  flex-wrap: inherit;
 }
 
 .logo a {
@@ -35,7 +29,6 @@
 
 .logo a img,
 .logo a svg {
-  display: inline;
   vertical-align: middle;
   pointer-events: none;
   transform: translate(0, -10%);
@@ -48,20 +41,14 @@ button#theme-toggle {
   margin: auto 0.25rem; /* 4px */
 }
 
-body.dark #moon {
-  vertical-align: middle;
-  display: none;
-}
-
-body:not(.dark) #sun {
-  display: none;
-}
+body.dark #moon { display: none; }
+body:not(.dark) #sun { display: none; }
 
 #menu {
   list-style: none;
   word-break: keep-all;
   overflow-x: auto;
-  white-space: nowrap;
+  white-space: nowrap; /* Evita che il menu vada a capo */
 }
 
 #menu li + li {
@@ -85,16 +72,13 @@ body:not(.dark) #sun {
   display: none;
 }
 
-.lang-switch li,
-.lang-switch ul,
-.logo-switches {
+.lang-switch li, .lang-switch ul, .logo-switches {
   display: inline-flex;
   margin: auto 0.25rem; /* 4px */
 }
 
 .lang-switch {
   display: flex;
-  flex-wrap: inherit;
 }
 
 .lang-switch a {
@@ -112,8 +96,7 @@ body:not(.dark) #sun {
 }
 
 @media (pointer: coarse), (max-width: 48rem) { /* 768px */
-  .header,
-  .nav {
+  .header, .nav {
     position: fixed;
     top: 0;
     left: 0;
@@ -143,7 +126,6 @@ body:not(.dark) #sun {
     position: absolute;
     top: 2.5rem; /* 40px */
     width: 100%;
-    max-width: 100%;
     background-color: var(--code-bg);
     flex-direction: column;
     z-index: 10;
@@ -204,9 +186,7 @@ body:not(.dark) #sun {
 }
 
 @media (pointer: coarse), (max-width: 21.875rem) { /* 350px */
-  .logo a,
-  .nav a,
-  #menu nav-li {
+  .logo a, .nav a, #menu nav-li {
     font-size: 1rem !important; /* 16px */
   }
 
