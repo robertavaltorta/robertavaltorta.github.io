@@ -15,11 +15,11 @@
 
 .pagination a {
     color: var(--theme);
-    font-size: 13px;
-    line-height: 36px;
+    font-size: 0.8125rem; /* 13px */
+    line-height: 2.25rem; /* 36px */
     background: var(--primary);
-    border-radius: calc(36px / 2);
-    padding: 0 16px;
+    border-radius: 1.125rem; /* 36px / 2 */
+    padding: 0 1rem; /* 16px */
     font-family: 'Red Hat Text', sans-serif;
 }
 
@@ -29,13 +29,12 @@
 
 .social-icons a {
     display: inline-flex;
-    /* margin-top: -30px; */
-    margin-right: 10px;
+    margin-right: 0.625rem; /* 10px */
 }
 
 .social-icons a svg {
-    height: 20px;
-    width: 20px;
+    height: 1.25rem; /* 20px */
+    width: 1.25rem;
     color: var(--darkcolor);
 }
 
@@ -45,9 +44,6 @@
 
 code {
     direction: ltr;
-}
-
-code {
     text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
@@ -62,13 +58,13 @@ pre {
 .copy-code {
     display: none;
     position: absolute;
-    top: 4px;
-    right: 4px;
+    top: 0.25rem; /* 4px */
+    right: 0.25rem;
     color: rgba(255, 255, 255, 0.8);
     background: rgba(78, 78, 78, 0.8);
     border-radius: var(--radius);
-    padding: 0 5px;
-    font-size: 14px;
+    padding: 0 0.3125rem; /* 5px */
+    font-size: 0.875rem; /* 14px */
     user-select: none;
 }
 

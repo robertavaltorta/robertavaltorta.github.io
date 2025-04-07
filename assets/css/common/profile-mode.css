@@ -3,6 +3,7 @@
     display: flex;
     justify-content: left;
 }
+
 .main .profile {
     margin-top: 0;
     align-items: center;
@@ -78,15 +79,15 @@
     gap: 1rem;
     font-family: 'Petrona', serif;
     font-variant: small-caps;
-    font-size: 22px;
+    font-size: 1.375rem; /* 22px */
     font-weight: bold;
-    letter-spacing: 1px;
+    letter-spacing: 0.0625rem; /* 1px */
 }
 
 .profile .profile_inner h1 {
-    font-size: 40px;
+    font-size: 2.5rem; /* 40px */
     font-family: 'Petrona', serif;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.03125rem; /* 0.5px */
     font-variant: normal;
     transform: translateY(0.5rem);
 }
@@ -100,24 +101,23 @@
 }
 
 .button {
-    #background: var(--tertiary);
     background: transparent;
-    border: 1.6px solid var(--darkcolor);
+    border: 0.1rem solid var(--darkcolor); /* 1.6px → ~0.1rem */
     color: var(--darkcolor);
     border-radius: var(--radius);
-    margin: 8px 16px 8px 0px;
-    padding: 3px;
+    margin: 0.5rem 1rem 0.5rem 0; /* 8px 16px 8px 0px */
+    padding: 0.1875rem; /* 3px */
     transition: transform 0.1s;
     font-family: 'Red Hat Text', sans-serif;
 }
 
 .button-inner {
-    padding: 0 8px;
+    padding: 0 0.5rem; /* 8px */
 }
 
 .button:hover {
     background: var(--darkcolor);
-    outline: 1.5px solid var(--darkcolor);
+    outline: 0.09375rem solid var(--darkcolor); /* 1.5px */
     color: white;
-    cursor:pointer;
+    cursor: pointer;
 }
