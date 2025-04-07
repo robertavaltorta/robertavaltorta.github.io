@@ -227,5 +227,13 @@ body:not(.dark) #sun {
     letter-spacing: 0.0625rem; /* 1px */
     font-weight: 500;
   }
+
+ .hamburger {
+    width: 1rem;
+    height: 1rem;
+    display: flex;
+    margin: auto var(--gap);
+  }
+
 }
 
