@@ -34,7 +34,7 @@ layout: profile-mode
 
 ------------------------------------------------------------------------
 
-<p style="font-family: 'Red Hat Text', sans-serif; font-size: 1.125rem; line-height: 1.6;">
+<p style="font-family: 'Red Hat Text', sans-serif; font-size: 1.125rem; line-height: 1.6; margin-bottom: 1.5rem;">
   I am a <strong>postdoctoral researcher</strong> and <strong>adjunct professor of social psychology</strong> at the University of Milano-Bicocca, where I earned my PhD in 2019 with a project on <strong>dehumanization</strong>. During that period, I also spent time as a visiting researcher at Panteion University in Athens, working on <strong>dehumanization in political propaganda</strong>.
   
   <span style="display: inline-block; margin-top: 0.75rem;">
