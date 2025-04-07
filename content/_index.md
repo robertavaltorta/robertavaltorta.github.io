@@ -7,7 +7,7 @@ layout: profile-mode
 <div style="margin-top: 2.5rem;">
   <div style="text-align: left; margin-bottom: 0.5rem;">
     <img src="/picture.jpeg" alt="Roberta Rosa Valtorta" style="width:10rem; border-radius: 50%; margin-bottom: 1rem;">
-    <h1 style="font-family: Petrona, serif; font-size: 2.25rem; margin-bottom: 0;">Roberta Rosa Valtorta</h1>
+    <h1 style="font-family: Petrona, serif; font-size: 2.5rem; margin-bottom: 0;">Roberta Rosa Valtorta</h1>
   </div>
 
 <!-- social icons -->
