@@ -218,4 +218,9 @@ body:not(.dark) #sun {
   }
 }
 
+@media (max-width: 20rem) { /* 320px in rem */
+  .logo a {
+    display: none !important; 
+  }
+}
 
