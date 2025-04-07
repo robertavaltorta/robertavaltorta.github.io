@@ -234,10 +234,5 @@ body:not(.dark) #sun {
     display: flex;
     margin: auto var(--gap);
   }
-
-.hamburger .line {
-    height: 0.125rem;    /* 2px */
-  }
-
 }
 
