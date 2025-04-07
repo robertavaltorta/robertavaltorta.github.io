@@ -235,5 +235,9 @@ body:not(.dark) #sun {
     margin: auto var(--gap);
   }
 
+.hamburger .line {
+    height: 0.125rem;    /* 2px */
+  }
+
 }
 
