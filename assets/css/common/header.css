@@ -219,17 +219,7 @@ body:not(.dark) #sun {
 }
 
 @media (max-width: 20rem) { /* 320px in rem */
- .logo a {
-    display: flex;
-    align-items: center;
-  }
-
-  .logo a::after {
-    content: "";
-    display: none;
-  }
-
-  .logo a span.logo-text {
-    display: none;
+  .logo-text {
+    display: none !important;
   }
 }
