@@ -218,16 +218,17 @@ body:not(.dark) #sun {
   }
 }
 
-@media (max-width: 20rem) { /* 320px in rem */
-  .nav a:not(.logo a) { 
-    display: none !important;
+@media (max-width: 20rem) { /* 320px */
+  .logo a {
+    display: flex;
+    align-items: center;
+  }
+
+  .logo a span {
+    display: none;  
   }
 
   .hamburger {
-    display: flex !important; 
-  }
-
-  #menu-nav {
-    display: block !important; 
+    display: flex;  
   }
 }
