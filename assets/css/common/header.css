@@ -217,18 +217,3 @@ body:not(.dark) #sun {
     margin: auto var(--gap);
   }
 }
-
-@media (max-width: 20rem) { /* 320px */
-  .logo a {
-    display: flex;
-  }
-
- .logo a span, 
-  .logo a { 
-    font-size: 0; 
-  }
-
-  .hamburger {
-    display: flex;  
-  }
-}
