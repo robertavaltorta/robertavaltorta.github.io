@@ -219,13 +219,17 @@ body:not(.dark) #sun {
 }
 
 @media (max-width: 20rem) { /* 320px in rem */
-  .nav a {
-    display: block;
-    font-size: 0.3125rem; /* 5px */
-    font-family: 'Red Hat Text', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 0.0625rem; /* 1px */
-    font-weight: 500;
+ .logo a {
+    display: flex;
+    align-items: center;
+  }
+
+  .logo a::after {
+    content: "";
+    display: none;
+  }
+
+  .logo a span.logo-text {
+    display: none;
   }
 }
-
