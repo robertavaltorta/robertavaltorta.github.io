@@ -219,7 +219,7 @@ body:not(.dark) #sun {
 }
 
 @media (max-width: 20rem) { /* 320px in rem */
-  .logo-text {
+  .nav a{
     display: none !important;
   }
 } 
