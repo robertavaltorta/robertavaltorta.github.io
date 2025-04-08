@@ -219,7 +219,15 @@ body:not(.dark) #sun {
 }
 
 @media (max-width: 20rem) { /* 320px in rem */
-  .nav a{
+  .nav a:not(.logo a) { 
     display: none !important;
   }
-} 
+
+  .hamburger {
+    display: flex !important; 
+  }
+
+  #menu-nav {
+    display: block !important; 
+  }
+}
