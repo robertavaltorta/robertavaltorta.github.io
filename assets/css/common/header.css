@@ -234,8 +234,7 @@ body:not(.dark) #sun {
 }
 
 @media (max-width: 15rem) { /* 240px in rem */
-  .logo a,
-  .nav a {
+  .logo a {
     display: none !important;
   }
 
@@ -249,8 +248,7 @@ body:not(.dark) #sun {
 
 
 @media (max-width: 11rem) { /* 176px in rem */
-  .logo a,
-  .nav a, {
+  .logo a {
     display: none !important; 
   }
 
