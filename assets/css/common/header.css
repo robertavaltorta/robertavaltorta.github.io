@@ -217,3 +217,18 @@ body:not(.dark) #sun {
     margin: auto var(--gap);
   }
 }
+
+@media (max-width: 20rem) { /* 320px in rem */
+  .logo a,
+  .nav a,
+  #menu nav-li {
+    font-size: 0.625rem !important; /* 10px */
+  }
+
+  .hamburger {
+    width: 0.875rem;   /* 14px */
+    height: 0.875rem;
+    display: flex;
+    margin: auto 0.25rem; /* più stretto */
+  }
+}
