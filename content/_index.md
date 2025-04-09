@@ -32,6 +32,7 @@ layout: profile-mode
   </a>
 </div>
 
+<hr style="border-top: 3px solid #8A3502; margin: 2rem 0;">
 ------------------------------------------------------------------------
 
 <p style="font-family: 'Red Hat Text', sans-serif; font-size: 1.125rem; line-height: 1.6; margin-bottom: 1.5rem;">
