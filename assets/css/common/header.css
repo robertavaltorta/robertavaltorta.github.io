@@ -230,7 +230,7 @@ body:not(.dark) #sun {
     height: 0.875rem;
     display: flex;
     margin: auto var(--gap);
-    align-self: flex-end;
+    align-items: flex-end;
   }
 }
 
@@ -244,7 +244,7 @@ body:not(.dark) #sun {
     height: 0.875rem;
     display: flex;
     margin: auto var(--gap);
-    align-self: flex-end;
+    align-items: flex-end;
   }
 }
 
