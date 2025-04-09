@@ -32,8 +32,7 @@ layout: profile-mode
   </a>
 </div>
 
-<hr style="border-top: 3px solid #8A3502; margin: 2rem 0;">
-------------------------------------------------------------------------
+<hr style="border-top: 3px solid #D3D3D3; margin: 2rem 0;">
 
 <p style="font-family: 'Red Hat Text', sans-serif; font-size: 1.125rem; line-height: 1.6; margin-bottom: 1.5rem;">
   I am a <strong>postdoctoral researcher</strong> and <strong>adjunct professor of social psychology</strong> at the University of Milano-Bicocca, where I earned my PhD in 2019 with a project on <strong>dehumanization</strong>. During that period, I also spent time as a visiting researcher at Panteion University in Athens, working on <strong>dehumanization in political propaganda</strong>.
