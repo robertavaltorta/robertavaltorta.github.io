@@ -233,33 +233,32 @@ body:not(.dark) #sun {
   }
 }
 
-/* Per schermi da 240px */
 @media (max-width: 15rem) { /* 240px in rem */
   .logo a,
   .nav a,
   #menu nav-li {
-    font-size: 0.8125rem !important; /* 13px */
+    display: none !important;
   }
 
-  .hamburger {
-    width: 0.75rem;   /* 12px */
-    height: 0.75rem;
+ .hamburger {
+    width: 0.875rem;   /* 14px */
+    height: 0.875rem;
     display: flex;
     margin: auto var(--gap);
   }
 }
 
-/* Per schermi da 176px */
+
 @media (max-width: 11rem) { /* 176px in rem */
   .logo a,
   .nav a,
   #menu nav-li {
-    font-size: 0.6875rem !important; /* 11px */
+    display: none !important; 
   }
 
   .hamburger {
-    width: 0.625rem;   /* 10px */
-    height: 0.625rem;
+    width: 0.875rem;   /* 14px */
+    height: 0.875rem;
     display: flex;
     margin: auto var(--gap);
   }
