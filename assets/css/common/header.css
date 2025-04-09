@@ -222,7 +222,7 @@ body:not(.dark) #sun {
   .logo a,
   .nav a,
   #menu nav-li {
-    font-size: 0.75rem !important; /* 12px */
+    font-size: 0.8125rem !important; /* 13px */
   }
 
   .hamburger {
