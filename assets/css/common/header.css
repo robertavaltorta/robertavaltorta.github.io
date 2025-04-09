@@ -229,7 +229,6 @@ body:not(.dark) #sun {
     width: 0.875rem;   /* 14px */
     height: 0.875rem;
     display: flex;
-    margin: auto 0.25rem; 
-    margin-left: 0 !important;
+    margin: auto var(--gap);
   }
 }
