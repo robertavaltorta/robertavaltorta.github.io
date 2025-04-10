@@ -60,13 +60,6 @@ params:
               #url: publications/
             #- name: Projects
               #url: projects/
-
-    images:
-      - "https://robertavaltorta.github.io/picture.jpeg"
-    ogTitle: "Roberta Rosa Valtorta"
-    ogDescription: "PhD in Social Psychology | Ricerca, pubblicazioni e progetti"
-    ogImage:  "https://robertavaltorta.github.io/picture.jpeg"
-    twitterCard: "summary_large_image"
     
     socialIcons:
         - name: Google Scholar
