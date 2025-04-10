@@ -16,7 +16,7 @@ Work represents one of the primary sources of expression of personal identity, a
 
 The current project explores the link between **tainted occupations** and **dehumanizing images of workers**, namely non-human representations of them. We have focused on **objectification** (i.e., the consideration of others as objects) and **biologization** (see also [this project](/projects/biologization/)) and have demonstrated that repetitive, fragmented, and other-directed activities lead to an objectified image of workers. Also, dirty work environments and feelings of disgust increase the association of workers with biological metaphors.
 
-These findings can contribute to improving workplace policies and public discourse around stigmatized professions. Understanding how certain job features foster dehumanizing perceptions can support efforts to enhance workers' dignity, inform training for managers and HR professionals, and guide communication strategies aimed at reducing occupational stigma.
+These findings can contribute to **improving workplace policies and public discourse** around stigmatized professions. Understanding how certain job features foster dehumanizing perceptions can support efforts to **enhance workers' dignity**, inform **training for managers and HR professionals**, and guide **communication strategies** aimed at reducing occupational stigma.
 
 ------------------------------------------------------------------------
 
