@@ -48,8 +48,8 @@ twitter-title: "Roberta Rosa Valtorta"
 <span style="color: #8A3502; font-family: 'Petrona', serif; font-size: 1.625rem; font-weight: bold; margin-bottom: 0;">Latest News</span>
 
 <ul class="news-list post-content" style="padding-left: 1.875rem; margin-top: 0; margin-bottom: 1.875rem; font-size: 1.125rem;">
-  <li>Apr 2025: Starting a new postdoc at the University of Milano-Bicocca 🚀</li>
+  <li>Apr 2025: Starting a new postdoc at the University of Milano-Bicocca &#128640;</li>
   <li>Feb 2025: New <a href="publications/identity-and-inequality/">paper</a> out!</li>
-  <li>Dec 2024: The website is now live 🌐</li>
+  <li>Dec 2024: The website is now live &#127760;</li>
 </ul>
 </div>
