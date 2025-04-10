@@ -10,6 +10,12 @@ enableEmoji: true
 taxonomies:
     tag: tags
 
+twitter-card:
+    title: Roberta Rosa Valtorta
+    description: |
+      Researcher, educator, and journalist with data science expertise.
+    #image: assets/silvia/img/silvia-social.png
+    
 menu:
     main:
         - name: CV
