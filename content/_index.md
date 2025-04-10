@@ -2,6 +2,7 @@
 title: "Roberta Rosa Valtorta"
 type: "page"
 layout: profile-mode
+description: "Postdoctoral researcher and adjunct professor of social psychology"
 ---
 
 <div style="margin-top: 2rem;">
