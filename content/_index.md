@@ -1,10 +1,8 @@
 ---
 title: "Roberta Rosa Valtorta"
+description: "Postdoctoral researcher and adjunct professor of social psychology"
 type: "page"
 layout: profile-mode
-description: "Postdoctoral researcher and adjunct professor of social psychology"
-twitter-description: "Postdoctoral researcher and adjunct professor of social psychology."
-twitter-title: "Roberta Rosa Valtorta"
 ---
 
 <div style="margin-top: 2rem;">
