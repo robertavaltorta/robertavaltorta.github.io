@@ -4,7 +4,7 @@ theme: PaperMod
 paginate: 5
 
 enableInlineShortcodes: true
-enableRobotsTXT: 
+enableRobotsTXT: true
 enableEmoji: true
 
 taxonomies:
@@ -84,6 +84,12 @@ params:
       text: "Roberta Rosa Valtorta"
       icon: favicon.ico
       iconHeight: 18
+    #images:
+      #- "https://robertavaltorta.github.io/picture.jpeg"
+    ogTitle: "Roberta Rosa Valtorta"
+    ogDescription: "PhD in Social Psychology | Ricerca, pubblicazioni e progetti"
+    #ogImage:  "https://robertavaltorta.github.io/picture.jpeg"
+    twitterCard: "summary_large_image"
 
 markup:
     goldmark:
