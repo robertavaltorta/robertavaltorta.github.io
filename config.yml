@@ -23,7 +23,7 @@ menu:
           weight: 3
 
 params:
-    description: "PhD in Social Psychology"
+    #description: "PhD in Social Psychology"
     author: Roberta Rosa Valtorta
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
