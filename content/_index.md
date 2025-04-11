@@ -1,6 +1,6 @@
 ---
 title: "Roberta Rosa Valtorta"
-description: "Postdoctoral researcher and adjunct professor of social psychology"
+description: "Postdoctoral researcher and adjunct professor of social psychology" 
 ---
 
 <div style="margin-top: 2rem;">
