@@ -13,7 +13,7 @@ taxonomies:
 menu:
     main:
         - name: CV
-          url: cv-valtorta.pdf
+          url: "<a href='cv-valtorta.pdf' target='_blank'>CV</a>"
           weight: 1
         - name: Publications
           url: publications/
