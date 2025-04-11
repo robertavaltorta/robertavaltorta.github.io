@@ -18,7 +18,7 @@ This line of research investigates biologization by examining its **antecedents*
 
 Currently, we are deepening our understanding of biologization by studying its manifestation toward the **homeless population**. Additionally, we are expanding the research to include the phenomenon of "**self-biologization**," which is the internalization of biological dehumanization. In doing this, we are employing innovative methods such as **360-degree videos** and **virtual reality headsets**, allowing participants to engage with immersive scenarios that provide unique insights into these processes.
 
-By identifying the mechanisms underlying biologization, these findings can inform **anti-discrimination campaigns** and **training programs** for professionals working in social services and education. Moreover, our use of immersive technologies opens new pathways for developing **empathy-based interventions** that can reduce dehumanizing perceptions and promote social reintegration of marginalized groups.
+By identifying the mechanisms underlying biologization, our findings can inform **anti-discrimination campaigns** and **training programs** for professionals working in social services and education. Moreover, the use of immersive technologies opens new pathways for developing **empathy-based interventions** that can reduce dehumanizing perceptions and promote social reintegration of marginalized groups.
 
 ------------------------------------------------------------------------
 
