@@ -1,6 +1,6 @@
 @media (min-width: 2000px) {
   .main {
-    max-width: 1800px;   }
+    max-width: 1000px;   }
   body {
     font-size: clamp(1rem, 1.5vw, 1.25rem); 
   }
