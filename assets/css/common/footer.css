@@ -4,6 +4,22 @@
   color: var(--secondary);
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+  padding-bottom: 3rem;
+}
+
 .footer {
   margin-top: auto;
   padding: calc((var(--footer-height) - var(--gap)) / 2) var(--gap);
@@ -59,20 +75,5 @@
   outline: 0;
 }
 
-html, body {
-  height: 100%;
-  margin: 0;
-}
-
-body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-}
-
-main {
-  flex: 1;
-  padding-bottom: 3rem;
-}
 
 
