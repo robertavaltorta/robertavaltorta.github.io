@@ -1,3 +1,12 @@
+@media (min-width: 1500px) {
+  .main {
+    max-width: 1400px; 
+  }
+  body {
+    font-size: 1rem; 
+  }
+}
+
 body {
   display: flex;
   flex-direction: column;
