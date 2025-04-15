@@ -1,9 +1,8 @@
-@media (min-width: 1500px) {
+@media (min-width: 2000px) {
   .main {
-    max-width: 800px; 
-  }
+    max-width: 1800px;   }
   body {
-    font-size: 1rem; 
+    font-size: clamp(1rem, 1.5vw, 1.25rem); 
   }
 }
 
