@@ -66,4 +66,5 @@ body {
 
 main, .main {
   flex-grow: 1;
+  min-height: calc(100vh - var(--footer-height));
 }
