@@ -1,6 +1,7 @@
 ---
 title: "Roberta Rosa Valtorta"
 description: "Postdoctoral researcher and adjunct professor of social psychology."
+images: ["preview.png"]
 type: "page"
 layout: profile-mode
 ---
