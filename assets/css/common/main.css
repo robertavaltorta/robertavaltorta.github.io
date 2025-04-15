@@ -72,13 +72,3 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
-
-body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-}
-
-main, .main {
-  flex-grow: 1;
-}
