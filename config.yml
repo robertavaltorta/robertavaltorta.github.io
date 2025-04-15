@@ -24,6 +24,7 @@ menu:
 
 params:
     description: "Postdoctoral researcher and adjunct professor of social psychology."
+    images: ["preview.png"]
     author: Roberta Rosa Valtorta
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
