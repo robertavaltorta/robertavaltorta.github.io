@@ -10,10 +10,7 @@ body {
 }
 
 main {
+  padding-top: 2rem;
   flex-grow: 1;
   padding-bottom: 2rem; 
-}
-
-.main-home {
-  padding-top: 2rem;
 }
