@@ -17,6 +17,16 @@
   margin-inline-end: 0.0625rem; /* 1px */
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main, .main {
+  flex-grow: 1;
+}
+
 .footer span:last-child {
   white-space: nowrap;
 }
