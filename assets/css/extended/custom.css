@@ -1,5 +1,3 @@
-@media (min-width: 2000px) {
-  .main {
-    max-width: 1400px;
-  }
+.main {
+  max-width: clamp(900px, 80vw, 1400px);
 }
