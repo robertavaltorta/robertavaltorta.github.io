@@ -4,7 +4,7 @@ description: "Postdoctoral researcher and adjunct professor of social psychology
 type: "page"
 layout: profile-mode
 ---
-<main style="flex: 1;">
+
 <div style="margin-top: 2rem;">
   <div style="text-align: left; margin-bottom: 0.5rem;">
     <img src="/picture.jpeg" alt="Roberta Rosa Valtorta" style="width:10rem; border-radius: 50%; margin-bottom: 1rem;">
@@ -51,4 +51,3 @@ layout: profile-mode
   <li>Dec 2024: The website is now live &#127760;</li>
 </ul>
 </div>
-</main>
