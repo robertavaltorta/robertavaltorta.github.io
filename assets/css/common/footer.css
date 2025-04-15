@@ -5,7 +5,7 @@
 }
 
 .footer {
-  margin: auto;
+  margin-top: auto;
   padding: calc((var(--footer-height) - var(--gap)) / 2) var(--gap);
   text-align: center;
   line-height: 1.25rem; /* 20px */
