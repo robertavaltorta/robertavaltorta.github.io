@@ -2,4 +2,13 @@
   max-width: clamp(900px, 70vw, 1400px);
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
 
