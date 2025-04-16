@@ -2,8 +2,7 @@
     position: relative;
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
-    padding: var(--gap);
-    flex: 1 0 auto;
+
 }
 
 .page-header h1 {
