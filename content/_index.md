@@ -5,14 +5,14 @@ type: "page"
 layout: profile-mode
 ---
 
-<div style="margin-top: 2rem;">
-  <div style="text-align: left; margin-bottom: 0.5rem;">
-    <img src="/picture.jpeg" alt="Roberta Rosa Valtorta" style="width:10rem; border-radius: 50%; margin-bottom: 1rem;">
-    <h1 style="font-family: Petrona, serif; font-size: 2.5rem; margin-bottom: 0;">Roberta Rosa Valtorta</h1>
+<div style="margin-top: 32px;">
+  <div style="text-align: left; margin-bottom: 8px;">
+    <img src="/picture.jpeg" alt="Roberta Rosa Valtorta" style="width: 160px; border-radius: 50%; margin-bottom: 16px;">
+    <h1 style="font-family: Petrona, serif; font-size: 40px; margin-bottom: 0;">Roberta Rosa Valtorta</h1>
   </div>
 
 <!-- social icons -->
-<div style="display: flex; gap: 0.75rem; align-items: center; margin-top: 0px; margin-bottom: 1.625rem;">
+<div style="display: flex; gap: 12px; align-items: center; margin-top: 0px; margin-bottom: 26px;">
   <a href="https://scholar.google.it/citations?user=Cxtkt6cAAAAJ&hl=en" target="_blank" style="color: #8A3502;">
     <i class="fa-brands fa-google-scholar"></i>
   </a>
@@ -35,19 +35,19 @@ layout: profile-mode
 
 ------------------------------------------------------------------------
 
-<p style="font-family: 'Red Hat Text', sans-serif; font-size: 1.125rem; line-height: 1.6; margin-bottom: 1.5rem;">
+<p style="font-family: 'Red Hat Text', sans-serif; font-size: 18px; line-height: 1.6; margin-bottom: 24px;">
   I am a <strong>postdoctoral researcher</strong> and <strong>adjunct professor of social psychology</strong> at the University of Milano-Bicocca, where I earned my PhD in 2019 with a project on <strong>dehumanization</strong>. During that period, I also spent time as a visiting researcher at Panteion University in Athens, working on <strong>dehumanization in political propaganda</strong>.
   
-  <span style="display: inline-block; margin-top: 0.75rem;">
+  <span style="display: inline-block; margin-top: 12px;">
     From 2019, I was a postdoc at the University of Valle d'Aosta and the University of Milano-Bicocca, while also teaching social and group psychology at the University of Trento. In these years, I have been focusing on dehumanization, along with other topics such as <strong>gender stereotypes</strong>, <strong>socioeconomic inequality</strong>, and <strong>food sustainability</strong>.
   </span>
 </p>
 
-<span style="color: #8A3502; font-family: 'Petrona', serif; font-size: 1.625rem; font-weight: bold; margin-bottom: 0;">Latest News</span>
+<span style="color: #8A3502; font-family: 'Petrona', serif; font-size: 26px; font-weight: bold; margin-bottom: 0;">Latest News</span>
 
-<ul class="news-list post-content" style="padding-left: 1.875rem; margin-top: 0; margin-bottom: 1.875rem; font-size: 1.125rem;">
-  <li>Apr 2025: Starting a new postdoc at the University of Milano-Bicocca &#128640;</li>
+<ul class="news-list post-content" style="padding-left: 30px; margin-top: 0; margin-bottom: 30px; font-size: 18px;">
+  <li>Apr 2025: Starting a new postdoc at the University of Milano-Bicocca 🚀</li>
   <li>Feb 2025: New <a href="publications/identity-and-inequality/">paper</a> out!</li>
-  <li>Dec 2024: The website is now live &#127760;</li>
+  <li>Dec 2024: The website is now live 🌐</li>
 </ul>
 </div>
