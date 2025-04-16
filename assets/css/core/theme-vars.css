@@ -1,11 +1,11 @@
 :root {
-  --gap: 1.5rem;              /* 24px */
-  --content-gap: 1.25rem;     /* 20px */
-  --nav-width: 64rem;         /* 1024px */
-  --main-width: 45rem;        /* 720px */
-  --header-height: 2.75rem;   /* 44px */
-  --footer-height: 4.375rem;  /* 70px */
-  --radius: 0.5rem;           /* 8px */
+  --gap: 24px;              /* 1.5rem */
+  --content-gap: 20px;     /* 1.25rem */
+  --nav-width: 1024px;         /* 64rem */
+  --main-width: 720px;        /* 45rem */
+  --header-height: 44px;   /* 2.75rem */
+  --footer-height: 70px;  /* 4.375rem */
+  --radius: 8px;           /* 0.5rem */
 
   --theme: rgb(255, 255, 255);
   --entry: rgb(255, 255, 255);
@@ -22,16 +22,16 @@
 
   --semibold: 500;
 
-  --homesize: 1.0625rem;      /* 17px */
-  --textsize: 1.125rem;       /* 18px */
-  --h1size: 1.5625rem;        /* 25px */
-  --entrysize: 0.9375rem;     /* 15px */
-  --headersize: 1rem;         /* 16px */
-  --footersize: 0.8125rem;    /* 13px */
+  --homesize: 17px;      /* 1.0625rem */
+  --textsize: 18px;       /* 1.125rem */
+  --h1size: 25px;        /* 1.5625rem */
+  --entrysize: 15px;     /* 0.9375rem */
+  --headersize: 16px;         /* 1rem */
+  --footersize: 13px;    /* 0.8125rem */
 
   --lineheight: 1.45;
   --lineclamp: 8;
-  --marginleft: 1.625rem;     /* 26px */
+  --marginleft: 26px;     /* 1.625rem */
 }
 
 .dark {
