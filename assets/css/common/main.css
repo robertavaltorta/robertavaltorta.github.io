@@ -2,7 +2,7 @@
     position: relative;
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
-    padding: var(--gap);
+    padding: 0 var(--gap);
     border: 1px dashed red;
 }
 
