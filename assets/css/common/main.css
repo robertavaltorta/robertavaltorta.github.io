@@ -16,11 +16,11 @@
 
 .pagination a {
     color: var(--theme);
-    font-size: 0.8125rem; /* 13px */
-    line-height: 2.25rem; /* 36px */
+    font-size: 13px; /* 0.8125rem */
+    line-height: 36px; /* 2.25rem */
     background: var(--primary);
-    border-radius: 1.125rem; /* 36px / 2 */
-    padding: 0 1rem; /* 16px */
+    border-radius: cal(36px / 2)
+    padding: 0 16px; /* 1rem */
     font-family: 'Red Hat Text', sans-serif;
 }
 
@@ -30,7 +30,7 @@
 
 .social-icons a {
     display: inline-flex;
-    margin-right: 0.625rem; /* 10px */
+    margin-right: 10px; /* 0.625rem */
 }
 
 .social-icons a svg {
@@ -59,13 +59,13 @@ pre {
 .copy-code {
     display: none;
     position: absolute;
-    top: 0.25rem; /* 4px */
-    right: 0.25rem;
+    top: 4px; /* 0.25rem */
+    right: 4px;
     color: rgba(255, 255, 255, 0.8);
     background: rgba(78, 78, 78, 0.8);
     border-radius: var(--radius);
-    padding: 0 0.3125rem; /* 5px */
-    font-size: 0.875rem; /* 14px */
+    padding: 0 5px; 
+    font-size: 14px;
     user-select: none;
 }
 

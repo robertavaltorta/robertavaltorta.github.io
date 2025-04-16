@@ -8,14 +8,14 @@
   margin: auto;
   padding: calc((var(--footer-height) - var(--gap)) / 2) var(--gap);
   text-align: center;
-  line-height: 1.25rem; /* 20px */
+  line-height: 20px; /* 1.25rem */
   background: var(--code-bg);
   font-family: 'Red Hat Text', sans-serif;
 }
 
 .footer span {
-  margin-inline-start: 0.0625rem; /* 1px */
-  margin-inline-end: 0.0625rem; /* 1px */
+  margin-inline-start: 1px; /* 0.0625rem */
+  margin-inline-end: 1px; /* 0.0625rem */
 }
 
 .footer span:last-child {
@@ -27,20 +27,20 @@
 }
 
 .footer a:hover {
-  border-bottom: 0.125rem solid var(--darkcolor); /* 2px */
+  border-bottom: 2px solid var(--darkcolor); /* 0.125rem */
 }
 
 .top-link {
   visibility: hidden;
   position: fixed;
-  bottom: 3.75rem; /* 60px */
-  right: 1.875rem; /* 30px */
+  bottom: 60px; /* 3.75rem */
+  right: 30px; /* 1.875rem */
   z-index: 99;
   background: var(--tertiary);
-  width: 2.625rem; /* 42px */
-  height: 2.625rem; /* 42px */
-  padding: 0.75rem; /* 12px */
-  border-radius: 4rem; /* 64px */
+  width: 42px; /* 2.625rem */
+  height: 42px; /* 2.625rem */
+  padding: 12px; /* 0.75rem */
+  border-radius: 64px; /* 4rem */
   transition: visibility 0.5s, opacity 0.8s linear;
 }
 
