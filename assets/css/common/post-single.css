@@ -19,7 +19,6 @@
 
 .post-meta,
 .breadcrumbs {
-    color: var(--secondary);
     font-size: 15px;
     font-family: 'Red Hat Text', sans-serif;
     color: var(--primary);
@@ -89,8 +88,7 @@
 .post-meta a,
 .toc a {
     box-shadow: 0 1.5px 0 var(--darkcolor); 
-    color: var(--darkcolor); 
-    #transition: all 0.3s ease; 
+    color: var(--darkcolor);  
 }
 
 .post-content a:hover,
