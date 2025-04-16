@@ -2,7 +2,8 @@
     position: relative;
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
-    padding: 1rem var(--gap);
+    padding: var(--gap);
+    border: 1px dashed red;
 }
 
 .page-header h1 {
