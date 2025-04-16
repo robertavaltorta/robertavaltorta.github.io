@@ -6,7 +6,7 @@
 
 .footer {
   margin-top: auto;
-  padding: calc(var(--gap) / 2) var(--gap);
+  padding: 1rem var(--gap);
   text-align: center;
   line-height: 1.25rem; /* 20px */
   background: var(--code-bg);
