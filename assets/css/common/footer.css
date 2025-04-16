@@ -71,6 +71,12 @@ body {
   min-height: 100vh;
 }
 
-main, .main {
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.main {
   flex: 1;
 }
