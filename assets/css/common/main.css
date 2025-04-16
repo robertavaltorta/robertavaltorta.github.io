@@ -19,7 +19,7 @@
     font-size: 13px; /* 0.8125rem */
     line-height: 36px; /* 2.25rem */
     background: var(--primary);
-    border-radius: cal(36px / 2)
+    border-radius: calc(36px / 2)
     padding: 0 16px; /* 1rem */
     font-family: 'Red Hat Text', sans-serif;
 }
