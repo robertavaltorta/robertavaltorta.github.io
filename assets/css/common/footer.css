@@ -5,6 +5,7 @@
 }
 
 .footer {
+  margin-top: auto;
   padding: calc((var(--footer-height) - var(--gap)) / 2) var(--gap);
   text-align: center;
   line-height: 1.25rem; /* 20px */
@@ -56,4 +57,20 @@
 .top-link:focus,
 #theme-toggle:focus {
   outline: 0;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main, .main {
+  flex: 1;
 }
