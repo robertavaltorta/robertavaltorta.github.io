@@ -4,7 +4,7 @@
     margin: auto;
     padding: var(--gap);
     flex: 1;
-    margin-bottom: calc(var(--footer-height) - var(--gap) / 2);
+    margin-bottom: 0;
 }
 
 .page-header h1 {
