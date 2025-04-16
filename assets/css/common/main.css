@@ -4,6 +4,7 @@
     margin: auto;
     padding: var(--gap);
     flex: 1;
+    display: flex;
 }
 
 .page-header h1 {
