@@ -3,7 +3,6 @@
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
     padding: var(--gap);
-    height: auto;
 }
 
 .page-header h1 {
