@@ -34,8 +34,8 @@
 }
 
 .social-icons a svg {
-    height: 1.25rem; /* 20px */
-    width: 1.25rem;
+    height: 20px; /* 1.25rem */
+    width: 20px;
     color: var(--darkcolor);
 }
 
@@ -44,7 +44,6 @@
 }
 
 code {
-    direction: ltr;
     text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
