@@ -19,11 +19,11 @@ layout: profile-mode
   <a href="https://www.researchgate.net/profile/Roberta-Valtorta" target="_blank" style="color: #8A3502;">
     <i class="fa-brands fa-researchgate"></i>
   </a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=57189273896" target="_blank" style="color: #8A3502;">
-    <i class="fa-solid fa-book"></i>
-  </a>
   <a href="https://orcid.org/0000-0003-0565-5463" target="_blank" style="color: #8A3502;">
     <i class="fa-brands fa-orcid"></i>
+  </a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57189273896" target="_blank" style="color: #8A3502;">
+    <i class="fa-solid fa-book"></i>
   </a>
   <a href="https://x.com/valtortaroberta" target="_blank" style="color: #8A3502;">
     <i class="fa-brands fa-x-twitter"></i>
